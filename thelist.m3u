@@ -1,81 +1,129 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="DE: Sport",DE: AUTO MOTOR SPORT HD
-http://194.88.107.101:6204/live/zanyar/zanyar/12356.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/867.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 1 (1+) HD
-http://62.138.7.220:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/850.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 1 (2+) HD
-http://pr01.donvolga.com:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/850.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 1 (3+) HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/850.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/868.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 2 (1+) HD
-http://62.138.7.220:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/851.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 2 (2+) HD
-http://pr01.donvolga.com:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/851.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: EUROSPORT 2 (3+) HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/851.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: MOTORVISION HD
-http://194.88.107.101:6204/live/zanyar/zanyar/12355.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: ORF SPORT HD
-http://194.88.107.101:6204/live/zanyar/zanyar/12194.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/846.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/847.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 1 (1+) HD
-http://62.138.7.220:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/842.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 1 (2+) HD
-http://pr01.donvolga.com:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/842.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 1 (3+) HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/842.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 10 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/856.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 2 HD
-http://62.138.7.220:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/843.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 2 (1+) HD
-http://pr01.donvolga.com:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/843.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 2 (2+) HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/843.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 4 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/850.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 5 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/851.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 6 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/852.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 7 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/853.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 8 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/854.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 9 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/855.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT 9 (1+) HD
-http://iptv.efsane365.com:80/live/koralp/123456/13146.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT BUNDESLIGA 1 HD
-http://iptv.efsane365.com:80/live/koralp/123456/13141.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT BUNDESLIGA 2 
-http://iptv.efsane365.com:80/live/koralp/123456/13136.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT BUNDESLIGA 3 HD
-http://iptv.efsane365.com:80/live/koralp/123456/13135.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT BUNDESLIGA 5 
-http://iptv.efsane365.com:80/live/koralp/123456/13127.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT BUNDESLIGA 7 HD
-http://iptv.efsane365.com:80/live/koralp/123456/13123.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT NEWS HD
-http://62.138.7.220:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/841.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT NEWS (1+) HD
-http://pr01.donvolga.com:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/841.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT NEWS (2+) HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/841.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SKY SPORT NEWS 
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/845.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SPORT 1 HD
-http://62.138.7.220:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/847.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SPORT 1 (1+) HD
-http://pr01.donvolga.com:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/847.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: SPORT 1 (2+) HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/847.m3u8
-#EXTINF:0 group-title="DE: Sport",DE: THE RACES 
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/428.m3u8
+#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
+
+#EXTINF:-1,Sky Cinema De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2383.ts
+#EXTINF:-1,Sky Cinema +1 De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2384.ts
+#EXTINF:-1,Sky De Cinema +24 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1608.ts
+#EXTINF:-1,Sky de Cinema Hits HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2362.ts
+#EXTINF:-1,Sky de Cinema Action HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2363.ts
+#EXTINF:-1,Sky Emotion De
+http://tvservice.broke-it.net:8000/live/nico/nico/2381.ts
+#EXTINF:-1,Sky Comedy De
+http://tvservice.broke-it.net:8000/live/nico/nico/2382.ts
+#EXTINF:-1,Sky Action De Hd
+http://tvservice.broke-it.net:8000/live/nico/nico/2386.ts
+#EXTINF:-1,Sky select 1
+http://tvservice.broke-it.net:8000/movie/nico/nico/2436.mkv
+#EXTINF:-1,Sky select 2
+http://tvservice.broke-it.net:8000/movie/nico/nico/2437.mkv
+#EXTINF:-1,Sky select 3
+http://tvservice.broke-it.net:8000/movie/nico/nico/2438.mkv
+#EXTINF:-1,Sky select 4
+http://tvservice.broke-it.net:8000/movie/nico/nico/2439.mkv
+#EXTINF:-1,Sky select 5
+http://tvservice.broke-it.net:8000/movie/nico/nico/2440.mkv
+#EXTINF:-1,Sky Select 6
+http://tvservice.broke-it.net:8000/live/nico/nico/1507.ts
+#EXTINF:-1,Sky Select 7
+http://tvservice.broke-it.net:8000/live/nico/nico/1508.ts
+#EXTINF:-1,Sky Select 8
+http://tvservice.broke-it.net:8000/live/nico/nico/1509.ts
+#EXTINF:-1,Sky Select 9
+http://tvservice.broke-it.net:8000/live/nico/nico/1595.ts
+#EXTINF:-1,Sky Select 10
+http://tvservice.broke-it.net:8000/live/nico/nico/1887.ts
+#EXTINF:-1,Sky Select 11
+http://tvservice.broke-it.net:8000/live/nico/nico/1888.ts
+#EXTINF:-1,Sky Select 12
+http://tvservice.broke-it.net:8000/live/nico/nico/1889.ts
+#EXTINF:-1,Sky Select 13
+http://tvservice.broke-it.net:8000/live/nico/nico/1890.ts
+#EXTINF:-1,Sky Select 14
+http://tvservice.broke-it.net:8000/live/nico/nico/1891.ts
+#EXTINF:-1,Sky Select 15
+http://tvservice.broke-it.net:8000/live/nico/nico/1892.ts
+#EXTINF:-1,Sky Select 16
+http://tvservice.broke-it.net:8000/live/nico/nico/2121.ts
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1610.ts
+#EXTINF:-1,Sky De Sport 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1609.ts
+#EXTINF:-1,Sky De Sport 2 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1611.ts
+#EXTINF:-1,Eurosport De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2391.ts
+#EXTINF:-1,Teleclub Sport 1
+http://tvservice.broke-it.net:8000/live/nico/nico/1596.ts
+#EXTINF:-1,Teleclub Sport 2
+http://tvservice.broke-it.net:8000/live/nico/nico/1597.ts
+#EXTINF:-1,Teleclub Sport 3
+http://tvservice.broke-it.net:8000/live/nico/nico/1598.ts
+#EXTINF:-1,Teleclub Cinema
+http://tvservice.broke-it.net:8000/live/nico/nico/2515.ts
+#EXTINF:-1,Teleclub Star
+http://tvservice.broke-it.net:8000/live/nico/nico/2516.ts
+#EXTINF:-1,Teleclub Crime
+http://tvservice.broke-it.net:8000/live/nico/nico/2514.ts
+#EXTINF:-1,TNT Film De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2375.ts
+#EXTINF:-1,TNT Serie De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2374.ts
+#EXTINF:-1,Fox De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2390.ts
+#EXTINF:-1,Sky Atlantic De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2385.ts
+#EXTINF:-1,WDR De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2373.ts
+#EXTINF:-1,SYFY De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2376.ts
+#EXTINF:-1,Zdf De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2372.ts
+#EXTINF:-1,Sky KRIMI De
+http://tvservice.broke-it.net:8000/live/nico/nico/2379.ts
+#EXTINF:-1,Romance De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2387.ts
+#EXTINF:-1,NDR De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2388.ts
+#EXTINF:-1,MGM De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2389.ts
+#EXTINF:-1,Channel 21 De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2393.ts
+#EXTINF:-1,Axn De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2394.ts
+#EXTINF:-1,Arte De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2395.ts
+#EXTINF:-1,Ard De
+http://tvservice.broke-it.net:8000/live/nico/nico/2396.ts
+#EXTINF:-1,Vox
+http://tvservice.broke-it.net:8000/live/nico/nico/1603.ts
+#EXTINF:-1,SFR 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1606.ts
+#EXTINF:-1,Disney cinemagic DE
+http://tvservice.broke-it.net:8000/live/nico/nico/2509.ts
+#EXTINF:-1,Nationalgeo Wild De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2378.ts
+#EXTINF:-1,Nationalgeo De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2377.ts
+#EXTINF:-1,History De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2380.ts
+#EXTINF:-1,Discovery Channel De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2392.ts
+#EXTINF:-1,SFR 2 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1607.ts
+#EXTINF:-1,Super Rtl
+http://tvservice.broke-it.net:8000/live/nico/nico/1601.ts
+#EXTINF:-1,RTL
+http://tvservice.broke-it.net:8000/live/nico/nico/1599.ts
+#EXTINF:-1,RTL 2
+http://tvservice.broke-it.net:8000/live/nico/nico/1600.ts
+#EXTINF:-1,Pro 7 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1602.ts
+#EXTINF:-1,ORF 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1604.ts
+#EXTINF:-1,ORF 2 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1605.ts
