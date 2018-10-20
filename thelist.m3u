@@ -1,4 +1,5 @@
-﻿#EXTINF:-1,DE | DAS ERSTE HD
+﻿#EXTM3U
+#EXTINF:-1,DE | DAS ERSTE HD
 http://toptvhd.net:8880/live/IPTVTOP2_sideroalessandro90/2157575/16113.ts
 #EXTINF:-1,DE | KABEL 1 HD
 http://toptvhd.net:8880/live/IPTVTOP2_sideroalessandro90/2157575/16100.ts
