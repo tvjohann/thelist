@@ -1,191 +1,330 @@
-﻿
-#EXTINF:-1 tvg-id="" tvg-name="======= Germany =========" tvg-logo="" group-title="",======= Germany =========
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5049.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street HD" tvg-logo="" group-title="",DE: 13th Street HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5299.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: 3Sat HD" tvg-logo="" group-title="",DE: 3Sat HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2221.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: A&E HD" tvg-logo="" group-title="",DE: A&E HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4434.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Animal Planet HD" tvg-logo="" group-title="",DE: Animal Planet HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5169.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe" tvg-logo="" group-title="",DE: Anixe
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4418.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Arte" tvg-logo="" group-title="",DE: Arte
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3552.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang HD" tvg-logo="" group-title="",DE: Boomerang HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6395.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BR HD" tvg-logo="" group-title="",DE: BR HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3557.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Classica" tvg-logo="" group-title="",DE: Classica
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3556.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central" tvg-logo="" group-title="",DE: Comedy Central
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3561.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste" tvg-logo="" group-title="",DE: Das Erste
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4423.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="" group-title="",DE: Discovery HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3099.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="",DE: Disney Channel HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3567.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Cinemagic HD" tvg-logo="" group-title="",DE: Disney Cinemagic HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4436.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior HD" tvg-logo="" group-title="",DE: Disney Junior HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4437.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney XD HD" tvg-logo="" group-title="",DE: Disney XD HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4438.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Dmax HD" tvg-logo="" group-title="",DE: Dmax HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3570.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DW" tvg-logo="" group-title="",DE: DW
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2863.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: E! Entertainement HD" tvg-logo="" group-title="",DE: E! Entertainement HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6392.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="",DE: Eurosport 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3066.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Fox HD" tvg-logo="" group-title="",DE: Fox HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3363.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Franken" tvg-logo="" group-title="",DE: Franken
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4424.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Goldstar" tvg-logo="" group-title="",DE: Goldstar
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5181.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Heimatkanal" tvg-logo="" group-title="",DE: Heimatkanal
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5177.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: History HD" tvg-logo="" group-title="",DE: History HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5298.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: HR" tvg-logo="" group-title="",DE: HR
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4422.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Junior" tvg-logo="" group-title="",DE: Junior
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7658.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1" tvg-logo="" group-title="",DE: Kabel 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3185.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 HD" tvg-logo="" group-title="",DE: Kabel 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6389.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kika HD" tvg-logo="" group-title="",DE: Kika HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3555.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kinowelt HD" tvg-logo="" group-title="",DE: Kinowelt HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5825.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MDR" tvg-logo="" group-title="",DE: MDR
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4420.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision" tvg-logo="" group-title="",DE: Motorvision
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Munchen TV" tvg-logo="" group-title="",DE: Munchen TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3559.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV" tvg-logo="" group-title="",DE: N-TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3564.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: N24" tvg-logo="" group-title="",DE: N24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3571.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo Wild HD" tvg-logo="" group-title="",DE: Nat Geo Wild HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3098.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: National Geographic HD" tvg-logo="" group-title="",DE: National Geographic HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3578.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title="",DE: NDR HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3558.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nickelodeon Austria" tvg-logo="" group-title="",DE: Nickelodeon Austria
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3562.ts
-#EXTINF:-1 tvg-id="" tvg-name="De: Nickelodeon HD" tvg-logo="" group-title="",De: Nickelodeon HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6393.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: OK Magdeburg" tvg-logo="" group-title="",DE: OK Magdeburg
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4425.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix HD" tvg-logo="" group-title="",DE: Phoenix HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3550.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7" tvg-logo="" group-title="",DE: Pro7
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3103.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 HD" tvg-logo="" group-title="",DE: Pro7 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8057.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 Maxx HD" tvg-logo="" group-title="",DE: Pro7 Maxx HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5179.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RBB" tvg-logo="" group-title="",DE: RBB
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4421.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="",DE: Romance TV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4427.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL" tvg-logo="" group-title="",DE: RTL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3235.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2" tvg-logo="" group-title="",DE: RTL 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3229.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime HD" tvg-logo="" group-title="",DE: RTL Crime HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5176.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="",DE: RTL Living HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5175.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro HD" tvg-logo="" group-title="",DE: RTL Nitro HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3563.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="",DE: RTL Passion HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5174.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Salzwedel" tvg-logo="" group-title="",DE: Salzwedel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3575.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1" tvg-logo="" group-title="",DE: Sat 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3560.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat Eins Gold" tvg-logo="" group-title="",DE: Sat Eins Gold
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3572.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Servus TV HD" tvg-logo="" group-title="",DE: Servus TV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3574.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="" group-title="",DE: Sixx HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3565.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Action HD" tvg-logo="" group-title="",DE: Sky Action HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3095.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic  1 HD" tvg-logo="" group-title="",DE: Sky Atlantic  1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8826.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic HD" tvg-logo="" group-title="",DE: Sky Atlantic HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3364.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga HD 1" tvg-logo="" group-title="",DE: Sky Bundesliga HD 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3069.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema  1 HD" tvg-logo="" group-title="",DE: Sky Cinema  1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3064.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema  24 HD" tvg-logo="" group-title="",DE: Sky Cinema  24 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3367.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema HD" tvg-logo="" group-title="",DE: Sky Cinema HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3096.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Comedy" tvg-logo="" group-title="",DE: Sky Comedy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3362.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Emotion HD" tvg-logo="" group-title="",DE: Sky Emotion HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3101.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Family HD" tvg-logo="" group-title="",DE: Sky Family HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8071.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Hits" tvg-logo="" group-title="",DE: Sky Hits
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3576.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Krimi" tvg-logo="" group-title="",DE: Sky Krimi
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3577.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nostalgie" tvg-logo="" group-title="",DE: Sky Nostalgie
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4428.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria HD" tvg-logo="" group-title="",DE: Sky Sport Austria HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport HD 1" tvg-logo="" group-title="",DE: Sky Sport HD 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News HD" tvg-logo="" group-title="",DE: Sky Sport News HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte" tvg-logo="" group-title="",DE: Spiegel Geschichte
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5170.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="" group-title="",DE: Spiegel TV Wissen HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8050.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1  HD" tvg-logo="" group-title="",DE: Sport 1  HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3065.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 HD" tvg-logo="" group-title="",DE: Sport 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL" tvg-logo="" group-title="",DE: Super RTL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5971.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="" group-title="",DE: SWR HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3549.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SyFy HD" tvg-logo="" group-title="",DE: SyFy HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3100.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tagesschau 24" tvg-logo="" group-title="",DE: Tagesschau 24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3554.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tele Barn" tvg-logo="" group-title="",DE: Tele Barn
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1430.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="" group-title="",DE: TLC HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3566.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Film" tvg-logo="" group-title="",DE: TNT Film
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4431.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie" tvg-logo="" group-title="",DE: TNT Serie
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4430.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TV Aktuelle" tvg-logo="" group-title="",DE: TV Aktuelle
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3940.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX" tvg-logo="" group-title="",DE: VOX
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3361.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title="",DE: WDR HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4419.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder" tvg-logo="" group-title="",DE: Welt der Wunder
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5178.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="",DE: ZDF HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2856.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="",DE: ZDF Info HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3222.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Neo HD" tvg-logo="" group-title="",DE: ZDF Neo HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3228.ts
+﻿#EXTM3U
+#EXTINF:-1,[DE] ZDF HD
+http://world-ipsat.com:1155/live/najib/2018/5671.ts
+#EXTINF:-1,[DE] DAS ERST HD
+http://world-ipsat.com:1155/live/najib/2018/5670.ts
+#EXTINF:-1,[DE] RTL HD
+http://world-ipsat.com:1155/live/najib/2018/5669.ts
+#EXTINF:-1,[DE] RTL 2HD
+http://world-ipsat.com:1155/live/najib/2018/5668.ts
+#EXTINF:-1,[DE] RTL NITRO
+http://world-ipsat.com:1155/live/najib/2018/5667.ts
+#EXTINF:-1,[DE] SIXX HD
+http://world-ipsat.com:1155/live/najib/2018/5666.ts
+#EXTINF:-1,[DE] PLUS 4HD
+http://world-ipsat.com:1155/live/najib/2018/5665.ts
+#EXTINF:-1,[DE] KABEL 1HD
+http://world-ipsat.com:1155/live/najib/2018/5664.ts
+#EXTINF:-1,[DE] ProSieben HD
+http://world-ipsat.com:1155/live/najib/2018/5663.ts
+#EXTINF:-1,[DE] E HD
+http://world-ipsat.com:1155/live/najib/2018/5662.ts
+#EXTINF:-1,[DE]  UNIVIRSAL HD
+http://world-ipsat.com:1155/live/najib/2018/5661.ts
+#EXTINF:-1,[DE] AXN HD
+http://world-ipsat.com:1155/live/najib/2018/5660.ts
+#EXTINF:-1,[DE] 13th STREET
+http://world-ipsat.com:1155/live/najib/2018/5659.ts
+#EXTINF:-1,[DE] ORF 1 HD
+http://world-ipsat.com:1155/live/najib/2018/5658.ts
+#EXTINF:-1,[DE] ORF 2 HD
+http://world-ipsat.com:1155/live/najib/2018/5657.ts
+#EXTINF:-1,[DE] ORF 3 HD
+http://world-ipsat.com:1155/live/najib/2018/5656.ts
+#EXTINF:-1,[DE]*****KINO*****[DE]
+http://world-ipsat.com:1155/live/najib/2018/5655.ts
+#EXTINF:-1,[DE] SKY CINEMA HD
+http://world-ipsat.com:1155/live/najib/2018/5654.ts
+#EXTINF:-1,[DE] SKY CINEMA  1HD
+http://world-ipsat.com:1155/live/najib/2018/5653.ts
+#EXTINF:-1,[DE] SKY CINEMA  24 HD
+http://world-ipsat.com:1155/live/najib/2018/5652.ts
+#EXTINF:-1,[DE] SKY CINEMA FAMILY HD
+http://world-ipsat.com:1155/live/najib/2018/5651.ts
+#EXTINF:-1,[DE] SKY CINEMA HITS HD
+http://world-ipsat.com:1155/live/najib/2018/5650.ts
+#EXTINF:-1,[DE] SKY COMEDY HD
+http://world-ipsat.com:1155/live/najib/2018/5649.ts
+#EXTINF:-1,[DE] SKY DMAX HD
+http://world-ipsat.com:1155/live/najib/2018/5648.ts
+#EXTINF:-1,[DE] SKY EMOTION HD
+http://world-ipsat.com:1155/live/najib/2018/5647.ts
+#EXTINF:-1,[DE] SKY KRIMI HD
+http://world-ipsat.com:1155/live/najib/2018/5646.ts
+#EXTINF:-1,[DE] SKY NOSTALGIE HD
+http://world-ipsat.com:1155/live/najib/2018/5645.ts
+#EXTINF:-1,[DE]*****SPORT*****[DE]
+http://world-ipsat.com:1155/live/najib/2018/5644.ts
+#EXTINF:-1,[DE] SKY SPORT 1 HD
+http://world-ipsat.com:1155/live/najib/2018/5643.ts
+#EXTINF:-1,[DE] SKY SPORT 2 HD
+http://world-ipsat.com:1155/live/najib/2018/5642.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 1HD
+http://world-ipsat.com:1155/live/najib/2018/5641.ts
+#EXTINF:-1,[DE] SKY SPORT NEWS HD
+http://world-ipsat.com:1155/live/najib/2018/5640.ts
+#EXTINF:-1,|DE| NATIONAL GEO HD
+http://world-ipsat.com:1155/live/najib/2018/5637.ts
+#EXTINF:-1,[DE] NATIONAL GEO Wild  HD
+http://world-ipsat.com:1155/live/najib/2018/5638.ts
+#EXTINF:-1,[DE] DISCOVERY CHANNEL HD
+http://world-ipsat.com:1155/live/najib/2018/5639.ts
+#EXTINF:-1,|DE| |DE|*****KINDER*****|DE|
+http://world-ipsat.com:1155/live/najib/2018/5636.ts
+#EXTINF:-1,[DE] CARTON NETWORK HD
+http://world-ipsat.com:1155/live/najib/2018/5631.ts
+#EXTINF:-1,[DE] NICK JR HD
+http://world-ipsat.com:1155/live/najib/2018/5634.ts
+#EXTINF:-1,[DE] BOOMERANG 1HD
+http://world-ipsat.com:1155/live/najib/2018/5630.ts
+#EXTINF:-1,[DE] Nick HD
+http://world-ipsat.com:1155/live/najib/2018/5635.ts
+#EXTINF:-1,[DE] DISNEY CHANNEL HD
+http://world-ipsat.com:1155/live/najib/2018/5632.ts
+#EXTINF:-1,[DE]  SKY DE CHANNEL HD
+http://world-ipsat.com:1155/live/najib/2018/326.ts
+#EXTINF:-1,[DE] ZDF HD
+http://world-ipsat.com:1155/live/najib/2018/290.ts
+#EXTINF:-1,[DE] SKY ACTIVE HD
+http://world-ipsat.com:1155/live/najib/2018/1390.ts
+#EXTINF:-1,[DE] SKY CINIMA HD
+http://world-ipsat.com:1155/live/najib/2018/1391.ts
+#EXTINF:-1,[DE] SKY CINIMA 24HD
+http://world-ipsat.com:1155/live/najib/2018/1392.ts
+#EXTINF:-1,[DE] SKY CINIMA HD
+http://world-ipsat.com:1155/live/najib/2018/1393.ts
+#EXTINF:-1,[DE] SKY COMMEDY HD
+http://world-ipsat.com:1155/live/najib/2018/1394.ts
+#EXTINF:-1,[DE] SKY CINIMA EMOTION HD
+http://world-ipsat.com:1155/live/najib/2018/1395.ts
+#EXTINF:-1,[DE] FOX HD
+http://world-ipsat.com:1155/live/najib/2018/1566.ts
+#EXTINF:-1,[DE] SKY CINIMA HITS HD
+http://world-ipsat.com:1155/live/najib/2018/1396.ts
+#EXTINF:-1,[DE] SKY CINIMA KRIMI HD
+http://world-ipsat.com:1155/live/najib/2018/1397.ts
+#EXTINF:-1,[DE] SKY ATLANTIC HD
+http://world-ipsat.com:1155/live/najib/2018/2020.ts
+#EXTINF:-1,[DE] TNT SERIE HD
+http://world-ipsat.com:1155/live/najib/2018/2074.ts
+#EXTINF:-1,[DE] DISNEY JUNIOR HD 
+http://world-ipsat.com:1155/live/najib/2018/2076.ts
+#EXTINF:-1,[DE] RTL CRIME HD
+http://world-ipsat.com:1155/live/najib/2018/2075.ts
+#EXTINF:-1,[DE] PROSIEBEN HD
+http://world-ipsat.com:1155/live/najib/2018/2073.ts
+#EXTINF:-1,[DE] SKY TNT FILM HD
+http://world-ipsat.com:1155/live/najib/2018/2072.ts
+#EXTINF:-1,[DE] ARTE HD
+http://world-ipsat.com:1155/live/najib/2018/433.ts
+#EXTINF:-1,[DE] DMAX HD
+http://world-ipsat.com:1155/live/najib/2018/437.ts
+#EXTINF:-1,[DE] ARD HD
+http://world-ipsat.com:1155/live/najib/2018/110.ts
+#EXTINF:-1,[DE] DISCOVERY HD
+http://world-ipsat.com:1155/live/najib/2018/432.ts
+#EXTINF:-1,|DE| NAT GEO HD
+http://world-ipsat.com:1155/live/najib/2018/434.ts
+#EXTINF:-1,[DE] NAT GEO WILD HD
+http://world-ipsat.com:1155/live/najib/2018/435.ts
+#EXTINF:-1,[DE] NAT GEO PEOPLE HD
+http://world-ipsat.com:1155/live/najib/2018/436.ts
+#EXTINF:-1,[DE] ORF 1 HD
+http://world-ipsat.com:1155/live/najib/2018/438.ts
+#EXTINF:-1,[DE] ORF 2 HD
+http://world-ipsat.com:1155/live/najib/2018/439.ts
+#EXTINF:-1,[DE] PRO7 MAXX HD
+http://world-ipsat.com:1155/live/najib/2018/440.ts
+#EXTINF:-1,[DE] SKY 13TH STREET HD
+http://world-ipsat.com:1155/live/najib/2018/441.ts
+#EXTINF:-1,[DE] SKY SPORT 1HD
+http://world-ipsat.com:1155/live/najib/2018/1401.ts
+#EXTINF:-1,[DE] SKY SPORT 2HD
+http://world-ipsat.com:1155/live/najib/2018/1402.ts
+#EXTINF:-1,[DE] SKY SPORT 3HD
+http://world-ipsat.com:1155/live/najib/2018/1403.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 2HD
+http://world-ipsat.com:1155/live/najib/2018/1404.ts
+#EXTINF:-1,[DE] SPORT 1 HD
+http://world-ipsat.com:1155/live/najib/2018/182.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 1HD
+http://world-ipsat.com:1155/live/najib/2018/3032.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 2HD
+http://world-ipsat.com:1155/live/najib/2018/3031.ts
+#EXTINF:-1,[DE] SK BUNDESLIGA 3HD
+http://world-ipsat.com:1155/live/najib/2018/3030.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 4HD
+http://world-ipsat.com:1155/live/najib/2018/3029.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 5HD
+http://world-ipsat.com:1155/live/najib/2018/3028.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 6HD
+http://world-ipsat.com:1155/live/najib/2018/3027.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 7HD
+http://world-ipsat.com:1155/live/najib/2018/3026.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 8HD
+http://world-ipsat.com:1155/live/najib/2018/3025.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 9HD
+http://world-ipsat.com:1155/live/najib/2018/3024.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 10HD
+http://world-ipsat.com:1155/live/najib/2018/3023.ts
+#EXTINF:-1,==|=beIN-SD=|==
+http://world-ipsat.com:1155/live/najib/2018/1722.ts
+#EXTINF:-1,[DE] SKY SELECT  HD1
+http://world-ipsat.com:1155/live/najib/2018/920.ts
+#EXTINF:-1,[DE] SKY SELECT  HD2
+http://world-ipsat.com:1155/live/najib/2018/921.ts
+#EXTINF:-1,[DE] SKY SELECT  HD3
+http://world-ipsat.com:1155/live/najib/2018/922.ts
+#EXTINF:-1,[DE] Sky Select HD4
+http://world-ipsat.com:1155/live/najib/2018/923.ts
+#EXTINF:-1,[DE] SKY SELECT  HD5
+http://world-ipsat.com:1155/live/najib/2018/924.ts
+#EXTINF:-1,[DE] SKY SELECT  HD6
+http://world-ipsat.com:1155/live/najib/2018/925.ts
+#EXTINF:-1,[DE] SKY SELECT  HD7
+http://world-ipsat.com:1155/live/najib/2018/926.ts
+#EXTINF:-1,[DE] SKY SELECT  HD8
+http://world-ipsat.com:1155/live/najib/2018/927.ts
+#EXTINF:-1,[DE] SKY SELECT  HD9
+http://world-ipsat.com:1155/live/najib/2018/928.ts
+#EXTINF:-1,[DE] SKY SELECT  HD10
+http://world-ipsat.com:1155/live/najib/2018/929.ts
+#EXTINF:-1,[DE] ANIXE HD
+http://world-ipsat.com:1155/live/najib/2018/286.ts
+#EXTINF:-1,[DE] ANIXE
+http://world-ipsat.com:1155/live/najib/2018/243.ts
+#EXTINF:-1,[DE] AUSTRIA 24 TV
+http://world-ipsat.com:1155/live/najib/2018/291.ts
+#EXTINF:-1,[DE] AVUSTURYA 24
+http://world-ipsat.com:1155/live/najib/2018/254.ts
+#EXTINF:-1,[DE] AUSTRIA 24 HD
+http://world-ipsat.com:1155/live/najib/2018/268.ts
+#EXTINF:-1,[DE] RTL HD
+http://world-ipsat.com:1155/live/najib/2018/236.ts
+#EXTINF:-1,[DE] VOX HD
+http://world-ipsat.com:1155/live/najib/2018/2085.ts
+#EXTINF:-1,[DE] KIKA HD
+http://world-ipsat.com:1155/live/najib/2018/2084.ts
+#EXTINF:-1,[DE] SUPER RTL HD
+http://world-ipsat.com:1155/live/najib/2018/2081.ts
+#EXTINF:-1,[DE] NICKELODEON HD
+http://world-ipsat.com:1155/live/najib/2018/2080.ts
+#EXTINF:-1,[DE] RTL 2HD
+http://world-ipsat.com:1155/live/najib/2018/1462.ts
+#EXTINF:-1,[DE] SAT 1 HD
+http://world-ipsat.com:1155/live/najib/2018/269.ts
+#EXTINF:-1,[DE] KABEL EINS HD
+http://world-ipsat.com:1155/live/najib/2018/258.ts
+#EXTINF:-1,[DE] FILSTALWELLE
+http://world-ipsat.com:1155/live/najib/2018/256.ts
+#EXTINF:-1,[DE] LIGHT TV HD
+http://world-ipsat.com:1155/live/najib/2018/297.ts
+#EXTINF:-1,[DE] LIGHT CHANNEL HD
+http://world-ipsat.com:1155/live/najib/2018/323.ts
+#EXTINF:-1,[DE] 24 GE AUS HD
+http://world-ipsat.com:1155/live/najib/2018/283.ts
+#EXTINF:-1,[DE] DAF
+http://world-ipsat.com:1155/live/najib/2018/246.ts
+
+#EXTINF:-1,DE_SkySport1HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/196.ts
+#EXTINF:-1,DE_SkySport2HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/195.ts
+#EXTINF:-1,DE_Sport_AUSTRIA
+http://www.abraiptv.tn:5475/live/walid01/walid01/846.ts
+#EXTINF:-1,DE_Sports+HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/847.ts
+#EXTINF:-1,DE_SkySportNewHD
+http://www.abraiptv.tn:5475/live/walid01/walid01/774.ts
+#EXTINF:-1,Sky_Bundesliga1HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/201.ts
+#EXTINF:-1,Sky_Bundesliga_2
+http://www.abraiptv.tn:5475/live/walid01/walid01/1173.ts
+#EXTINF:-1,Sky_Bundesliga_3
+http://www.abraiptv.tn:5475/live/walid01/walid01/1172.ts
+#EXTINF:-1,Sky_Bundesliga_4
+http://www.abraiptv.tn:5475/live/walid01/walid01/1171.ts
+#EXTINF:-1,Sky_Bundesliga_5
+http://www.abraiptv.tn:5475/live/walid01/walid01/1170.ts
+#EXTINF:-1,Sky_Bundesliga_6
+http://www.abraiptv.tn:5475/live/walid01/walid01/1169.ts
+#EXTINF:-1,Sky_Bundesliga_7
+http://www.abraiptv.tn:5475/live/walid01/walid01/1168.ts
+#EXTINF:-1,Sky_Bundesliga_8
+http://www.abraiptv.tn:5475/live/walid01/walid01/1167.ts
+#EXTINF:-1,DE_EuroSportHD
+http://www.abraiptv.tn:5475/live/walid01/walid01/778.ts
+#EXTINF:-1,DE_SkyEmotion
+http://www.abraiptv.tn:5475/live/walid01/walid01/143.ts
+#EXTINF:-1,DE_SkyComedy
+http://www.abraiptv.tn:5475/live/walid01/walid01/144.ts
+#EXTINF:-1,DE_SkyCinema24
+http://www.abraiptv.tn:5475/live/walid01/walid01/145.ts
+#EXTINF:-1,DE_SkyCinema
+http://www.abraiptv.tn:5475/live/walid01/walid01/147.ts
+#EXTINF:-1,DE_SkyAction
+http://www.abraiptv.tn:5475/live/walid01/walid01/149.ts
+#EXTINF:-1,DE_SkyKrimi
+http://www.abraiptv.tn:5475/live/walid01/walid01/849.ts
+#EXTINF:-1,DE_SkyNostalgie
+http://www.abraiptv.tn:5475/live/walid01/walid01/848.ts
+#EXTINF:-1,DE_SKYMGM
+http://www.abraiptv.tn:5475/live/walid01/walid01/777.ts
+#EXTINF:-1,DE_SkyAtlanticHD
+http://www.abraiptv.tn:5475/live/walid01/walid01/775.ts
+#EXTINF:-1,DE_skyhitshd
+http://www.abraiptv.tn:5475/live/walid01/walid01/776.ts
+#EXTINF:-1,DE_AXN-Action
+http://www.abraiptv.tn:5475/live/walid01/walid01/174.ts
+#EXTINF:-1,DE_NickJr
+http://www.abraiptv.tn:5475/live/walid01/walid01/158.ts
+#EXTINF:-1,DE_KABEL1
+http://www.abraiptv.tn:5475/live/walid01/walid01/572.ts
+#EXTINF:-1,DE_RTLHD
+http://www.abraiptv.tn:5475/live/walid01/walid01/119.ts
+#EXTINF:-1,DE_RTL2
+http://www.abraiptv.tn:5475/live/walid01/walid01/575.ts
+#EXTINF:-1,DE_PRO7
+http://www.abraiptv.tn:5475/live/walid01/walid01/570.ts
+#EXTINF:-1,DE_VOX
+http://www.abraiptv.tn:5475/live/walid01/walid01/574.ts
+#EXTINF:-1,DE_SAT1
+http://www.abraiptv.tn:5475/live/walid01/walid01/568.ts
+#EXTINF:-1,DE_ARD1
+http://www.abraiptv.tn:5475/live/walid01/walid01/632.ts
+#EXTINF:-1,DE_ZDF
+http://www.abraiptv.tn:5475/live/walid01/walid01/631.ts
+#EXTINF:-1,DE_SYFY
+http://www.abraiptv.tn:5475/live/walid01/walid01/746.ts
+#EXTINF:-1,DE_TNT-SERIE
+http://www.abraiptv.tn:5475/live/walid01/walid01/745.ts
+#EXTINF:-1,DE_SKY-NATGEO
+http://www.abraiptv.tn:5475/live/walid01/walid01/743.ts
+#EXTINF:-1,DE_NatGeoWildDE
+http://www.abraiptv.tn:5475/live/walid01/walid01/159.ts
+#EXTINF:-1,DE_Discovery
+http://www.abraiptv.tn:5475/live/walid01/walid01/744.ts
+#EXTINF:-1,DE_E!entertainm.HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1128.ts
+#EXTINF:-1,DE_super_RtL
+http://www.abraiptv.tn:5475/live/walid01/walid01/172.ts
+#EXTINF:-1,DE_DisneyCH
+http://www.abraiptv.tn:5475/live/walid01/walid01/169.ts
+#EXTINF:-1,DE_DISNEYJUNIOR
+http://www.abraiptv.tn:5475/live/walid01/walid01/573.ts
+#EXTINF:-1,DE_13thStreet
+http://www.abraiptv.tn:5475/live/walid01/walid01/177.ts
+#EXTINF:-1,DE_N24
+http://www.abraiptv.tn:5475/live/walid01/walid01/178.ts
+#EXTINF:-1,DE_FoxSerie
+http://www.abraiptv.tn:5475/live/walid01/walid01/167.ts
+#EXTINF:-1,DE_SKYSELECT1
+http://www.abraiptv.tn:5475/live/walid01/walid01/751.ts
+#EXTINF:-1,DE_SKYSELECT2
+http://www.abraiptv.tn:5475/live/walid01/walid01/750.ts
+#EXTINF:-1,DE_SKYSELECT3
+http://www.abraiptv.tn:5475/live/walid01/walid01/749.ts
+#EXTINF:-1,DE_SKYSELECT4
+http://www.abraiptv.tn:5475/live/walid01/walid01/748.ts
+#EXTINF:-1,DE_SKYSELECT5
+http://www.abraiptv.tn:5475/live/walid01/walid01/747.ts
