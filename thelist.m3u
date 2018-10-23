@@ -1,55 +1,191 @@
 ﻿#EXTM3U
-EXTINF:-1,[GER] 3Sat
-http://134.19.181.172:8000/live/mm34/mm34/857.ts
-EXTINF:-1,[GER] 3sat HD
-http://134.19.181.172:8000/live/mm34/mm34/645.ts
-EXTINF:-1,[GER] Anixe HD
-http://134.19.181.172:8000/live/mm34/mm34/643.ts
-EXTINF:-1,[GER] Ard HD
-http://134.19.181.172:8000/live/mm34/mm34/642.ts
-EXTINF:-1,[GER] Das Erste HD
-http://134.19.181.172:8000/live/mm34/mm34/511.ts
-EXTINF:-1,[GER] Discovery Channel
-http://134.19.181.172:8000/live/mm34/mm34/854.ts
-EXTINF:-1,[GER] Disney HD
-http://134.19.181.172:8000/live/mm34/mm34/644.ts
-EXTINF:-1,[GER] FOX
-http://134.19.181.172:8000/live/mm34/mm34/860.ts
-EXTINF:-1,[GER] Kabel Eins HD
-http://134.19.181.172:8000/live/mm34/mm34/858.ts
-EXTINF:-1,[GER] Kika HD
-http://134.19.181.172:8000/live/mm34/mm34/648.ts
-EXTINF:-1,[GER] N-TV
-http://134.19.181.172:8000/live/mm34/mm34/655.ts
-EXTINF:-1,[GER] NDR HD
-http://134.19.181.172:8000/live/mm34/mm34/654.ts
-EXTINF:-1,[GER] Nickelodeon HD
-http://134.19.181.172:8000/live/mm34/mm34/656.ts
-EXTINF:-1,[GER] ORF Eins
-http://134.19.181.172:8000/live/mm34/mm34/865.ts
-EXTINF:-1,[GER] Prosieben HD
-http://134.19.181.172:8000/live/mm34/mm34/861.ts
-EXTINF:-1,[GER] Prosieben Maxx HD
-http://134.19.181.172:8000/live/mm34/mm34/657.ts
-EXTINF:-1,[GER] RTL 2 HD
-http://134.19.181.172:8000/live/mm34/mm34/863.ts
-EXTINF:-1,[GER] RTL Crime HD
-http://134.19.181.172:8000/live/mm34/mm34/649.ts
-EXTINF:-1,[GER] RTL HD
-http://134.19.181.172:8000/live/mm34/mm34/862.ts
-EXTINF:-1,[GER] RTL Passion
-http://134.19.181.172:8000/live/mm34/mm34/866.ts
-EXTINF:-1,[GER] SAT 1 HD
-http://134.19.181.172:8000/live/mm34/mm34/856.ts
-EXTINF:-1,[GER] Sixx HD
-http://134.19.181.172:8000/live/mm34/mm34/859.ts
-EXTINF:-1,[GER] SyFy HD
-http://134.19.181.172:8000/live/mm34/mm34/868.ts
-EXTINF:-1,[GER] Toggo
-http://134.19.181.172:8000/live/mm34/mm34/864.ts
-EXTINF:-1,[GER] VOX HD
-http://134.19.181.172:8000/live/mm34/mm34/514.ts
-EXTINF:-1,[GER] Viva Comedy
-http://134.19.181.172:8000/live/mm34/mm34/855.ts
-EXTINF:-1,[GER] ZDF HD
-http://134.19.181.172:8000/live/mm34/mm34/509.ts
+#EXTINF:-1,======= Germany =========
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5049.m3u8
+#EXTINF:-1,DE: 13th Street HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5299.m3u8
+#EXTINF:-1,DE: 3Sat HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2221.m3u8
+#EXTINF:-1,DE: A&E HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4434.m3u8
+#EXTINF:-1,DE: Animal Planet HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5169.m3u8
+#EXTINF:-1,DE: Anixe
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4418.m3u8
+#EXTINF:-1,DE: Arte
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3552.m3u8
+#EXTINF:-1,DE: Boomerang HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6395.m3u8
+#EXTINF:-1,DE: BR HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3557.m3u8
+#EXTINF:-1,DE: Classica
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3556.m3u8
+#EXTINF:-1,DE: Comedy Central
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3561.m3u8
+#EXTINF:-1,DE: Das Erste
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4423.m3u8
+#EXTINF:-1,DE: Discovery HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3099.m3u8
+#EXTINF:-1,DE: Disney Channel HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3567.m3u8
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4436.m3u8
+#EXTINF:-1,DE: Disney Junior HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4437.m3u8
+#EXTINF:-1,DE: Disney XD HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4438.m3u8
+#EXTINF:-1,DE: Dmax HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3570.m3u8
+#EXTINF:-1,DE: DW
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2863.m3u8
+#EXTINF:-1,DE: E! Entertainement HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6392.m3u8
+#EXTINF:-1,DE: Eurosport 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3066.m3u8
+#EXTINF:-1,DE: Fox HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3363.m3u8
+#EXTINF:-1,DE: Franken
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4424.m3u8
+#EXTINF:-1,DE: Goldstar
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5181.m3u8
+#EXTINF:-1,DE: Heimatkanal
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5177.m3u8
+#EXTINF:-1,DE: History HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5298.m3u8
+#EXTINF:-1,DE: HR
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4422.m3u8
+#EXTINF:-1,DE: Junior
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7658.m3u8
+#EXTINF:-1,DE: Kabel 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3185.m3u8
+#EXTINF:-1,DE: Kabel 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6389.m3u8
+#EXTINF:-1,DE: Kika HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3555.m3u8
+#EXTINF:-1,DE: Kinowelt HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5825.m3u8
+#EXTINF:-1,DE: MDR
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4420.m3u8
+#EXTINF:-1,DE: Motorvision
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.m3u8
+#EXTINF:-1,DE: Munchen TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3559.m3u8
+#EXTINF:-1,DE: N-TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3564.m3u8
+#EXTINF:-1,DE: N24
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3571.m3u8
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3098.m3u8
+#EXTINF:-1,DE: National Geographic HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3578.m3u8
+#EXTINF:-1,DE: NDR HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3558.m3u8
+#EXTINF:-1,DE: Nickelodeon Austria
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3562.m3u8
+#EXTINF:-1,De: Nickelodeon HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6393.m3u8
+#EXTINF:-1,DE: OK Magdeburg
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4425.m3u8
+#EXTINF:-1,DE: Phoenix HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3550.m3u8
+#EXTINF:-1,DE: Pro7
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3103.m3u8
+#EXTINF:-1,DE: Pro7 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8057.m3u8
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5179.m3u8
+#EXTINF:-1,DE: RBB
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4421.m3u8
+#EXTINF:-1,DE: Romance TV HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4427.m3u8
+#EXTINF:-1,DE: RTL
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3235.m3u8
+#EXTINF:-1,DE: RTL 2
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3229.m3u8
+#EXTINF:-1,DE: RTL Crime HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5176.m3u8
+#EXTINF:-1,DE: RTL Living HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5175.m3u8
+#EXTINF:-1,DE: RTL Nitro HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3563.m3u8
+#EXTINF:-1,DE: RTL Passion HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5174.m3u8
+#EXTINF:-1,DE: Salzwedel
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3575.m3u8
+#EXTINF:-1,DE: Sat 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3560.m3u8
+#EXTINF:-1,DE: Sat Eins Gold
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3572.m3u8
+#EXTINF:-1,DE: Servus TV HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3574.m3u8
+#EXTINF:-1,DE: Sixx HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3565.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3095.m3u8
+#EXTINF:-1,DE: Sky Atlantic  1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8826.m3u8
+#EXTINF:-1,DE: Sky Atlantic HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3364.m3u8
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3069.m3u8
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3064.m3u8
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3367.m3u8
+#EXTINF:-1,DE: Sky Cinema HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3096.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3362.m3u8
+#EXTINF:-1,DE: Sky Emotion HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3101.m3u8
+#EXTINF:-1,DE: Sky Family HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8071.m3u8
+#EXTINF:-1,DE: Sky Hits
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3576.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3577.m3u8
+#EXTINF:-1,DE: Sky Nostalgie
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4428.m3u8
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.m3u8
+#EXTINF:-1,DE: Sky Sport HD 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.m3u8
+#EXTINF:-1,DE: Sky Sport News HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.m3u8
+#EXTINF:-1,DE: Spiegel Geschichte
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5170.m3u8
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8050.m3u8
+#EXTINF:-1,DE: Sport 1  HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3065.m3u8
+#EXTINF:-1,DE: Sport 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.m3u8
+#EXTINF:-1,DE: Super RTL
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5971.m3u8
+#EXTINF:-1,DE: SWR HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3549.m3u8
+#EXTINF:-1,DE: SyFy HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3100.m3u8
+#EXTINF:-1,DE: Tagesschau 24
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3554.m3u8
+#EXTINF:-1,DE: Tele Barn
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1430.m3u8
+#EXTINF:-1,DE: TLC HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3566.m3u8
+#EXTINF:-1,DE: TNT Film
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4431.m3u8
+#EXTINF:-1,DE: TNT Serie
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4430.m3u8
+#EXTINF:-1,DE: TV Aktuelle
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3940.m3u8
+#EXTINF:-1,DE: VOX
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3361.m3u8
+#EXTINF:-1,DE: WDR HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4419.m3u8
+#EXTINF:-1,DE: Welt der Wunder
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5178.m3u8
+#EXTINF:-1,DE: ZDF HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2856.m3u8
+#EXTINF:-1,DE: ZDF Info HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3222.m3u8
+#EXTINF:-1,DE: ZDF Neo HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3228.m3u8
