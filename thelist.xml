@@ -1,459 +1,1139 @@
 <item>
+<title>Rtl</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl</link>
+</item>
+
+<item>
+<title>Rtl 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl 2</link>
+</item>
+
+<item>
+<title>Rtl Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl Crime</link>
+</item>
+
+<item>
+<title>Rtl Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl Nitro</link>
+</item>
+
+<item>
+<title>Rtl Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl Passion</link>
+</item>
+
+<item>
+<title>Super Rtl</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Rtl</link>
+</item>
+
+<item>
+<title>Sat 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sat 1</link>
+</item>
+
+<item>
+<title>3sat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=3sat</link>
+</item>
+
+<item>
+<title>Sat 1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sat 1 Gold</link>
+</item>
+
+<item>
+<title>Pro Sieben</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pro Sieben</link>
+</item>
+
+<item>
+<title>Pro 7 Fun</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pro 7 Fun</link>
+</item>
+
+<item>
+<title>Pro 7 Maxx</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pro 7 Maxx</link>
+</item>
+
+<item>
+<title>Zdf</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zdf</link>
+</item>
+
+<item>
+<title>Zdf Info</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zdf Info</link>
+</item>
+
+<item>
+<title>Zdf Neo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zdf Neo</link>
+</item>
+
+<item>
+<title>Vox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vox</link>
+</item>
+
+<item>
+<title>Kabel Eins</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel Eins</link>
+</item>
+
+<item>
+<title>Kabel 1 Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel 1 Classic</link>
+</item>
+
+<item>
+<title>Kabel 1 Doku</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel 1 Doku</link>
+</item>
+
+<item>
+<title>13th Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th Street HD</link>
+</item>
+
+<item>
+<title>Das Erste</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=Das Erste</link>
+</item>
+
+<item>
+<title>Spiegel Geschichte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel Geschichte</link>
+</item>
+
+<item>
+<title>Orf 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orf 1</link>
+</item>
+
+<item>
+<title>Orf 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orf 2</link>
+</item>
+
+<item>
+<title>Atv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atv</link>
+</item>
+
+<item>
+<title>Atv 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atv 2</link>
+</item>
+
+<item>
+<title>Austria 24h</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=Austria 24h</link>
+</item>
+
+<item>
+<title>Puls 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Puls 4</link>
+</item>
+
+<item>
+<title>Junior De</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Junior De</link>
+</item>
+
+<item>
+<title>Disney Junior De</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior De</link>
+</item>
+
+<item>
+<title>D-Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=D-Max</link>
+</item>
+
+<item>
+<title>Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte</link>
+</item>
+
+<item>
+<title>Dw</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dw</link>
+</item>
+
+<item>
+<title>Euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1188.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews</link>
+</item>
+
+<item>
+<title>Welt Hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=Welt Hd</link>
+</item>
+
+<item>
+<title>N-Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=N-Tv</link>
+</item>
+
+<item>
+<title>Ndr HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ndr HD</link>
+</item>
+
+<item>
+<title>Servus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Servus</link>
+</item>
+
+<item>
+<title>Sixx HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/6185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sixx HD</link>
+</item>
+
+<item>
+<title>Sonneklar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/6184.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sonneklar</link>
+</item>
+
+<item>
+<title>Tele 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/6183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tele 5</link>
+</item>
+
+<item>
+<title>Syfy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy HD</link>
+</item>
+
+<item>
+<title>Wdr HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Wdr HD</link>
+</item>
+
+<item>
+<title>Zee One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zee One</link>
+</item>
+
+<item>
+<title>Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link>
+</item>
+
+<item>
+<title>Tnt Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tnt Film</link>
+</item>
+
+<item>
+<title>Sky 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2741.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 1</link>
+</item>
+
+<item>
+<title>Sky Cinema Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family</link>
+</item>
+
+<item>
+<title>Sky Krimi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Krimi</link>
+</item>
+
+<item>
+<title>Sky Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action</link>
+</item>
+
+<item>
+<title>Sky Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy</link>
+</item>
+
+<item>
+<title>Sky Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Hits</link>
+</item>
+
+<item>
+<title>Sky Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Emotion</link>
+</item>
+
+<item>
+<title>Sky Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema</link>
+</item>
+
+<item>
+<title>sky Cinema +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky Cinema +24</link>
+</item>
+
+<item>
+<title>Sky Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Nostalgie</link>
+</item>
+
+<item>
+<title>Sky Atlantic.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic.</link>
+</item>
+
+<item>
+<title>Sky Romance Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Romance Tv</link>
+</item>
+
+<item>
+<title>Sky Kino Welt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/6362.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Kino Welt</link>
+</item>
+
+<item>
+<title>Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel</link>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic</link>
+</item>
+
+<item>
+<title>National Geographic Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild</link>
+</item>
+
+<item>
+<title>Nickeloodeon Germany</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickeloodeon Germany</link>
+</item>
+
+<item>
+<title>Film Select 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 1</link>
+</item>
+
+<item>
+<title>Film Select 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 2</link>
+</item>
+
+<item>
+<title>Film Select 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 3</link>
+</item>
+
+<item>
+<title>Film Select 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 4</link>
+</item>
+
+<item>
+<title>Film Select 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 5</link>
+</item>
+
+<item>
+<title>Film Select 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 6</link>
+</item>
+
+<item>
+<title>Film Select 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 7</link>
+</item>
+
+<item>
+<title>Film Select 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 8</link>
+</item>
+
+<item>
+<title>Film Select 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 9</link>
+</item>
+
+<item>
+<title>Film Select 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://media-future.eu:80/live/JB07r0K8vJ/STzYZGHNK7/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film Select 10</link>
+</item>
+
+<item>
+<title>DE LOCAL --13th Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --13th Street</link>
+</item>
+
+<item>
+<title>DE LOCAL --A&E.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7760.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --A&E.</link>
+</item>
+
+<item>
+<title>DE LOCAL --Cartoon Network .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Cartoon Network .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Das Erste</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Das Erste</link>
+</item>
+
+<item>
+<title>DE LOCAL --De- kabel eins</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --De- kabel eins</link>
+</item>
+
+<item>
+<title>DE LOCAL --Discovery .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Discovery .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Disney Cinemagic.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Disney Cinemagic.</link>
+</item>
+
+<item>
+<title>DE LOCAL --Disney Junior .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Disney Junior .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Disney XD .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Disney XD .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Eurosport 1 DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Eurosport 1 DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Eurosport 2 DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7751.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Eurosport 2 DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --FOX .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7750.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --FOX .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7749.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Junior</link>
+</item>
+
+<item>
+<title>DE LOCAL --NatGeo Wild .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7748.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --NatGeo Wild .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --National Geographic .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7747.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --National Geographic .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Nickelodeon .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7746.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Nickelodeon .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --Pro7 MAXX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7745.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Pro7 MAXX</link>
+</item>
+
+<item>
+<title>DE LOCAL --ProSieben</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7744.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --ProSieben</link>
+</item>
+
+<item>
+<title>DE LOCAL --RTL .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7743.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --RTL .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --RTL 2 .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7742.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --RTL 2 .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --RTL Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7741.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --RTL Crime</link>
+</item>
+
+<item>
+<title>DE LOCAL --RTL Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7740.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --RTL Nitro</link>
+</item>
+
+<item>
+<title>DE LOCAL --RTL Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7739.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --RTL Passion</link>
+</item>
+
+<item>
+<title>DE LOCAL --RTL Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7738.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --RTL Plus</link>
+</item>
+
+<item>
+<title>DE LOCAL --SAT.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7737.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --SAT.1</link>
+</item>
+
+<item>
+<title>DE LOCAL --SAT.1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7736.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --SAT.1 Gold</link>
+</item>
+
+<item>
+<title>DE LOCAL --SIXX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7735.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --SIXX</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7734.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Atlantic</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7733.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7732.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema 1</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7731.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema 24</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7730.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema Action</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7729.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema Comedy</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7728.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema Emotion</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7727.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema Family</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7726.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema Hits</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Cinema Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7725.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Cinema Nostalgie</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Krimi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7724.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Krimi</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7723.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 1</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7722.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 2</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7721.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 3</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 4</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7719.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 5</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7718.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 6</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7717.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 7</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7716.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport 8</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport Austria</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport Bundesliga 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport Bundesliga 1</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport Bundesliga 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport Bundesliga 2</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sky Sport News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sky Sport News</link>
+</item>
+
+<item>
+<title>DE LOCAL --Spiegel Geschichte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Spiegel Geschichte</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sport1 US</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7710.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sport1 US</link>
+</item>
+
+<item>
+<title>DE LOCAL --Sportdigital</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7709.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Sportdigital</link>
+</item>
+
+<item>
+<title>DE LOCAL --Super RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7708.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Super RTL</link>
+</item>
+
+<item>
+<title>DE LOCAL --Syfy .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --Syfy .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --TLC .DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7706.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --TLC .DE</link>
+</item>
+
+<item>
+<title>DE LOCAL --TNT Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7705.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --TNT Film</link>
+</item>
+
+<item>
+<title>DE LOCAL --ZDF Neo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --ZDF Neo</link>
+</item>
+
+<item>
+<title>DE LOCAL --TNT Serie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7704.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --TNT Serie</link>
+</item>
+
+<item>
+<title>DE LOCAL --VOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7703.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --VOX</link>
+</item>
+
+<item>
+<title>DE LOCAL --ZDF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv33.hopto.me:9000/live/alaa/alaa/7702.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE LOCAL --ZDF</link>
+</item>
+
+<item>
 <title>DE: 13th Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD</link>
 </item>
 
 <item>
 <title>DE: 3Sat HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3Sat HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3Sat HD</link>
 </item>
 
 <item>
 <title>DE: A&E HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4434.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A&E HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4434.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A&E HD</link>
 </item>
 
 <item>
 <title>DE: Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Animal Planet HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Animal Planet HD</link>
 </item>
 
 <item>
 <title>DE: Anixe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Anixe</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Anixe</link>
 </item>
 
 <item>
 <title>DE: Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3552.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3552.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte</link>
 </item>
 
 <item>
 <title>DE: Boomerang HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang HD</link>
 </item>
 
 <item>
 <title>DE: BR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: BR HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: BR HD</link>
 </item>
 
 <item>
 <title>DE: Classica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Classica</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Classica</link>
 </item>
 
 <item>
 <title>DE: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Comedy Central</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Comedy Central</link>
 </item>
 
 <item>
 <title>DE: Das Erste</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste</link>
 </item>
 
 <item>
 <title>DE: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD</link>
 </item>
 
 <item>
 <title>DE: Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD</link>
 </item>
 
 <item>
 <title>DE: Disney Cinemagic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4436.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4436.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD</link>
 </item>
 
 <item>
 <title>DE: Disney Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4437.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4437.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior HD</link>
 </item>
 
 <item>
 <title>DE: Disney XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4438.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4438.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD HD</link>
 </item>
 
 <item>
 <title>DE: Dmax HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax HD</link>
 </item>
 
 <item>
 <title>DE: DW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2863.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DW</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2863.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DW</link>
 </item>
 
 <item>
 <title>DE: E! Entertainement HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: E! Entertainement HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: E! Entertainement HD</link>
 </item>
 
 <item>
 <title>DE: Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1 HD</link>
 </item>
 
 <item>
 <title>DE: Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD</link>
 </item>
 
 <item>
 <title>DE: Franken</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Franken</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Franken</link>
 </item>
 
 <item>
 <title>DE: Goldstar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5181.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Goldstar</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5181.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Goldstar</link>
 </item>
 
 <item>
 <title>DE: Heimatkanal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5177.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimatkanal</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5177.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimatkanal</link>
 </item>
 
 <item>
 <title>DE: History HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5298.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5298.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History HD</link>
 </item>
 
 <item>
 <title>DE: HR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR</link>
 </item>
 
 <item>
 <title>DE: Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/7658.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Junior</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7658.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Junior</link>
 </item>
 
 <item>
 <title>DE: Kabel 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3185.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3185.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1</link>
 </item>
 
 <item>
 <title>DE: Kabel 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1 HD</link>
 </item>
 
 <item>
 <title>DE: Kika HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika HD</link>
 </item>
 
 <item>
 <title>DE: Kinowelt HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5825.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5825.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt HD</link>
 </item>
 
 <item>
 <title>DE: MDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR</link>
 </item>
 
 <item>
 <title>DE: Motorvision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision</link>
 </item>
 
 <item>
 <title>DE: Munchen TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Munchen TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Munchen TV</link>
 </item>
 
 <item>
 <title>DE: N-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N-TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N-TV</link>
 </item>
 
 <item>
 <title>DE: N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24</link>
 </item>
 
 <item>
 <title>DE: Nat Geo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat Geo Wild HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat Geo Wild HD</link>
 </item>
 
 <item>
 <title>DE: National Geographic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic HD</link>
 </item>
 
 <item>
 <title>DE: NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD</link>
 </item>
 
 <item>
 <title>DE: Nickelodeon Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nickelodeon Austria</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nickelodeon Austria</link>
+</item>
+
+<item>
+<title>De: Nickelodeon HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=De: Nickelodeon HD</link>
 </item>
 
 <item>
 <title>DE: OK Magdeburg</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Magdeburg</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Magdeburg</link>
 </item>
 
 <item>
 <title>DE: Phoenix HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3550.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3550.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix HD</link>
 </item>
 
 <item>
 <title>DE: Pro7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3103.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3103.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7</link>
 </item>
 
 <item>
 <title>DE: Pro7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8057.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8057.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 HD</link>
 </item>
 
 <item>
 <title>DE: Pro7 Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5179.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 Maxx HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5179.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 Maxx HD</link>
 </item>
 
 <item>
 <title>DE: RBB</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4421.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBB</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4421.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBB</link>
 </item>
 
 <item>
 <title>DE: Romance TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4427.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Romance TV HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4427.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Romance TV HD</link>
 </item>
 
 <item>
 <title>DE: RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL</link>
 </item>
 
 <item>
 <title>DE: RTL 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2</link>
 </item>
 
 <item>
 <title>DE: RTL Crime HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5176.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5176.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime HD</link>
 </item>
 
 <item>
 <title>DE: RTL Living HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living HD</link>
 </item>
 
 <item>
 <title>DE: RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD</link>
 </item>
 
 <item>
 <title>DE: RTL Passion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5174.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5174.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion HD</link>
 </item>
 
 <item>
 <title>DE: Salzwedel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Salzwedel</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Salzwedel</link>
 </item>
 
 <item>
 <title>DE: Sat 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1</link>
 </item>
 
 <item>
 <title>DE: Sat Eins Gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat Eins Gold</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat Eins Gold</link>
 </item>
 
 <item>
 <title>DE: Servus TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV HD</link>
 </item>
 
 <item>
 <title>DE: Sixx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD</link>
 </item>
 
 <item>
 <title>DE: Sky Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD</link>
 </item>
 
 <item>
 <title>DE: Sky Atlantic 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic 1 HD</link>
 </item>
 
 <item>
 <title>DE: Sky Atlantic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic HD</link>
 </item>
 
 <item>
 <title>DE: Sky Bundesliga HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3069.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3069.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1</link>
 </item>
 
 <item>
 <title>DE: Sky Cinema 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3064.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3064.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 1 HD</link>
 </item>
 
 <item>
 <title>DE: Sky Cinema 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 24 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 24 HD</link>
 </item>
 
 <item>
 <title>DE: Sky Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD</link>
 </item>
 
 <item>
 <title>DE: Sky Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy</link>
 </item>
 
 <item>
 <title>DE: Sky Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion HD</link>
 </item>
 
 <item>
 <title>DE: Sky Family HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8071.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Family HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8071.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Family HD</link>
 </item>
 
 <item>
 <title>DE: Sky Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits</link>
 </item>
 
 <item>
 <title>DE: Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi</link>
 </item>
 
 <item>
 <title>DE: Sky Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4428.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4428.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie</link>
 </item>
 
 <item>
 <title>DE: Sky Sport Austria HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria HD</link>
 </item>
 
 <item>
 <title>DE: Sky Sport HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 1</link>
 </item>
 
 <item>
 <title>DE: Sky Sport News HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News HD</link>
 </item>
 
 <item>
 <title>DE: Spiegel Geschichte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5170.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5170.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte</link>
 </item>
 
 <item>
 <title>DE: Spiegel TV Wissen HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel TV Wissen HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel TV Wissen HD</link>
 </item>
 
 <item>
 <title>DE: Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 HD</link>
 </item>
 
 <item>
 <title>DE: Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 HD</link>
 </item>
 
 <item>
 <title>DE: Super RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5971.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5971.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL</link>
 </item>
 
 <item>
 <title>DE: SWR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3549.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3549.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR HD</link>
 </item>
 
 <item>
 <title>DE: SyFy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SyFy HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SyFy HD</link>
 </item>
 
 <item>
 <title>DE: Tagesschau 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3554.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tagesschau 24</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3554.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tagesschau 24</link>
 </item>
 
 <item>
 <title>DE: Tele Barn</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tele Barn</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tele Barn</link>
 </item>
 
 <item>
 <title>DE: TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC HD</link>
+</item>
+
+<item>
+<title>DE: TNT Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4431.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film</link>
 </item>
 
 <item>
 <title>DE: TNT Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie</link>
 </item>
 
 <item>
 <title>DE: TV Aktuelle</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3940.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TV Aktuelle</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3940.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TV Aktuelle</link>
 </item>
 
 <item>
 <title>DE: VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX</link>
 </item>
 
 <item>
 <title>DE: WDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD</link>
 </item>
 
 <item>
 <title>DE: Welt der Wunder</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5178.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Welt der Wunder</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5178.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Welt der Wunder</link>
 </item>
 
 <item>
 <title>DE: ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2856.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2856.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link>
 </item>
 
 <item>
 <title>DE: ZDF Info HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3222.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3222.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info HD</link>
 </item>
 
 <item>
 <title>DE: ZDF Neo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3228.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3228.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo HD</link>
 </item>
