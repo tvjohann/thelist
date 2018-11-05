@@ -1,1539 +1,1054 @@
 <item>
-<title>DE_AXN-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_AXN-Action</link>
-</item>
-
-<item>
-<title>DE_NickJr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NickJr</link>
-</item>
-
-<item>
-<title>DE_KABEL1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KABEL1</link>
-</item>
-
-<item>
-<title>DE_RTLHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTLHD</link>
-</item>
-
-<item>
-<title>DE_RTL2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL2</link>
-</item>
-
-<item>
-<title>DE_PRO7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_PRO7</link>
-</item>
-
-<item>
-<title>DE_VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_VOX</link>
-</item>
-
-<item>
-<title>DE_SAT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SAT1</link>
-</item>
-
-<item>
-<title>DE_ARD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ARD1</link>
-</item>
-
-<item>
-<title>DE_ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF</link>
-</item>
-
-<item>
-<title>DE_SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SYFY</link>
-</item>
-
-<item>
-<title>DE_TNT-SERIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_TNT-SERIE</link>
-</item>
-
-<item>
-<title>DE_SKY-NATGEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY-NATGEO</link>
-</item>
-
-<item>
-<title>DE_NatGeoWildDE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NatGeoWildDE</link>
-</item>
-
-<item>
-<title>DE_Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Discovery</link>
-</item>
-
-<item>
-<title>DE_E!entertainm.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_E!entertainm.HD</link>
-</item>
-
-<item>
-<title>DE_super_RtL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_super_RtL</link>
-</item>
-
-<item>
-<title>DE_DisneyCH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyCH</link>
-</item>
-
-<item>
-<title>DE_DISNEYJUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEYJUNIOR</link>
-</item>
-
-<item>
-<title>DE_13thStreet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_13thStreet</link>
-</item>
-
-<item>
-<title>DE_N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N24</link>
-</item>
-
-<item>
-<title>DE_FoxSerie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://217.23.7.160:5475/live/iptv2016/5622295666745/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FoxSerie</link>
-</item>
-
-<item>
-<title>DE: RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL</link>
-</item>
-
-<item>
-<title>DE: RTL 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2</link>
-</item>
-
-<item>
-<title>DE: RTL Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro</link>
-</item>
-
-<item>
-<title>DE: RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime</link>
-</item>
-
-<item>
-<title>DE: RTL Living</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living</link>
-</item>
-
-<item>
-<title>DE: RTL Super</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Super</link>
-</item>
-
-<item>
-<title>DE: RTL Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion</link>
-</item>
-
-<item>
-<title>DE: Universal HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal HD</link>
-</item>
-
-<item>
-<title>DE: Servus TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV</link>
-</item>
-
-<item>
-<title>DE: Sat1 Gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat1 Gold</link>
-</item>
-
-<item>
-<title>DE: Kinowelt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt</link>
-</item>
-
-<item>
-<title>DE: RBB Berlin</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/1578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBB Berlin</link>
-</item>
-
-<item>
-<title>DE: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC</link>
-</item>
-
-<item>
-<title>DE: SRF 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF 1</link>
-</item>
-
-<item>
-<title>DE: ORF 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 3</link>
-</item>
-
-<item>
-<title>DE: ORF Enis</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF Enis</link>
-</item>
-
-<item>
-<title>DE: ORF 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2</link>
-</item>
-
-<item>
-<title>DE: ORF Sport +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF Sport +</link>
-</item>
-
-<item>
-<title>DE: VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX</link>
-</item>
-
-<item>
-<title>DE: FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX</link>
-</item>
-
-<item>
-<title>DE: One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: One</link>
-</item>
-
-<item>
-<title>DE: TNT Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Comedy HD</link>
-</item>
-
-<item>
-<title>DE: TNT Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie</link>
-</item>
-
-<item>
-<title>DE: Sony HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sony HD</link>
-</item>
-
-<item>
-<title>DE: Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD</link>
-</item>
-
-<item>
-<title>DE: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel</link>
-</item>
-
-<item>
-<title>DE: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nickelodeon</link>
-</item>
-
-<item>
-<title>DE: Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang</link>
-</item>
-
-<item>
-<title>DE: National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic</link>
-</item>
-
-<item>
-<title>DE: Nat Geo wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat Geo wild</link>
-</item>
-
-<item>
-<title>DE: History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History</link>
-</item>
-
-<item>
-<title>DE: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD</link>
-</item>
-
-<item>
-<title>DE: 13th Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street</link>
-</item>
-
-<item>
-<title>DE: ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF</link>
-</item>
-
-<item>
-<title>DE: ZDF SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF SD</link>
-</item>
-
-<item>
-<title>DE: ZDF Neo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo</link>
-</item>
-
-<item>
-<title>DE: ZDF Info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info</link>
-</item>
-
-<item>
-<title>DE: Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix</link>
-</item>
-
-<item>
-<title>DE: Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Atlantic</link>
-</item>
-
-<item>
-<title>DE: Wdr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Wdr</link>
-</item>
-
-<item>
-<title>DE: Sixx</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx</link>
-</item>
-
-<item>
-<title>DE: Pro 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7</link>
-</item>
-
-<item>
-<title>DE: NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD</link>
-</item>
-
-<item>
-<title>DE: N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24</link>
-</item>
-
-<item>
-<title>DE: N-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N-TV</link>
-</item>
-
-<item>
-<title>DE: Romance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Romance</link>
-</item>
-
-<item>
-<title>DE: Krimi HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Krimi HD</link>
-</item>
-
-<item>
-<title>DE: Kika</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika</link>
-</item>
-
-<item>
-<title>DE: Kabel 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1</link>
-</item>
-
-<item>
-<title>DE: Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax</link>
-</item>
-
-<item>
-<title>DE: Pro 7 Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 Max</link>
-</item>
-
-<item>
-<title>DE: Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte</link>
-</item>
-
-<item>
-<title>DE: ARD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD</link>
-</item>
-
-<item>
-<title>DE: 3sat</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/tura/123456/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3sat</link>
-</item>
-
-<item>
-<title>De- 13th Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12372.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- 13th Street HD</link>
-</item>
-
-<item>
-<title>De- 3Sat HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12203.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- 3Sat HD</link>
-</item>
-
-<item>
-<title>De- A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12272.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- A&E</link>
-</item>
-
-<item>
-<title>De- Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12286.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Animal Planet HD</link>
-</item>
-
-<item>
-<title>De- Anixe Serie FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12191.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Anixe Serie FHD</link>
-</item>
-
-<item>
-<title>De- Arte FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12202.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Arte FHD</link>
-</item>
-
-<item>
-<title>De- Arte HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12201.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Arte HD.</link>
-</item>
-
-<item>
-<title>De- ATV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12200.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ATV HD</link>
-</item>
-
-<item>
-<title>De- Auto Motor Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12356.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Auto Motor Sport HD</link>
-</item>
-
-<item>
-<title>De- AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12374.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- AXN HD</link>
-</item>
-
-<item>
-<title>De- Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12264.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Baby TV</link>
-</item>
-
-<item>
-<title>De- Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12266.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Boomerang</link>
-</item>
-
-<item>
-<title>De- Cartoon Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12267.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Cartoon Network HD</link>
-</item>
-
-<item>
-<title>De- Classica SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12255.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Classica SD</link>
-</item>
-
-<item>
-<title>De- Das Erste</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12211.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste</link>
-</item>
-
-<item>
-<title>De- Das Erste FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12213.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste FHD</link>
-</item>
-
-<item>
-<title>De- Das Erste HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12212.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste HD.</link>
-</item>
-
-<item>
-<title>De- DAZN 1 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12339.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- DAZN 1 FHD</link>
-</item>
-
-<item>
-<title>De- DAZN 2 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12338.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- DAZN 2 FHD</link>
-</item>
-
-<item>
-<title>De- Deluxe Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12256.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Deluxe Music</link>
-</item>
-
-<item>
-<title>De- Deutsches Musik Fernsehen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12254.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Deutsches Musik Fernsehen</link>
-</item>
-
-<item>
-<title>De- Discovery Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12284.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Discovery Channel HD</link>
-</item>
-
-<item>
-<title>De- Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12271.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney Channel HD</link>
-</item>
-
-<item>
-<title>De- Disney CineMagic SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12270.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney CineMagic SD</link>
-</item>
-
-<item>
-<title>De- Disney Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12269.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney Junior HD</link>
-</item>
-
-<item>
-<title>De- Disney XD SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12268.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney XD SD</link>
-</item>
-
-<item>
-<title>De- Dmax HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12361.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Dmax HD.</link>
-</item>
-
-<item>
-<title>De- E! HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12366.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- E! HD</link>
-</item>
-
-<item>
-<title>De- EuroNews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12244.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroNews</link>
-</item>
-
-<item>
-<title>De- EuroSport 1 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12350.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 1 FHD</link>
-</item>
-
-<item>
-<title>De- EuroSport 1 HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12349.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 1 HD.</link>
-</item>
-
-<item>
-<title>De- EuroSport 2 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12348.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 FHD</link>
-</item>
-
-<item>
-<title>De- EuroSport 2 HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12347.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 HD.</link>
-</item>
-
-<item>
-<title>De- EuroSport 2 Xtra FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12346.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 Xtra FHD</link>
-</item>
-
-<item>
-<title>De- EuroSport 2 Xtra HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12345.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 Xtra HD</link>
-</item>
-
-<item>
-<title>De- EuroSport360 1 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12344.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 1 FHD</link>
-</item>
-
-<item>
-<title>De- Eurosport360 2 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12343.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Eurosport360 2 FHD</link>
-</item>
-
-<item>
-<title>De- EuroSport360 3 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12342.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 3 FHD</link>
-</item>
-
-<item>
-<title>De- EuroSport360 4 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12341.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 4 FHD</link>
-</item>
-
-<item>
-<title>De- Eurosport360 5 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12340.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Eurosport360 5 FHD</link>
-</item>
-
-<item>
-<title>De- Fashion TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12279.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Fashion TV</link>
-</item>
-
-<item>
-<title>De- Fix & Foxi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12265.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Fix & Foxi</link>
-</item>
-
-<item>
-<title>De- Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12376.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Fox HD</link>
-</item>
-
-<item>
-<title>De- Genius Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12190.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Genius Plus</link>
-</item>
-
-<item>
-<title>De- History FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12283.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- History FHD</link>
-</item>
-
-<item>
-<title>De- HSE24 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12189.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- HSE24 FHD</link>
-</item>
-
-<item>
-<title>De- Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12263.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Junior HD</link>
-</item>
-
-<item>
-<title>De- Juwelo FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12188.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Juwelo FHD</link>
-</item>
-
-<item>
-<title>De- Kabel eins Classic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12214.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins Classic HD</link>
-</item>
-
-<item>
-<title>De- Kabel eins Doku</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12281.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins Doku</link>
-</item>
-
-<item>
-<title>De- Kabel eins HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12215.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins HD.</link>
-</item>
-
-<item>
-<title>De- Kika HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12262.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kika HD</link>
-</item>
-
-<item>
-<title>De- Kinowelt HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12368.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kinowelt HD</link>
-</item>
-
-<item>
-<title>De- Motorvision HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12355.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Motorvision HD</link>
-</item>
-
-<item>
-<title>De- MTV Brand New</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12252.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Brand New</link>
-</item>
-
-<item>
-<title>De- MTV Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12251.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Classic</link>
-</item>
-
-<item>
-<title>De- MTV Dance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12250.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Dance</link>
-</item>
-
-<item>
-<title>De- MTV Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12249.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Europe</link>
-</item>
-
-<item>
-<title>De- MTV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12253.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV HD</link>
-</item>
-
-<item>
-<title>De- MTV Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12248.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Hits</link>
-</item>
-
-<item>
-<title>De- MTV Live HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12247.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Live HD</link>
-</item>
-
-<item>
-<title>De- MTV Rocks</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12246.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Rocks</link>
-</item>
-
-<item>
-<title>De- N-TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12245.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- N-TV HD</link>
-</item>
-
-<item>
-<title>De- N24 Doku</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12282.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- N24 Doku</link>
-</item>
-
-<item>
-<title>De- Nat Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12288.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Nat Geo HD</link>
-</item>
-
-<item>
-<title>De- Nat Geo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12287.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Nat Geo Wild HD</link>
-</item>
-
-<item>
-<title>De- NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12199.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- NDR HD</link>
-</item>
-
-<item>
-<title>De- Nickelodeon HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12261.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Nickelodeon HD</link>
-</item>
-
-<item>
-<title>De- One HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12198.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- One HD</link>
-</item>
-
-<item>
-<title>De- ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12196.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF 1 HD</link>
-</item>
-
-<item>
-<title>De- ORF 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12195.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF 2 HD</link>
-</item>
-
-<item>
-<title>De- ORF Eins FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12197.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF Eins FHD</link>
-</item>
-
-<item>
-<title>De- ORF Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12194.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF Sport HD</link>
-</item>
-
-<item>
-<title>De- Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12273.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Phoenix</link>
-</item>
-
-<item>
-<title>De- Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12285.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Planet HD</link>
-</item>
-
-<item>
-<title>De- Pro 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12228.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro 7 HD</link>
-</item>
-
-<item>
-<title>De- Pro 7 Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12225.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro 7 Maxx HD</link>
-</item>
-
-<item>
-<title>De- Pro7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12227.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7</link>
-</item>
-
-<item>
-<title>De- Pro7 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12229.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 FHD</link>
-</item>
-
-<item>
-<title>De- Pro7 Fun FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12230.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Fun FHD</link>
-</item>
-
-<item>
-<title>De- Pro7 Maxx FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12226.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Maxx FHD</link>
-</item>
-
-<item>
-<title>De- Pro7 Maxx SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12224.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Maxx SD</link>
-</item>
-
-<item>
-<title>De- Romance TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12193.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Romance TV</link>
-</item>
-
-<item>
-<title>De- RTL Crime SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12365.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Crime SD</link>
-</item>
-
-<item>
-<title>De- RTL FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12243.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL FHD</link>
-</item>
-
-<item>
-<title>De- RTL HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12242.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL HD.</link>
-</item>
-
-<item>
-<title>De- RTL II</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12238.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II</link>
-</item>
-
-<item>
-<title>De- RTL II FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12240.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II FHD</link>
-</item>
-
-<item>
-<title>De- RTL II HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12239.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II HD</link>
-</item>
-
-<item>
-<title>De- RTL Living HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12362.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Living HD</link>
-</item>
-
-<item>
-<title>De- RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12217.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Nitro HD</link>
-</item>
-
-<item>
-<title>De- RTL Passion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12364.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Passion HD</link>
-</item>
-
-<item>
-<title>De- RTL Passion SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12363.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Passion SD</link>
-</item>
-
-<item>
-<title>De- RTL Plus SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12237.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Plus SD</link>
-</item>
-
-<item>
-<title>De- RTL SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12241.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL SD</link>
-</item>
-
-<item>
-<title>De- Sat.1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12231.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1</link>
-</item>
-
-<item>
-<title>De- Sat.1 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12233.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 FHD</link>
-</item>
-
-<item>
-<title>De- Sat.1 Gold FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12220.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 Gold FHD</link>
-</item>
-
-<item>
-<title>De- Sat.1 Gold SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12218.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 Gold SD</link>
-</item>
-
-<item>
-<title>De- Sat.1 HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12232.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 HD.</link>
-</item>
-
-<item>
-<title>De- Sat1 Emotions</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12216.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat1 Emotions</link>
-</item>
-
-<item>
-<title>De- Sat1 Gold HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12219.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat1 Gold HD</link>
-</item>
-
-<item>
-<title>De- Sixx FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12223.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sixx FHD</link>
-</item>
-
-<item>
-<title>De- SIXX HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12222.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- SIXX HD.</link>
-</item>
-
-<item>
-<title>De- Sixx SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12221.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sixx SD</link>
-</item>
-
-<item>
-<title>De- Sport 1 HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12360.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport 1 HD.</link>
-</item>
-
-<item>
-<title>De- Sport1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12359.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport1 HD</link>
-</item>
-
-<item>
-<title>De- Sport1 US FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12358.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport1 US FHD</link>
-</item>
-
-<item>
-<title>De- Sportdigital HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12357.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sportdigital HD</link>
-</item>
-
-<item>
-<title>De- Super RTL FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12259.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL FHD</link>
-</item>
-
-<item>
-<title>De- Super RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12258.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL HD</link>
-</item>
-
-<item>
-<title>De- Super RTL SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12257.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL SD</link>
-</item>
-
-<item>
-<title>De- SyFy SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12375.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- SyFy SD</link>
-</item>
-
-<item>
-<title>De- Tele 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12192.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Tele 5 HD</link>
-</item>
-
-<item>
-<title>De- TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12278.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TLC HD</link>
-</item>
-
-<item>
-<title>De- TNT Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12369.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Comedy HD</link>
-</item>
-
-<item>
-<title>De- TNT Film HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12371.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Film HD</link>
-</item>
-
-<item>
-<title>De- TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12370.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Serie HD</link>
-</item>
-
-<item>
-<title>De- Toggo Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12260.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Toggo Plus</link>
-</item>
-
-<item>
-<title>De- Travel Channel FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12280.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Travel Channel FHD</link>
-</item>
-
-<item>
-<title>De- Universal Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12373.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Universal Channel HD</link>
-</item>
-
-<item>
-<title>De- VOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12235.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX HD</link>
-</item>
-
-<item>
-<title>De- VOX FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12236.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX FHD</link>
-</item>
-
-<item>
-<title>De- VOX SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12234.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX SD</link>
-</item>
-
-<item>
-<title>De- ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12208.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF</link>
-</item>
-
-<item>
-<title>De- ZDF FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12210.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF FHD</link>
-</item>
-
-<item>
-<title>De- ZDF HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12209.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF HD.</link>
-</item>
-
-<item>
-<title>De- ZDF Info HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12207.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Info HD</link>
-</item>
-
-<item>
-<title>De- ZDF Neo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12204.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo</link>
-</item>
-
-<item>
-<title>De- ZDF Neo FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12206.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo FHD</link>
-</item>
-
-<item>
-<title>De- ZDF Neo HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12205.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo HD.</link>
+<title>De- Zee One FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12389.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Zee One FHD</link>
 </item>
 
 <item>
 <title>De- Zee One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12388.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Zee One</link>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12388.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Zee One</link>
 </item>
 
 <item>
-<title>De- Zee One FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/jian/jian/12389.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Zee One FHD</link>
+<title>De- ZDF FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12210.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF FHD</link>
 </item>
 
 <item>
-<title>De:13th Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33535.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:13th Street</link>
+<title>De- ZDF HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12209.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF HD.</link>
 </item>
 
 <item>
-<title>De:13th Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32699.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:13th Street HD</link>
+<title>De- ZDF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12208.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF</link>
 </item>
 
 <item>
-<title>De:3 SAT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33567.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:3 SAT HD</link>
+<title>De- ZDF Neo FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12206.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo FHD</link>
 </item>
 
 <item>
-<title>De:ANIMAL_PLANET_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33547.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ANIMAL_PLANET_HD</link>
+<title>De- ZDF Neo HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12205.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo HD.</link>
 </item>
 
 <item>
-<title>De:ARTE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33551.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ARTE HD</link>
+<title>De- ZDF Neo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12204.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo</link>
 </item>
 
 <item>
-<title>De:ARTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32682.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ARTE</link>
+<title>De- ZDF Info HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12207.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Info HD</link>
 </item>
 
 <item>
-<title>De:AXN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33549.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:AXN_HD</link>
+<title>De- VOX FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12236.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX FHD</link>
 </item>
 
 <item>
-<title>De:Anixe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/34092.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Anixe</link>
+<title>De- VOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12235.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX HD</link>
 </item>
 
 <item>
-<title>De:Astro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/34091.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Astro</link>
+<title>De- VOX SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12234.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX SD</link>
 </item>
 
 <item>
-<title>De:BR Fernsehen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/34090.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:BR Fernsehen</link>
+<title>De- Dmax HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12361.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Dmax HD.</link>
 </item>
 
 <item>
-<title>De:Cartoon Network de</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32198.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Cartoon Network de</link>
+<title>De- RTL FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12243.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL FHD</link>
 </item>
 
 <item>
-<title>De:Das Erste</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32683.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Das Erste</link>
+<title>De- RTL HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12242.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL HD.</link>
 </item>
 
 <item>
-<title>De:Das Erste HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32232.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Das Erste HD</link>
+<title>De- RTL SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12241.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL SD</link>
 </item>
 
 <item>
-<title>De:DAZN Bar 1 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/38439.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:DAZN Bar 1 FHD</link>
+<title>De- RTL II FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12240.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II FHD</link>
 </item>
 
 <item>
-<title>De:DAZN Bar 2 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/36827.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:DAZN Bar 2 FHD</link>
+<title>De- RTL II HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12239.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II HD</link>
 </item>
 
 <item>
-<title>De:DELUXE_MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33556.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:DELUXE_MUSIC</link>
+<title>De- RTL II</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12238.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II</link>
 </item>
 
 <item>
-<title>De:Classica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/37096.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Classica</link>
+<title>De- RTL Nitro HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12217.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Nitro HD</link>
 </item>
 
 <item>
-<title>De:DISCOVERY_CHANNEL_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33546.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:DISCOVERY_CHANNEL_DE</link>
+<title>De- RTL Living HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12362.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Living HD</link>
 </item>
 
 <item>
-<title>De:Disney Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32202.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Disney Cinemagic</link>
+<title>De- RTL Passion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12364.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Passion HD</link>
 </item>
 
 <item>
-<title>De:Disney ʜᴅ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31462.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Disney ʜᴅ</link>
+<title>De- RTL Passion SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12363.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Passion SD</link>
 </item>
 
 <item>
-<title>De:Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32203.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Disney Junior</link>
+<title>De- RTL Crime SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12365.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Crime SD</link>
 </item>
 
 <item>
-<title>De:Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32201.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Disney XD</link>
+<title>De- RTL Plus SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12237.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Plus SD</link>
 </item>
 
 <item>
-<title>De:DMAX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33580.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:DMAX_HD</link>
+<title>De- Super RTL FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12259.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL FHD</link>
 </item>
 
 <item>
-<title>De:DMAX_SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33579.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:DMAX_SD</link>
+<title>De- Super RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12258.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL HD</link>
 </item>
 
 <item>
-<title>De:E!_ENTERTAINM_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33539.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:E!_ENTERTAINM_HD</link>
+<title>De- Super RTL SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12257.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL SD</link>
 </item>
 
 <item>
-<title>De:Eins Festival</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31458.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Eins Festival</link>
+<title>De- Arte FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12202.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Arte FHD</link>
 </item>
 
 <item>
-<title>De:FOX FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33557.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:FOX FHD</link>
+<title>De- Das Erste FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12213.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste FHD</link>
 </item>
 
 <item>
-<title>De:Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31457.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Fox HD</link>
+<title>De- Das Erste HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12212.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste HD.</link>
 </item>
 
 <item>
-<title>De:Fox Serie ʜᴅ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31456.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Fox Serie ʜᴅ</link>
+<title>De- Das Erste</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12211.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste</link>
 </item>
 
 <item>
-<title>De:History HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32702.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:History HD</link>
+<title>De- Sat.1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12233.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 FHD</link>
 </item>
 
 <item>
-<title>De:HISTORY_CHANNEL_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33543.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:HISTORY_CHANNEL_DE</link>
+<title>De- Sat.1 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12232.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 HD.</link>
 </item>
 
 <item>
-<title>De:Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32199.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Junior</link>
+<title>De- Sat.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12231.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1</link>
 </item>
 
 <item>
-<title>De:KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/34087.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:KIKA</link>
+<title>De- Sat.1 Gold FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12220.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 Gold FHD</link>
 </item>
 
 <item>
-<title>De:KABEL_EINS_CLASSIC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33564.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:KABEL_EINS_CLASSIC_HD</link>
+<title>De- Sat.1 Gold SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12218.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 Gold SD</link>
 </item>
 
 <item>
-<title>De:KABEL_EINS_DOKU</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33563.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:KABEL_EINS_DOKU</link>
+<title>De- Pro7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12229.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 FHD</link>
 </item>
 
 <item>
-<title>De:KABEL_EINS_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33565.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:KABEL_EINS_HD</link>
+<title>De- Pro7 Fun FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12230.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Fun FHD</link>
 </item>
 
 <item>
-<title>De:N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/34089.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:N24</link>
+<title>De- Pro7 Maxx FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12226.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Maxx FHD</link>
 </item>
 
 <item>
-<title>De:NDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/34088.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:NDR</link>
+<title>De- Pro 7 Maxx HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12225.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro 7 Maxx HD</link>
 </item>
 
 <item>
-<title>De:NAT_GEO_WILD_HD_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33544.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:NAT_GEO_WILD_HD_DE</link>
+<title>De- Pro7 Maxx SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12224.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Maxx SD</link>
 </item>
 
 <item>
-<title>De:NATIONAL_GEOGRAPHIC_HD_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33545.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:NATIONAL_GEOGRAPHIC_HD_DE</link>
+<title>De- Pro 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12228.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro 7 HD</link>
 </item>
 
 <item>
-<title>De:NICKELODEON_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33574.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:NICKELODEON_HD</link>
+<title>De- Pro7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12227.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7</link>
 </item>
 
 <item>
-<title>De:Nickeloodeon HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32693.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Nickeloodeon HD</link>
+<title>De- N-TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12245.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- N-TV HD</link>
 </item>
 
 <item>
-<title>De:NTV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33559.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:NTV_HD</link>
+<title>De- Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12273.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Phoenix</link>
 </item>
 
 <item>
-<title>De:ORF_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33562.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ORF_1_HD</link>
+<title>De- Kabel eins HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12215.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins HD.</link>
 </item>
 
 <item>
-<title>De:ORF_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33561.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ORF_2_HD</link>
+<title>De- Kabel eins Doku</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12281.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins Doku</link>
 </item>
 
 <item>
-<title>De:ORF_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/37094.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ORF_3_HD</link>
+<title>De- Kabel eins Classic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12214.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins Classic HD</link>
 </item>
 
 <item>
-<title>De:ORF_Sport_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/37095.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ORF_Sport_HD</link>
+<title>De- Sat1 Emotions</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12216.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat1 Emotions</link>
 </item>
 
 <item>
-<title>De:PHOENIX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33560.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:PHOENIX_HD</link>
+<title>De- Sat1 Gold HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12219.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat1 Gold HD</link>
 </item>
 
 <item>
-<title>De:PLANET_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33548.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:PLANET_HD</link>
+<title>De- Sixx FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12223.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sixx FHD</link>
 </item>
 
 <item>
-<title>De:PROSIEBEN_FUN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33582.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:PROSIEBEN_FUN_HD</link>
+<title>De- SIXX HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12222.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- SIXX HD.</link>
 </item>
 
 <item>
-<title>De:PROSIEBEN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33584.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:PROSIEBEN_HD</link>
+<title>De- Sixx SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12221.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sixx SD</link>
 </item>
 
 <item>
-<title>De:PROSIEBEN_MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33581.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:PROSIEBEN_MAXX</link>
+<title>De- Tele 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12192.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Tele 5 HD</link>
 </item>
 
 <item>
-<title>De:PROSIEBEN_SCHWEIZ_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33583.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:PROSIEBEN_SCHWEIZ_HD</link>
+<title>De- 13th Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12372.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- 13th Street HD</link>
 </item>
 
 <item>
-<title>De:REeins</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31437.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:REeins</link>
+<title>De- 3Sat HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12203.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- 3Sat HD</link>
 </item>
 
 <item>
-<title>De:Romance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31435.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Romance</link>
+<title>De- TNT Film HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12371.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Film HD</link>
 </item>
 
 <item>
-<title>De:ROMANCE_TV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33552.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ROMANCE_TV_HD</link>
+<title>De- TNT Serie HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12370.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Serie HD</link>
 </item>
 
 <item>
-<title>De:RTL Nitro FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32686.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL Nitro FHD</link>
+<title>De- TNT Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12369.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Comedy HD</link>
 </item>
 
 <item>
-<title>De:RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33588.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL Nitro HD</link>
+<title>De- TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12278.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- TLC HD</link>
 </item>
 
 <item>
-<title>De:RTL Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33589.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL Passion</link>
+<title>De- SyFy SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12375.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- SyFy SD</link>
 </item>
 
 <item>
-<title>De:RTL Passion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31430.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL Passion HD</link>
+<title>De- Sky 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12379.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky 1 HD</link>
 </item>
 
 <item>
-<title>De:RTL_CRIME_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33586.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_CRIME_HD</link>
+<title>De- Sky Arts HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12276.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Arts HD</link>
 </item>
 
 <item>
-<title>De:RTL_FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33593.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_FHD</link>
+<title>De- Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12378.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Atlantic</link>
 </item>
 
 <item>
-<title>De:RTL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33592.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_HD</link>
+<title>De- Sky Krimi SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12377.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Krimi SD</link>
 </item>
 
 <item>
-<title>De:RTL_II_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33590.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_II_HD</link>
+<title>De- Sky Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12398.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema HD</link>
 </item>
 
 <item>
-<title>De:RTL_LIVING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33587.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_LIVING</link>
+<title>De- Sky Cinema 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12397.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema 1 HD</link>
 </item>
 
 <item>
-<title>De:RTL_PLUS_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33585.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_PLUS_DE</link>
+<title>De- Sky Cinema Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12393.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Hits HD</link>
 </item>
 
 <item>
-<title>De:RTL_SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33591.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL_SD</link>
+<title>De- Sky Cinema 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12396.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema 24 HD</link>
 </item>
 
 <item>
-<title>De:RTL-2-HD-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32684.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL-2-HD-DE</link>
+<title>De- Sky Cinema Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12395.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Action HD</link>
 </item>
 
 <item>
-<title>De:RTL-HD-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32685.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:RTL-HD-DE</link>
+<title>De- Sky Cinema Comedy SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12392.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Comedy SD</link>
 </item>
 
 <item>
-<title>De:SAT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31429.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SAT 1</link>
+<title>De- Sky Cinema Emotion SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12391.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Emotion SD</link>
 </item>
 
 <item>
-<title>De:SAT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33578.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SAT 1 HD</link>
+<title>De- Sky Cinema Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12394.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Family HD</link>
 </item>
 
 <item>
-<title>De:SAT.1_EMOTIONS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33577.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SAT.1_EMOTIONS</link>
+<title>De- Sky Cinema Nostalgie SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12390.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Nostalgie SD</link>
 </item>
 
 <item>
-<title>De:SAT.1_GOLD_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33576.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SAT.1_GOLD_HD</link>
+<title>De- Sky Select 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12387.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 1 FHD</link>
 </item>
 
 <item>
-<title>De:SERVUS_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33575.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SERVUS_HD</link>
+<title>De- Sky Select 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12386.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 2 FHD</link>
 </item>
 
 <item>
-<title>De:SIXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32700.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SIXX HD</link>
+<title>De- Sky Select 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12385.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 3 FHD</link>
 </item>
 
 <item>
-<title>De:SIXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33550.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:SIXX</link>
+<title>De- Sky Select 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12384.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 4 FHD</link>
 </item>
 
 <item>
-<title>De:TAGESSCHAU_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33555.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:TAGESSCHAU_HD</link>
+<title>De- Sky Select 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12383.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 5 FHD</link>
 </item>
 
 <item>
-<title>De:Tlc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32213.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Tlc</link>
+<title>De- Sky Select 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12382.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 6 HD</link>
 </item>
 
 <item>
-<title>De:TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33573.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:TLC HD</link>
+<title>De- Sky Select 7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12381.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 7 FHD</link>
 </item>
 
 <item>
-<title>De:Tnt Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31392.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Tnt Comedy HD</link>
+<title>De- Sky Select 8 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12380.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 8 FHD</link>
 </item>
 
 <item>
-<title>De:TNT_COMEDY_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33537.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:TNT_COMEDY_HD</link>
+<title>De- A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12272.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- A&E</link>
 </item>
 
 <item>
-<title>De:TNT_FILM_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33536.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:TNT_FILM_HD</link>
+<title>De- Arte HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12201.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Arte HD.</link>
 </item>
 
 <item>
-<title>De:TNT_SERIE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33538.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:TNT_SERIE_HD</link>
+<title>De- ATV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12200.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ATV HD</link>
 </item>
 
 <item>
-<title>De:UNIVERSAL_CHANNEL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33540.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:UNIVERSAL_CHANNEL_HD</link>
+<title>De- AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12374.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- AXN HD</link>
 </item>
 
 <item>
-<title>De:Vh1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32694.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:Vh1</link>
+<title>De- Anixe Serie FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12191.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Anixe Serie FHD</link>
 </item>
 
 <item>
-<title>De:VH1 Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32692.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:VH1 Classic</link>
+<title>De- Classica SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12255.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Classica SD</link>
 </item>
 
 <item>
-<title>De:VIVA/COMEDY_CENTRAL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33553.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:VIVA/COMEDY_CENTRAL_HD</link>
+<title>De- Deluxe Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12256.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Deluxe Music</link>
 </item>
 
 <item>
-<title>De:VOX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33568.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:VOX_HD</link>
+<title>De- Deutsches Musik Fernsehen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12254.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Deutsches Musik Fernsehen</link>
 </item>
 
 <item>
-<title>De:VOX-HD-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32688.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:VOX-HD-DE</link>
+<title>De- E! HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12366.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- E! HD</link>
 </item>
 
 <item>
-<title>De:WDR_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33569.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:WDR_HD</link>
+<title>De- EuroNews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12244.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroNews</link>
 </item>
 
 <item>
-<title>De:WELT_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33558.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:WELT_HD</link>
+<title>De- Fashion TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12279.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Fashion TV</link>
 </item>
 
 <item>
-<title>De:ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32231.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZDF</link>
+<title>De- Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12376.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Fox HD</link>
 </item>
 
 <item>
-<title>De:ZDF Fhd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/31388.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZDF Fhd</link>
+<title>De- Genius Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12190.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Genius Plus</link>
 </item>
 
 <item>
-<title>De:ZDF Neo FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/32230.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZDF Neo FHD</link>
+<title>De- History FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12283.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- History FHD</link>
 </item>
 
 <item>
-<title>De:ZDF NEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33570.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZDF NEO HD</link>
+<title>De- HSE24 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12189.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- HSE24 FHD</link>
 </item>
 
 <item>
-<title>De:ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33572.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZDF HD</link>
+<title>De- Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12263.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Junior HD</link>
 </item>
 
 <item>
-<title>De:ZDF INFO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33571.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZDF INFO HD</link>
+<title>De- Juwelo FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12188.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Juwelo FHD</link>
 </item>
 
 <item>
-<title>De:ZEE ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/33554.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZEE ONE</link>
+<title>De- Kika HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12262.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kika HD</link>
 </item>
 
 <item>
-<title>De:ZEE ONE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.92.157:25461/live/osama/2018/29057.ts&amp;streamtype=TSDOWNLOADER&amp;name=De:ZEE ONE HD</link>
+<title>De- Kinowelt HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12368.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Kinowelt HD</link>
+</item>
+
+<item>
+<title>De- Romance TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12193.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Romance TV</link>
+</item>
+
+<item>
+<title>De- N24 Doku</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12282.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- N24 Doku</link>
+</item>
+
+<item>
+<title>De- NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12199.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- NDR HD</link>
+</item>
+
+<item>
+<title>De- One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12198.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- One HD</link>
+</item>
+
+<item>
+<title>De- ORF 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12196.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF 1 HD</link>
+</item>
+
+<item>
+<title>De- ORF 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12195.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF 2 HD</link>
+</item>
+
+<item>
+<title>De- ORF Eins FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12197.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF Eins FHD</link>
+</item>
+
+<item>
+<title>De- Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12285.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Planet HD</link>
+</item>
+
+<item>
+<title>De- Sony Enterainment HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12367.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sony Enterainment HD</link>
+</item>
+
+<item>
+<title>De- Spiegel Tv Geschichte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12275.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Spiegel Tv Geschichte HD</link>
+</item>
+
+<item>
+<title>De- Spiegel TV Wissen HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12274.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Spiegel TV Wissen HD</link>
+</item>
+
+<item>
+<title>De- Toggo Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12260.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Toggo Plus</link>
+</item>
+
+<item>
+<title>De- Universal Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12373.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Universal Channel HD</link>
+</item>
+
+<item>
+<title>De- MTV Brand New</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12252.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Brand New</link>
+</item>
+
+<item>
+<title>De- MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12251.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Classic</link>
+</item>
+
+<item>
+<title>De- MTV Dance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12250.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Dance</link>
+</item>
+
+<item>
+<title>De- MTV Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12249.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Europe</link>
+</item>
+
+<item>
+<title>De- MTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12253.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV HD</link>
+</item>
+
+<item>
+<title>De- MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12248.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Hits</link>
+</item>
+
+<item>
+<title>De- MTV Live HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12247.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Live HD</link>
+</item>
+
+<item>
+<title>De- MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12246.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Rocks</link>
+</item>
+
+<item>
+<title>De- Travel Channel FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12280.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Travel Channel FHD</link>
+</item>
+
+<item>
+<title>De- Nat Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12288.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Nat Geo HD</link>
+</item>
+
+<item>
+<title>De- Nat Geo Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12287.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Nat Geo Wild HD</link>
+</item>
+
+<item>
+<title>De- Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12286.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Animal Planet HD</link>
+</item>
+
+<item>
+<title>De- Discovery Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12284.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Discovery Channel HD</link>
+</item>
+
+<item>
+<title>De- Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12264.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Baby TV</link>
+</item>
+
+<item>
+<title>De- Nickelodeon HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12261.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Nickelodeon HD</link>
+</item>
+
+<item>
+<title>De- Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12266.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Boomerang</link>
+</item>
+
+<item>
+<title>De- Cartoon Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12267.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Cartoon Network HD</link>
+</item>
+
+<item>
+<title>De- Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12271.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney Channel HD</link>
+</item>
+
+<item>
+<title>De- Disney CineMagic SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12270.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney CineMagic SD</link>
+</item>
+
+<item>
+<title>De- Disney Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12269.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney Junior HD</link>
+</item>
+
+<item>
+<title>De- Disney XD SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12268.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney XD SD</link>
+</item>
+
+<item>
+<title>De- Fix & Foxi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12265.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Fix & Foxi</link>
+</item>
+
+<item>
+<title>De- Sky Sport News FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12352.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport News FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport News HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12351.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport News HD.</link>
+</item>
+
+<item>
+<title>De- Sky Sport Austria FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12354.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Austria FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Austria SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12353.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Austria SD</link>
+</item>
+
+<item>
+<title>De- Auto Motor Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12356.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Auto Motor Sport HD</link>
+</item>
+
+<item>
+<title>De- ORF Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12194.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF Sport HD</link>
+</item>
+
+<item>
+<title>De- Motorvision HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12355.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Motorvision HD</link>
+</item>
+
+<item>
+<title>De- Sport 1 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12360.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport 1 HD.</link>
+</item>
+
+<item>
+<title>De- Sport1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12359.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport1 HD</link>
+</item>
+
+<item>
+<title>De- Sport1 US FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12358.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport1 US FHD</link>
+</item>
+
+<item>
+<title>De- Sportdigital HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12357.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sportdigital HD</link>
+</item>
+
+<item>
+<title>De- DAZN 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12339.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- DAZN 1 FHD</link>
+</item>
+
+<item>
+<title>De- DAZN 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12338.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- DAZN 2 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12350.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 1 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 1 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12349.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 1 HD.</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12348.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12347.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 HD.</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 Xtra FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12346.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 Xtra FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 Xtra HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12345.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 Xtra HD</link>
+</item>
+
+<item>
+<title>De- EuroSport360 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12344.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 1 FHD</link>
+</item>
+
+<item>
+<title>De- Eurosport360 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12343.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Eurosport360 2 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport360 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12342.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 3 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport360 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12341.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 4 FHD</link>
+</item>
+
+<item>
+<title>De- Eurosport360 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12340.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Eurosport360 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12335.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 1</link>
+</item>
+
+<item>
+<title>De- Sky Sport 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12337.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 1 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12336.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 1 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12332.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 2</link>
+</item>
+
+<item>
+<title>De- Sky Sport 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12334.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 2 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12333.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 2 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12329.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 3</link>
+</item>
+
+<item>
+<title>De- Sky Sport 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12331.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 3 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12330.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 3 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12326.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 4</link>
+</item>
+
+<item>
+<title>De- Sky Sport 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12328.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 4 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12327.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 4 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12323.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 5</link>
+</item>
+
+<item>
+<title>De- Sky Sport 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12325.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12324.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 5 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12320.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 6</link>
+</item>
+
+<item>
+<title>De- Sky Sport 6 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12322.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 6 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12321.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 6 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12317.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 7</link>
+</item>
+
+<item>
+<title>De- Sky Sport 7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12319.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 7 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12318.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 7 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 8 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12316.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 8 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12315.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 8 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 9 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12314.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 9 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12313.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 9 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 10 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12312.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 10 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12311.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 10 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 11 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12310.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 11 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12309.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 11 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12308.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 1 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12307.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 1 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 10 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12290.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 10 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12289.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 10 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12306.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 2 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12305.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 2 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12304.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 3 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12303.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 3 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12302.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 4 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12301.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 4 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12300.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12299.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 5 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 6 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12298.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 6 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12297.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 6 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12296.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 7 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12295.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 7 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 8 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12294.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 8 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12293.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 8 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 9 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12292.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 9 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://194.88.107.101:6204/live/rahman/rahman/12291.ts&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 9 HD</link>
+</item>
+
+<item>
+<title>‚ñ? ‚ñÇ ‚ñÑ‚òÜDE-AFLAM‚òÜ‚ñÑ ‚ñÇ ‚ñ?</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-janberyan.com:25461/live/Jan_e3x483t8bqym/9t28joyeg6v7/12041.ts&amp;streamtype=TSDOWNLOADER&amp;name=‚ñ? ‚ñÇ ‚ñÑ‚òÜDE-AFLAM‚òÜ‚ñÑ ‚ñÇ ‚ñ?</link>
 </item>
