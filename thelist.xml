@@ -1,428 +1,927 @@
 <item>
-<title>DE: Kika</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3426.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika</link>
-</item>
-
-<item>
-<title>DE: SUPER.RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3423.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: SUPER.RTL HD</link>
-</item>
-
-<item>
-<title>DE: Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7214.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang</link>
-</item>
-
-<item>
-<title>DE: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3424.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nickelodeon</link>
-</item>
-
-<item>
-<title>DE: Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7210.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD</link>
-</item>
-
-<item>
-<title>DE: Disney.Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3425.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney.Junior</link>
-</item>
-
-<item>
-<title>DE: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7212.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel</link>
-</item>
-
-<item>
-<title>DE: Disney Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7211.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic</link>
-</item>
-
-<item>
-<title>DE: Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7213.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DE: Cartoon Network</link>
+<title>--------GERMANY--------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3466.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------GERMANY--------</link>
 </item>
 
 <item>
 <title>Das Erste</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3465.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Das Erste</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Das Erste</link>
 </item>
 
 <item>
 <title>ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3464.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=ZDF</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3464.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF</link>
 </item>
 
 <item>
 <title>RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3463.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTL HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3463.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL HD</link>
 </item>
 
 <item>
 <title>RTLII HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3462.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTLII HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3462.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTLII HD</link>
 </item>
 
 <item>
 <title>SAT.1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3453.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3453.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 HD</link>
 </item>
 
 <item>
 <title>ProSieben HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3456.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3456.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben HD</link>
 </item>
 
 <item>
 <title>VOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3457.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=VOX HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3457.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOX HD</link>
 </item>
 
 <item>
 <title>kabel eins HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3454.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=kabel eins HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3454.ts&amp;streamtype=TSDOWNLOADER&amp;name=kabel eins HD</link>
 </item>
 
 <item>
 <title>n tv HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3450.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=n tv HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3450.ts&amp;streamtype=TSDOWNLOADER&amp;name=n tv HD</link>
 </item>
 
 <item>
 <title>N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3451.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=N24</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3451.ts&amp;streamtype=TSDOWNLOADER&amp;name=N24</link>
 </item>
 
 <item>
 <title>3sat</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3449.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=3sat</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3449.ts&amp;streamtype=TSDOWNLOADER&amp;name=3sat</link>
 </item>
 
 <item>
 <title>Dmax'</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7119.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Dmax'</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7119.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax'</link>
 </item>
 
 <item>
 <title>ZEE one</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9128.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=ZEE one</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9128.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE one</link>
 </item>
 
 <item>
 <title>Sky Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3447.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema</link>
 </item>
 
 <item>
 <title>Sky.Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3444.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Action</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Action</link>
 </item>
 
 <item>
 <title>Sky.Cinema Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3441.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Hits</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Hits</link>
 </item>
 
 <item>
 <title>Sky.Cinema Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3442.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Family</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Family</link>
 </item>
 
 <item>
 <title>Sky.Cinema Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3443.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Comedy</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Comedy</link>
 </item>
 
 <item>
 <title>Sky.Cinema Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3438.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Emotion</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Emotion</link>
 </item>
 
 <item>
 <title>Sky.Cinema Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3434.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Nostalgie</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3434.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Cinema Nostalgie</link>
 </item>
 
 <item>
 <title>Sky Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3440.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic</link>
 </item>
 
 <item>
 <title>Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3437.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Krimi</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Krimi</link>
 </item>
 
 <item>
 <title>RTL PLUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3458.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTL PLUS</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3458.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL PLUS</link>
 </item>
 
 <item>
 <title>RTL Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3459.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTL Passion</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3459.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Passion</link>
 </item>
 
 <item>
 <title>RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3460.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTL Crime</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3460.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Crime</link>
 </item>
 
 <item>
 <title>RTL NITRO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7117.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTL NITRO HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7117.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL NITRO HD</link>
 </item>
 
 <item>
 <title>RTL Living</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3461.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=RTL Living</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3461.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Living</link>
 </item>
 
 <item>
 <title>SAT.1 GOLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3452.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 GOLD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3452.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 GOLD</link>
 </item>
 
 <item>
 <title>ProSieben MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3455.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben MAXX</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3455.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben MAXX</link>
 </item>
 
 <item>
 <title>SyFy.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9468.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SyFy.</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9468.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy.</link>
 </item>
 
 <item>
 <title>SIXX-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3430.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SIXX-HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3430.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIXX-HD</link>
 </item>
 
 <item>
 <title>TNT.Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3428.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=TNT.Film</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3428.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT.Film</link>
 </item>
 
 <item>
 <title>TNT-Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3427.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=TNT-Serie</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3427.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT-Serie</link>
 </item>
 
 <item>
 <title>13th-Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3448.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=13th-Street</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3448.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th-Street</link>
 </item>
 
 <item>
 <title>AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3435.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3435.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link>
 </item>
 
 <item>
 <title>Anixe.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3432.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Anixe.</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3432.ts&amp;streamtype=TSDOWNLOADER&amp;name=Anixe.</link>
 </item>
 
 <item>
 <title>Fox.Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3436.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Fox.Serie</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox.Serie</link>
 </item>
 
 <item>
 <title>Kinowelt TV.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3418.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Kinowelt TV.</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kinowelt TV.</link>
 </item>
 
 <item>
 <title>E! ENTERTAINMENT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3433.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3433.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT HD</link>
 </item>
 
 <item>
 <title>Heimatkanal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3419.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Heimatkanal</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Heimatkanal</link>
 </item>
 
 <item>
 <title>ORF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3397.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=ORF1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3397.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF1</link>
 </item>
 
 <item>
 <title>History HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3417.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=History HD.</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3417.ts&amp;streamtype=TSDOWNLOADER&amp;name=History HD.</link>
 </item>
 
 <item>
 <title>National.Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3422.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=National.Geographic</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3422.ts&amp;streamtype=TSDOWNLOADER&amp;name=National.Geographic</link>
 </item>
 
 <item>
 <title>Nat Geo Wild'</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/8688.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild'</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/8688.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild'</link>
 </item>
 
 <item>
 <title>Discovery.Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3421.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Discovery.Channel</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery.Channel</link>
 </item>
 
 <item>
 <title>Spiegel Geschichte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/8425.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel Geschichte</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/8425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel Geschichte</link>
 </item>
 
 <item>
 <title>Classica.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9469.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Classica.</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Classica.</link>
 </item>
 
 <item>
 <title>SKY.GOLD STAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3420.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SKY.GOLD STAR</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY.GOLD STAR</link>
 </item>
 
 <item>
 <title>Sky Sport News. HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3439.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport News. HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport News. HD</link>
 </item>
 
 <item>
 <title>Sky Sport Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3398.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Austria</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3398.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Austria</link>
 </item>
 
 <item>
 <title>Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9129.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9129.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link>
 </item>
 
 <item>
 <title>Euro sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9130.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Euro sport 2 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9130.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euro sport 2 HD</link>
 </item>
 
 <item>
 <title>eurosport 2 Extra HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9199.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 2 Extra HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9199.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 2 Extra HD</link>
 </item>
 
 <item>
 <title>SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7118.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SPORT 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7118.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT 1 HD</link>
 </item>
 
 <item>
 <title>DAZN 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/11405.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DAZN 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/11405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DAZN 1</link>
 </item>
 
 <item>
 <title>DAZN 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/11406.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=DAZN 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/11406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DAZN 2</link>
 </item>
 
 <item>
 <title>Sky Sport.1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3415.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport.1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport.1</link>
 </item>
 
 <item>
 <title>Sky Sport.2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/3414.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport.2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport.2</link>
 </item>
 
 <item>
 <title>sky sport.3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9435.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9435.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.3</link>
 </item>
 
 <item>
 <title>sky sport.4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9436.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9436.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.4</link>
 </item>
 
 <item>
 <title>sky sport.5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9437.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9437.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.5</link>
 </item>
 
 <item>
 <title>sky sport.6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9438.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.6</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9438.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.6</link>
 </item>
 
 <item>
 <title>sky sport.7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9439.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.7</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9439.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.7</link>
 </item>
 
 <item>
 <title>sky sport.8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9440.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9440.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.8</link>
 </item>
 
 <item>
 <title>sky sport.9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9441.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.9</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9441.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.9</link>
 </item>
 
 <item>
 <title>sky sport.10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/9442.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.10</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9442.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky sport.10</link>
+</item>
+
+<item>
+<title>Sky.Sport Bundesliga1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Sport Bundesliga1</link>
+</item>
+
+<item>
+<title>Sky Sport Bundesliga1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/8687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Bundesliga1 HD</link>
+</item>
+
+<item>
+<title>Sky.Sport .Bundesliga2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Sport .Bundesliga2</link>
+</item>
+
+<item>
+<title>sky bundesliga 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9443.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 3</link>
+</item>
+
+<item>
+<title>sky bundesliga 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9444.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 4</link>
+</item>
+
+<item>
+<title>sky bundesliga 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9445.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 5</link>
+</item>
+
+<item>
+<title>sky bundesliga 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9446.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 6</link>
+</item>
+
+<item>
+<title>sky bundesliga 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9447.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 7</link>
+</item>
+
+<item>
+<title>sky bundesliga 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9448.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 8</link>
+</item>
+
+<item>
+<title>sky bundesliga 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9449.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 9</link>
+</item>
+
+<item>
+<title>sky bundesliga 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9450.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky bundesliga 10</link>
 </item>
 
 <item>
 <title>Sky Select 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7922.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7922.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 1</link>
 </item>
 
 <item>
 <title>Sky Select 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7923.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7923.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 2</link>
 </item>
 
 <item>
 <title>Sky Select 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7924.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7924.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 3</link>
 </item>
 
 <item>
 <title>Sky Select 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7925.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7925.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 4</link>
 </item>
 
 <item>
 <title>Sky Select 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7926.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7926.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 5</link>
 </item>
 
 <item>
 <title>Sky Select 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7928.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 7</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7928.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 7</link>
 </item>
 
 <item>
 <title>Sky Select 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7927.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 6</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7927.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 6</link>
 </item>
 
 <item>
 <title>Sky Select 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7929.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7929.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 8</link>
 </item>
 
 <item>
 <title>Sky Select 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7930.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 9</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7930.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 9</link>
 </item>
 
 <item>
 <title>Sky Select 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/live/hhh/hhh/7931.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 10</link>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/7931.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 10</link>
 </item>
 
+<item>
+<title>--------ITALIAN--------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------ITALIAN--------</link>
+</item>
+
+<item>
+<title>Rai1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai1</link>
+</item>
+
+<item>
+<title>Rai2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai2</link>
+</item>
+
+<item>
+<title>Rai3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai3</link>
+</item>
+
+<item>
+<title>Rai4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3494.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai4</link>
+</item>
+
+<item>
+<title>Rai5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai5</link>
+</item>
+
+<item>
+<title>Rai movie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai movie</link>
+</item>
+
+<item>
+<title>Rai Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium</link>
+</item>
+
+<item>
+<title>Rai News 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai News 24</link>
+</item>
+
+<item>
+<title>Rai YoYo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai YoYo</link>
+</item>
+
+<item>
+<title>Rai Gulp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp</link>
+</item>
+
+<item>
+<title>RSi LA1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSi LA1</link>
+</item>
+
+<item>
+<title>RSi LA2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3519.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSi LA2</link>
+</item>
+
+<item>
+<title>Italia1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia1</link>
+</item>
+
+<item>
+<title>Italia2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3508.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia2</link>
+</item>
+
+<item>
+<title>Rete 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3481.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4</link>
+</item>
+
+<item>
+<title>Canale 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5</link>
+</item>
+
+<item>
+<title>LA7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3469.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA7</link>
+</item>
+
+<item>
+<title>Sky TG24HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky TG24HD</link>
+</item>
+
+<item>
+<title>Mediaset Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3475.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Extra</link>
+</item>
+
+<item>
+<title>Sky Cinema 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1</link>
+</item>
+
+<item>
+<title>Sky Cinema +24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 HD</link>
+</item>
+
+<item>
+<title>Sky Cinema Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy</link>
+</item>
+
+<item>
+<title>Sky Cinema Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion</link>
+</item>
+
+<item>
+<title>Sky Cinema Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic</link>
+</item>
+
+<item>
+<title>Sky Cinema Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family</link>
+</item>
+
+<item>
+<title>Sky Cinema Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max</link>
+</item>
+
+<item>
+<title>Sky Cinema Cult</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult</link>
+</item>
+
+<item>
+<title>Sky Cinema Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits</link>
+</item>
+
+<item>
+<title>Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD</link>
+</item>
+
+<item>
+<title>Sky Uno</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno</link>
+</item>
+
+<item>
+<title>Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD</link>
+</item>
+
+<item>
+<title>Fox Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime</link>
+</item>
+
+<item>
+<title>Fox Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy</link>
+</item>
+
+<item>
+<title>Fox Life HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD.</link>
+</item>
+
+<item>
+<title>Premium Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema</link>
+</item>
+
+<item>
+<title>Premium Cinema +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema +24</link>
+</item>
+
+<item>
+<title>Premium Cinema 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2</link>
+</item>
+
+<item>
+<title>Premium Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action HD</link>
+</item>
+
+<item>
+<title>Premium Action 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action 24</link>
+</item>
+
+<item>
+<title>Premium Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime</link>
+</item>
+
+<item>
+<title>Premium Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Comedy</link>
+</item>
+
+<item>
+<title>Premium Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Emotion</link>
+</item>
+
+<item>
+<title>Premium Energy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Energy</link>
+</item>
+
+<item>
+<title>Premium Stories</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories</link>
+</item>
+
+<item>
+<title>Premium Joi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joi</link>
+</item>
+
+<item>
+<title>QVC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9483.ts&amp;streamtype=TSDOWNLOADER&amp;name=QVC</link>
+</item>
+
+<item>
+<title>La5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/9484.ts&amp;streamtype=TSDOWNLOADER&amp;name=La5</link>
+</item>
+
+<item>
+<title>Real.Time</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real.Time</link>
+</item>
+
+<item>
+<title>Top.Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Top.Crime</link>
+</item>
+
+<item>
+<title>Caccia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caccia</link>
+</item>
+
+<item>
+<title>Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3534.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pesca</link>
+</item>
+
+<item>
+<title>Animal .Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal .Planet</link>
+</item>
+
+<item>
+<title>Nat Geo Wild HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD.</link>
+</item>
+
+<item>
+<title>National Geographic HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3511.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD.</link>
+</item>
+
+<item>
+<title>Discovery Channel HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel HD.</link>
+</item>
+
+<item>
+<title>Discovery .Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery .Science</link>
+</item>
+
+<item>
+<title>Discovery .Travel and Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3507.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery .Travel and Living</link>
+</item>
+
+<item>
+<title>History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3471.ts&amp;streamtype=TSDOWNLOADER&amp;name=History</link>
+</item>
+
+<item>
+<title>Cielo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cielo</link>
+</item>
+
+<item>
+<title>Iris</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3470.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iris</link>
+</item>
+
+<item>
+<title>Rai Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 1</link>
+</item>
+
+<item>
+<title>Rai Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 2</link>
+</item>
+
+<item>
+<title>Sport Italia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Italia</link>
+</item>
+
+<item>
+<title>Eurosport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD</link>
+</item>
+
+<item>
+<title>Sky Calcio 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1</link>
+</item>
+
+<item>
+<title>Sky Calcio 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/11456.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2</link>
+</item>
+
+<item>
+<title>Sky Calcio 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/11457.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3</link>
+</item>
+
+<item>
+<title>Sky.Sport24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky.Sport24</link>
+</item>
+
+<item>
+<title>Sky Moto GP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP</link>
+</item>
+
+<item>
+<title>Super Tennis</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Tennis</link>
+</item>
+
+<item>
+<title>FOX' SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3484.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX' SPORTS</link>
+</item>
+
+<item>
+<title>Sky Supercalcio</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio</link>
+</item>
+
+<item>
+<title>Premium Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3569.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport</link>
+</item>
+
+<item>
+<title>Premium Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2</link>
+</item>
+
+<item>
+<title>Premium Calcio 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1</link>
+</item>
+
+<item>
+<title>Dazn 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3551.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dazn 1 HD</link>
+</item>
+
+<item>
+<title>Dazn 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3550.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dazn 2 HD</link>
+</item>
+
+<item>
+<title>Dazn 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dazn 3 HD</link>
+</item>
+
+<item>
+<title>Dazn 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dazn 4 HD</link>
+</item>
+
+<item>
+<title>Dazn 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dazn 5 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 1 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 2 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 3 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 4 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 5 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 6 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 7 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 8 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 9 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 10 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 11 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 12 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/4518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 12 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 13 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 13 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 14 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3546.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 14 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 15 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3545.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 15 HD</link>
+</item>
+
+<item>
+<title>Sky Primafila 16 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://rb-group-server.com:25461/hhh/hhh/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Primafila 16 HD</link>
+</item>
 
 <item>
 <title>DE:Pro7 MAXX</title>
