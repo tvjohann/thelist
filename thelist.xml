@@ -1,276 +1,1189 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item><title>DE: 1 2 3 TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123tv.cdn.ses-ps.com/index.ts</link></item>
-<item><title>DE: 13TH STREET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6042.ts</link></item>
-<item><title>DE: 3SAT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5937.ts</link></item>
-<item><title>DE: 3SAT (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10967.ts</link></item>
-<item><title>DE: AIRE SANTA FE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8</link></item>
-<item><title>DE: ALEX BERLIN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8</link></item>
-<item><title>DE: ANIXE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6040.ts</link></item>
-<item><title>DE: ARTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8358.ts</link></item>
-<item><title>DE: ARTE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10968.ts</link></item>
-<item><title>DE: AUGSBURG TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_2/playlist.m3u8</link></item>
-<item><title>DE: AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6038.ts</link></item>
-<item><title>DE: BADEN BADEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://586fb512206e4.streamlock.net:1935/neueDorint-rtp/_definst_/mp4:BadenBaden.stream/playlist.m3u8</link></item>
-<item><title>DE: BADEN TV OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8</link></item>
-<item><title>DE: BADEN TV OPT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8</link></item>
-<item><title>DE: BERLIN METAL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://autopilot.myowntv.org/content/33816/index.ts</link></item>
-<item><title>DE: BREMEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://586fb512206e4.streamlock.net:1935/neueDorint-rtp/_definst_/mp4:Bremen.stream/playlist.m3u8</link></item>
-<item><title>DE: CHEMNITZ FERNSEHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8</link></item>
-<item><title>DE: CRACOW 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8</link></item>
-<item><title>DE: CRACOW 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8</link></item>
-<item><title>DE: DAS ERSTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10964.ts</link></item>
-<item><title>DE: DAS ERSTE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://mcdn.daserste.de/daserste/de/profile1/index.ts</link></item>
-<item><title>DE: DISCOVERY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6037.ts</link></item>
-<item><title>DE: DMAX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6036.ts</link></item>
-<item><title>DE: DMAX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10972.ts</link></item>
-<item><title>DE: DONAU TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8</link></item>
-<item><title>DE: DRESDEN FERNSEHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8</link></item>
-<item><title>DE: DW TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8</link></item>
-<item><title>DE: DW TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_3_av-p.m3u8</link></item>
-<item><title>DE: DZIWNOW </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream1.webcamera.pl/dziwnowum_cam_d0ed48/dziwnowum_cam_d0ed48.stream/playlist.m3u8</link></item>
-<item><title>DE: EBS KANAL 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8</link></item>
-<item><title>DE: ELBEKANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8</link></item>
-<item><title>DE: FOLX TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8</link></item>
-<item><title>DE: FOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6023.ts</link></item>
-<item><title>DE: FRANKEN TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_2/playlist.m3u8</link></item>
-<item><title>DE: FS1 SALZBURG </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream.fs1.tv:8080/hls/webstream.m3u8</link></item>
-<item><title>DE: GDANSK </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8</link></item>
-<item><title>DE: GO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nstream17.gotv.at:1938/live/gotvlive_240p/playlist.m3u8</link></item>
-<item><title>DE: GO TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8</link></item>
-<item><title>DE: HALLE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8</link></item>
-<item><title>DE: HEIMATKANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6035.ts</link></item>
-<item><title>DE: HISTORY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6034.ts</link></item>
-<item><title>DE: INTV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8</link></item>
-<item><title>DE: ISAR TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8</link></item>
-<item><title>DE: K TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8</link></item>
-<item><title>DE: KABEL EINS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5934.ts</link></item>
-<item><title>DE: KABEL EINS (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10974.ts</link></item>
-<item><title>DE: KARPACZ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8</link></item>
-<item><title>DE: KIEL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://live.oksh.de:8888/play/hls/kieltv/index.m3u8</link></item>
-<item><title>DE: KIKA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5985.ts</link></item>
-<item><title>DE: KINOWELT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6030.ts</link></item>
-<item><title>DE: KOLOBRZEG </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8</link></item>
-<item><title>DE: KRONEHIT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://bitcdn-kronehit.bitmovin.com/v2/hls/bitcodin.m3u8</link></item>
-<item><title>DE: KULTURMDTV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8</link></item>
-<item><title>DE: LAGOON SWINNA POREBA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hstream2.webcamera.pl/poreba_cam_e71a81/poreba_cam_e71a81.stream/playlist.m3u8</link></item>
-<item><title>DE: LEIPZIG FERNSEHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8</link></item>
-<item><title>DE: LIGHT CHANNEL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8</link></item>
-<item><title>DE: MAIN TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8</link></item>
-<item><title>DE: MDF 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8</link></item>
-<item><title>DE: MEDIASPAR TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/stream3/streamPlaylist.m3u8</link></item>
-<item><title>DE: MUNCHEN TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8</link></item>
-<item><title>DE: N TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5946.ts</link></item>
-<item><title>DE: N TV (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10970.ts</link></item>
-<item><title>DE: N24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7070.ts</link></item>
-<item><title>DE: N24 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10969.ts</link></item>
-<item><title>DE: NAHE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/nahetv.m3u8</link></item>
-<item><title>DE: NAT GEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6033.ts</link></item>
-<item><title>DE: NAT GEO WILD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6032.ts</link></item>
-<item><title>DE: NDR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5936.ts</link></item>
-<item><title>DE: NDR (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10971.ts</link></item>
-<item><title>DE: NDR SCHLESWIG HOLSTEIN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8</link></item>
-<item><title>DE: NOA 4 HAMBURG </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8</link></item>
-<item><title>DE: O2 FOTBAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stc.o2tv.cz/at/51d5836124bcbf7c5d50e99b3d87c098/1542561016715/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/557-tv-pc.ts</link></item>
-<item><title>DE: OBERPFALZ TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8</link></item>
-<item><title>DE: OBERPFALZ TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_2/chunklist.m3u8</link></item>
-<item><title>DE: OE24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8</link></item>
-<item><title>DE: OFFENER KANAL MAGDEBURG </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8</link></item>
-<item><title>DE: OK KL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/ok-kl.m3u8</link></item>
-<item><title>DE: OK SUDWESTPFALZ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/okswp.m3u8</link></item>
-<item><title>DE: OK TV MAINZ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/oktvmainz.m3u8</link></item>
-<item><title>DE: OK WEINSTRASSE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/okweinstrasse.m3u8</link></item>
-<item><title>DE: OK4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/ok4.m3u8</link></item>
-<item><title>DE: OK54 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/ok54.m3u8</link></item>
-<item><title>DE: OKTO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8</link></item>
-<item><title>DE: OLSZTYN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8</link></item>
-<item><title>DE: ORF 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5939.ts</link></item>
-<item><title>DE: ORF 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8</link></item>
-<item><title>DE: ORF 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5940.ts</link></item>
-<item><title>DE: ORF 2 NOKODI </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8</link></item>
-<item><title>DE: ORF 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8</link></item>
-<item><title>DE: P3 TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8</link></item>
-<item><title>DE: PL 13 ULICA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/1987.ts</link></item>
-<item><title>DE: PL 13 ULICA (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1987.ts</link></item>
-<item><title>DE: PL 4FUN DANCE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2061.ts</link></item>
-<item><title>DE: PL AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1988.ts</link></item>
-<item><title>DE: PL AXN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1988.m3u8</link></item>
-<item><title>DE: PL AXN SPIN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1989.ts</link></item>
-<item><title>DE: PL AXN SPIN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1989.m3u8</link></item>
-<item><title>DE: PL CANAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1991.ts</link></item>
-<item><title>DE: PL CANAL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1991.m3u8</link></item>
-<item><title>DE: PL CBS EUROPA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1994.m3u8</link></item>
-<item><title>DE: PL CBS REALITY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1995.m3u8</link></item>
-<item><title>DE: PL COMEDY CENTRAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1996.ts</link></item>
-<item><title>DE: PL COMEDY CENTRAL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1996.m3u8</link></item>
-<item><title>DE: PL DISCOVERY LIFE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1998.m3u8</link></item>
-<item><title>DE: PL DISCOVERY SCIENCE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1999.ts</link></item>
-<item><title>DE: PL DISCOVERY SCIENCE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1999.m3u8</link></item>
-<item><title>DE: PL E! ENTERTAINMENT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2001.m3u8</link></item>
-<item><title>DE: PL ESKA ROCK TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2002.m3u8</link></item>
-<item><title>DE: PL ESKA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2003.m3u8</link></item>
-<item><title>DE: PL ESKA TV EXTRA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2004.m3u8</link></item>
-<item><title>DE: PL FOKUS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2013.m3u8</link></item>
-<item><title>DE: PL FOKUS TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2013.m3u8</link></item>
-<item><title>DE: PL FOOD NETWORK HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2014.m3u8</link></item>
-<item><title>DE: PL FOOD NETWORK (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2014.m3u8</link></item>
-<item><title>DE: PL FOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2016.m3u8</link></item>
-<item><title>DE: PL FOX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2016.m3u8</link></item>
-<item><title>DE: PL FOX COMEDY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2015.m3u8</link></item>
-<item><title>DE: PL FOX COMEDY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2015.m3u8</link></item>
-<item><title>DE: PL H2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2018.m3u8</link></item>
-<item><title>DE: PL HBO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2019.ts</link></item>
-<item><title>DE: PL HBO (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2019.m3u8</link></item>
-<item><title>DE: PL HBO (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2019.ts</link></item>
-<item><title>DE: PL HBO (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2019.m3u8</link></item>
-<item><title>DE: PL HISTORY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2020.ts</link></item>
-<item><title>DE: PL HISTORY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2020.ts</link></item>
-<item><title>DE: PL HISTORY (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2020.m3u8</link></item>
-<item><title>DE: PL KINO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2021.ts</link></item>
-<item><title>DE: PL KINO TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2021.ts</link></item>
-<item><title>DE: PL KINO TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2021.m3u8</link></item>
-<item><title>DE: PL LIFETIME HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2022.m3u8</link></item>
-<item><title>DE: PL LIFETIME (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2022.m3u8</link></item>
-<item><title>DE: PL MANGO 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2023.m3u8</link></item>
-<item><title>DE: PL MANGO 24 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2023.m3u8</link></item>
-<item><title>DE: PL MANGO 24 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2024.m3u8</link></item>
-<item><title>DE: PL MINIMINI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2025.m3u8</link></item>
-<item><title>DE: PL MINIMINI (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2025.m3u8</link></item>
-<item><title>DE: PL NAT GEO PEOPLE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2029.m3u8</link></item>
-<item><title>DE: PL NAT GEO PEOPLE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2029.m3u8</link></item>
-<item><title>DE: PL NATIONAL GEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2031.ts</link></item>
-<item><title>DE: PL NATIONAL GEO (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2031.ts</link></item>
-<item><title>DE: PL NATIONAL GEO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2030.ts</link></item>
-<item><title>DE: PL NATIONAL GEO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2030.ts</link></item>
-<item><title>DE: PL NOWA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2035.m3u8</link></item>
-<item><title>DE: PL NOWA TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2035.m3u8</link></item>
-<item><title>DE: PL NTL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2036.m3u8</link></item>
-<item><title>DE: PL NTL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2036.m3u8</link></item>
-<item><title>DE: PL NUTA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2037.m3u8</link></item>
-<item><title>DE: PL NUTA TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2037.m3u8</link></item>
-<item><title>DE: PL PARAMAUNT CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2038.ts</link></item>
-<item><title>DE: PL POLO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2039.m3u8</link></item>
-<item><title>DE: PL POLSAT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2045.ts</link></item>
-<item><title>DE: PL POLSAT (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2045.ts</link></item>
-<item><title>DE: PL POLSAT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2040.ts</link></item>
-<item><title>DE: PL POLSAT (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2040.ts</link></item>
-<item><title>DE: PL POLSAT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2041.ts</link></item>
-<item><title>DE: PL POLSAT 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2041.ts</link></item>
-<item><title>DE: PL POLSAT 2 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2041.m3u8</link></item>
-<item><title>DE: PL POLSAT CAFE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2042.ts</link></item>
-<item><title>DE: PL POLSAT CAFE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2042.m3u8</link></item>
-<item><title>DE: PL POLSAT CAFE (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2042.ts</link></item>
-<item><title>DE: PL POLSAT CAFE (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2042.m3u8</link></item>
-<item><title>DE: PL POLSAT DOKU HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2043.m3u8</link></item>
-<item><title>DE: PL POLSAT FILM HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2044.ts</link></item>
-<item><title>DE: PL POLSAT FILM (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2044.m3u8</link></item>
-<item><title>DE: PL POLSAT FILM (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2044.ts</link></item>
-<item><title>DE: PL POLSAT FILM (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2044.m3u8</link></item>
-<item><title>DE: PL POLSAT PLAY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2048.ts</link></item>
-<item><title>DE: PL POLSAT PLAY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2048.ts</link></item>
-<item><title>DE: PL POLSAT VIASAT HISTORY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2055.ts</link></item>
-<item><title>DE: PL POLSAT VIASAT HISTORY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2055.ts</link></item>
-<item><title>DE: PL POWER TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2056.m3u8</link></item>
-<item><title>DE: PL POWER TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2056.m3u8</link></item>
-<item><title>DE: PL RTS UN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2057.m3u8</link></item>
-<item><title>DE: PL RTS UN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2057.m3u8</link></item>
-<item><title>DE: PL SCIFI UNIVERSAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2058.ts</link></item>
-<item><title>DE: PL SRF 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2059.m3u8</link></item>
-<item><title>DE: PL SRF ZWEI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2060.m3u8</link></item>
-<item><title>DE: PL SUDANCE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2061.ts</link></item>
-<item><title>DE: PL SUPER POLSAT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2062.ts</link></item>
-<item><title>DE: PL SUPER STACJA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2062.ts</link></item>
-<item><title>DE: PL TARVEL CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2063.m3u8</link></item>
-<item><title>DE: PL TARVEL CHANNEL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2063.m3u8</link></item>
-<item><title>DE: PL TLC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2066.ts</link></item>
-<item><title>DE: PL TLC (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2066.ts</link></item>
-<item><title>DE: PL TNT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2067.ts</link></item>
-<item><title>DE: PL TNT (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2067.ts</link></item>
-<item><title>DE: PL TO!TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2068.m3u8</link></item>
-<item><title>DE: PL TO!TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2068.m3u8</link></item>
-<item><title>DE: PL TTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2069.m3u8</link></item>
-<item><title>DE: PL TTV (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2069.m3u8</link></item>
-<item><title>DE: PL TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2072.ts</link></item>
-<item><title>DE: PL TV INFO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2071.ts</link></item>
-<item><title>DE: PL TV PULS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2070.ts</link></item>
-<item><title>DE: PL TV PULS (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2070.ts</link></item>
-<item><title>DE: PL TV4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2072.ts</link></item>
-<item><title>DE: PL TV4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2072.m3u8</link></item>
-<item><title>DE: PL TV4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2071.ts</link></item>
-<item><title>DE: PL TV4 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2071.m3u8</link></item>
-<item><title>DE: PL TVN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2076.ts</link></item>
-<item><title>DE: PL TVN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2076.m3u8</link></item>
-<item><title>DE: PL TVN (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2076.ts</link></item>
-<item><title>DE: PL TVN 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2073.ts</link></item>
-<item><title>DE: PL TVN 24 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2073.ts</link></item>
-<item><title>DE: PL TVN FABULA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2075.ts</link></item>
-<item><title>DE: PL TVN STYLE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2077.m3u8</link></item>
-<item><title>DE: PL TVN STYLE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2074.ts</link></item>
-<item><title>DE: PL TVN TURBO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2078.m3u8</link></item>
-<item><title>DE: PL TVN TURBO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2075.ts</link></item>
-<item><title>DE: PL TVP 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2079.ts</link></item>
-<item><title>DE: PL TVP 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2079.m3u8</link></item>
-<item><title>DE: PL TVP 2 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2079.ts</link></item>
-<item><title>DE: PL TVP HISTORIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2080.ts</link></item>
-<item><title>DE: PL TVP HISTORIA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2080.ts</link></item>
-<item><title>DE: PL TVP KULTURA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2081.m3u8</link></item>
-<item><title>DE: PL TVS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2083.m3u8</link></item>
-<item><title>DE: PL UNIVERSAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2084.ts</link></item>
-<item><title>DE: PL UNIVERSAL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2084.m3u8</link></item>
-<item><title>DE: PL UNIVERSAL (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2084.ts</link></item>
-<item><title>DE: POP10 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8</link></item>
-<item><title>DE: PORTUGAL WEBCAM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.13.26.11:1935/live/santuario.stream/playlist.m3u8</link></item>
-<item><title>DE: PRISTAN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/flisacy_cam_35a158/flisacy_cam_35a158.stream/playlist.m3u8</link></item>
-<item><title>DE: PRO7 MAXX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5943.ts</link></item>
-<item><title>DE: PRO7 MAXX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10977.ts</link></item>
-<item><title>DE: PROSIEBEN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5942.ts</link></item>
-<item><title>DE: PROSIEBEN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10976.ts</link></item>
-<item><title>DE: QVC </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.qvcde.simplestreamcdn.com/live/qvcde_main_clean/bitrate1.isml/live.m3u8</link></item>
-<item><title>DE: QVC STYLE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8</link></item>
-<item><title>DE: QVC2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8</link></item>
-<item><title>DE: RHEINMAIN TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8</link></item>
-<item><title>DE: ROMANCE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10353.ts</link></item>
-<item><title>DE: RTL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5928.ts</link></item>
-<item><title>DE: RTL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10978.ts</link></item>
-<item><title>DE: RTL 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5929.ts</link></item>
-<item><title>DE: RTL 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10979.ts</link></item>
-<item><title>DE: RTL NITRO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7068.ts</link></item>
-<item><title>DE: RTL PASSION HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5932.ts</link></item>
-<item><title>DE: RTL PASSION (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10980.ts</link></item>
-<item><title>DE: SANTUARIO FATIMA PORTUGAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8</link></item>
-<item><title>DE: SAT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5935.ts</link></item>
-<item><title>DE: SAT 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10975.ts</link></item>
-<item><title>DE: SAT 1 GOLD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5953.ts</link></item>
-<item><title>DE: SEA BEACH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/playlist.m3u8</link></item>
-<item><title>DE: SOPOT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8</link></item>
-<item><title>DE: SPIEGEL GESCHICHTE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6029.ts</link></item>
-<item><title>DE: STARS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8</link></item>
-<item><title>DE: SUPER RTL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5933.ts</link></item>
-<item><title>DE: SYLT1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.67.13.54:1935/sylt1/sylt1_low.stream/chunklist.m3u8</link></item>
-<item><title>DE: SYLT1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8</link></item>
-<item><title>DE: SYSF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6028.ts</link></item>
-<item><title>DE: TIROL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8</link></item>
-<item><title>DE: TIROL TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8</link></item>
-<item><title>DE: TNT FILM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9562.ts</link></item>
-<item><title>DE: TOGGO PLUS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5986.ts</link></item>
-<item><title>DE: TRP1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_2/playlist.m3u8</link></item>
-<item><title>DE: TV ASTA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item><title>DE: TV MITTELRHEIN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8</link></item>
-<item><title>DE: TV OBERFRANKEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</link></item>
-<item><title>DE: TV TORUN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8</link></item>
-<item><title>DE: TV TOURING SCHWEINFURT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8</link></item>
-<item><title>DE: TV38 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8</link></item>
-<item><title>DE: TVA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_2/playlist.m3u8</link></item>
-<item><title>DE: TWOJA TV OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://94.246.169.19/ttv_hls/live_270p/index.m3u8</link></item>
-<item><title>DE: TWOJA TV OPT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://94.246.169.19/ttv_hls/live_720p/index.m3u8</link></item>
-<item><title>DE: VOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/6025.ts</link></item>
-<item><title>DE: VOX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10973.ts</link></item>
-<item><title>DE: W24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ms03.w24.at/W24/smil:liveevent.smil/chunklist_b2176000_slger.m3u8</link></item>
-<item><title>DE: WDR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/5927.ts</link></item>
-<item><title>DE: WDR (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10966.ts</link></item>
-<item><title>DE: WELT DER WUNDER </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.vidoo.de/live/weltderwunder/f1tv.m3u8</link></item>
-<item><title>DE: WELT DER WUNDER (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.vidoo.de/live/weltderwunder/master.m3u8</link></item>
-<item><title>DE: WELT DER WUNDER TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.vidoo.de/live/weltderwunder/playlist.m3u8</link></item>
-<item><title>DE: WLADYSLAWOWO BEACH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/wladyslawowo_cam_459a14/wladyslawowo_cam_459a14.stream/playlist.m3u8</link></item>
-<item><title>DE: ZDF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10965.ts</link></item>
-<item><title>DE: ZDF INFO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7057.ts</link></item>
-<item><title>DE: ZDF NEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7061.ts</link></item>
+<item>
+<title>DE: Dazn 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/220729&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dazn 1 HD</link>
+</item>
+
+<item>
+<title>DE: Dazn 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/220730&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dazn 2 HD</link>
+</item>
+
+<item>
+<title>DE: Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64180&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1 HD</link>
+</item>
+
+<item>
+<title>DE: Eurosport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64181&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 2 HD</link>
+</item>
+
+<item>
+<title>DE: Eurosport 2 Extra HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/122819&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 2 Extra HD</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/67972&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1 HD</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 2 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64198&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 3 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64199&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 3 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 4 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64200&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 4 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 5 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64201&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 5 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 6 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64202&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 6 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 7 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/223356&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 7 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 8 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/223357&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 8 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundesliga 9 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/223358&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 9 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Bundeslga 10 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/223359&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundeslga 10 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64186&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD</link>
+</item>
+
+<item>
+<title>DE: Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64187&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD</link>
+</item>
+
+<item>
+<title>DE: Sky Sport 3 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64188&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 3 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Sport 4 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/170932&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 4 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Sport 5 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/223354&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 5 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Sport 6 HD (Only on Matchday)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/223355&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 6 HD (Only on Matchday)</link>
+</item>
+
+<item>
+<title>DE: Sky Sport News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64177&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News HD</link>
+</item>
+
+<item>
+<title>DE: Sky Sport Austria HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://primotv.stream:25461/ValdrinAsllani/DTrNXpUsdx/64185&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria HD</link>
+</item>
+
+<item>
+<title>De- Zee One FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12389&amp;streamtype=TSDOWNLOADER&amp;name=De- Zee One FHD</link>
+</item>
+
+<item>
+<title>De- Zee One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12388&amp;streamtype=TSDOWNLOADER&amp;name=De- Zee One</link>
+</item>
+
+<item>
+<title>De- ZDF FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12210&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF FHD</link>
+</item>
+
+<item>
+<title>De- ZDF HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12209&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF HD.</link>
+</item>
+
+<item>
+<title>De- ZDF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12208&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF</link>
+</item>
+
+<item>
+<title>De- ZDF Neo FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12206&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo FHD</link>
+</item>
+
+<item>
+<title>De- ZDF Neo HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12205&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo HD.</link>
+</item>
+
+<item>
+<title>De- ZDF Neo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12204&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Neo</link>
+</item>
+
+<item>
+<title>De- ZDF Info HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12207&amp;streamtype=TSDOWNLOADER&amp;name=De- ZDF Info HD</link>
+</item>
+
+<item>
+<title>De- VOX FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12236&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX FHD</link>
+</item>
+
+<item>
+<title>De- VOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12235&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX HD</link>
+</item>
+
+<item>
+<title>De- VOX SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12234&amp;streamtype=TSDOWNLOADER&amp;name=De- VOX SD</link>
+</item>
+
+<item>
+<title>De- Dmax HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12361&amp;streamtype=TSDOWNLOADER&amp;name=De- Dmax HD.</link>
+</item>
+
+<item>
+<title>De- RTL FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12243&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL FHD</link>
+</item>
+
+<item>
+<title>De- RTL HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12242&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL HD.</link>
+</item>
+
+<item>
+<title>De- RTL SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12241&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL SD</link>
+</item>
+
+<item>
+<title>De- RTL II FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12240&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II FHD</link>
+</item>
+
+<item>
+<title>De- RTL II HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12239&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II HD</link>
+</item>
+
+<item>
+<title>De- RTL II</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12238&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL II</link>
+</item>
+
+<item>
+<title>De- RTL Nitro HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12217&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Nitro HD</link>
+</item>
+
+<item>
+<title>De- RTL Living HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12362&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Living HD</link>
+</item>
+
+<item>
+<title>De- RTL Passion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12364&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Passion HD</link>
+</item>
+
+<item>
+<title>De- RTL Passion SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12363&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Passion SD</link>
+</item>
+
+<item>
+<title>De- RTL Crime SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12365&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Crime SD</link>
+</item>
+
+<item>
+<title>De- RTL Plus SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12237&amp;streamtype=TSDOWNLOADER&amp;name=De- RTL Plus SD</link>
+</item>
+
+<item>
+<title>De- Super RTL FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12259&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL FHD</link>
+</item>
+
+<item>
+<title>De- Super RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12258&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL HD</link>
+</item>
+
+<item>
+<title>De- Super RTL SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12257&amp;streamtype=TSDOWNLOADER&amp;name=De- Super RTL SD</link>
+</item>
+
+<item>
+<title>De- Arte FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12202&amp;streamtype=TSDOWNLOADER&amp;name=De- Arte FHD</link>
+</item>
+
+<item>
+<title>De- Das Erste FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12213&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste FHD</link>
+</item>
+
+<item>
+<title>De- Das Erste HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12212&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste HD.</link>
+</item>
+
+<item>
+<title>De- Das Erste</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12211&amp;streamtype=TSDOWNLOADER&amp;name=De- Das Erste</link>
+</item>
+
+<item>
+<title>De- Sat.1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12233&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 FHD</link>
+</item>
+
+<item>
+<title>De- Sat.1 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12232&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 HD.</link>
+</item>
+
+<item>
+<title>De- Sat.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12231&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1</link>
+</item>
+
+<item>
+<title>De- Sat.1 Gold FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12220&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 Gold FHD</link>
+</item>
+
+<item>
+<title>De- Sat.1 Gold SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12218&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat.1 Gold SD</link>
+</item>
+
+<item>
+<title>De- Pro7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12229&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 FHD</link>
+</item>
+
+<item>
+<title>De- Pro7 Fun FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12230&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Fun FHD</link>
+</item>
+
+<item>
+<title>De- Pro7 Maxx FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12226&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Maxx FHD</link>
+</item>
+
+<item>
+<title>De- Pro 7 Maxx HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12225&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro 7 Maxx HD</link>
+</item>
+
+<item>
+<title>De- Pro7 Maxx SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12224&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7 Maxx SD</link>
+</item>
+
+<item>
+<title>De- Pro 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12228&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro 7 HD</link>
+</item>
+
+<item>
+<title>De- Pro7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12227&amp;streamtype=TSDOWNLOADER&amp;name=De- Pro7</link>
+</item>
+
+<item>
+<title>De- N-TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12245&amp;streamtype=TSDOWNLOADER&amp;name=De- N-TV HD</link>
+</item>
+
+<item>
+<title>De- Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12273&amp;streamtype=TSDOWNLOADER&amp;name=De- Phoenix</link>
+</item>
+
+<item>
+<title>De- Kabel eins HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12215&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins HD.</link>
+</item>
+
+<item>
+<title>De- Kabel eins Doku</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12281&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins Doku</link>
+</item>
+
+<item>
+<title>De- Kabel eins Classic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12214&amp;streamtype=TSDOWNLOADER&amp;name=De- Kabel eins Classic HD</link>
+</item>
+
+<item>
+<title>De- Sat1 Emotions</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12216&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat1 Emotions</link>
+</item>
+
+<item>
+<title>De- Sat1 Gold HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12219&amp;streamtype=TSDOWNLOADER&amp;name=De- Sat1 Gold HD</link>
+</item>
+
+<item>
+<title>De- Sixx FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12223&amp;streamtype=TSDOWNLOADER&amp;name=De- Sixx FHD</link>
+</item>
+
+<item>
+<title>De- SIXX HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12222&amp;streamtype=TSDOWNLOADER&amp;name=De- SIXX HD.</link>
+</item>
+
+<item>
+<title>De- Sixx SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12221&amp;streamtype=TSDOWNLOADER&amp;name=De- Sixx SD</link>
+</item>
+
+<item>
+<title>De- Tele 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12192&amp;streamtype=TSDOWNLOADER&amp;name=De- Tele 5 HD</link>
+</item>
+
+<item>
+<title>De- 13th Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12372&amp;streamtype=TSDOWNLOADER&amp;name=De- 13th Street HD</link>
+</item>
+
+<item>
+<title>De- 3Sat HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12203&amp;streamtype=TSDOWNLOADER&amp;name=De- 3Sat HD</link>
+</item>
+
+<item>
+<title>De- TNT Film HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12371&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Film HD</link>
+</item>
+
+<item>
+<title>De- TNT Serie HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12370&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Serie HD</link>
+</item>
+
+<item>
+<title>De- TNT Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12369&amp;streamtype=TSDOWNLOADER&amp;name=De- TNT Comedy HD</link>
+</item>
+
+<item>
+<title>De- TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12278&amp;streamtype=TSDOWNLOADER&amp;name=De- TLC HD</link>
+</item>
+
+<item>
+<title>De- SyFy SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12375&amp;streamtype=TSDOWNLOADER&amp;name=De- SyFy SD</link>
+</item>
+
+<item>
+<title>De- Sky 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12379&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky 1 HD</link>
+</item>
+
+<item>
+<title>De- Sky Arts HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12276&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Arts HD</link>
+</item>
+
+<item>
+<title>De- Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12378&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Atlantic</link>
+</item>
+
+<item>
+<title>De- Sky Krimi SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12377&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Krimi SD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12398&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema HD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12397&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema 1 HD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12393&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Hits HD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12396&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema 24 HD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12395&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Action HD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema Comedy SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12392&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Comedy SD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema Emotion SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12391&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Emotion SD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12394&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Family HD</link>
+</item>
+
+<item>
+<title>De- Sky Cinema Nostalgie SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12390&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Cinema Nostalgie SD</link>
+</item>
+
+<item>
+<title>De- Sky Select 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12387&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 1 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Select 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12386&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 2 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Select 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12385&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 3 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Select 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12384&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 4 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Select 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12383&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Select 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12382&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 6 HD</link>
+</item>
+
+<item>
+<title>De- Sky Select 7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12381&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 7 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Select 8 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12380&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Select 8 FHD</link>
+</item>
+
+<item>
+<title>De- A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12272&amp;streamtype=TSDOWNLOADER&amp;name=De- A&E</link>
+</item>
+
+<item>
+<title>De- Arte HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12201&amp;streamtype=TSDOWNLOADER&amp;name=De- Arte HD.</link>
+</item>
+
+<item>
+<title>De- ATV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12200&amp;streamtype=TSDOWNLOADER&amp;name=De- ATV HD</link>
+</item>
+
+<item>
+<title>De- AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12374&amp;streamtype=TSDOWNLOADER&amp;name=De- AXN HD</link>
+</item>
+
+<item>
+<title>De- Anixe Serie FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12191&amp;streamtype=TSDOWNLOADER&amp;name=De- Anixe Serie FHD</link>
+</item>
+
+<item>
+<title>De- Classica SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12255&amp;streamtype=TSDOWNLOADER&amp;name=De- Classica SD</link>
+</item>
+
+<item>
+<title>De- Deluxe Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12256&amp;streamtype=TSDOWNLOADER&amp;name=De- Deluxe Music</link>
+</item>
+
+<item>
+<title>De- Deutsches Musik Fernsehen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12254&amp;streamtype=TSDOWNLOADER&amp;name=De- Deutsches Musik Fernsehen</link>
+</item>
+
+<item>
+<title>De- E! HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12366&amp;streamtype=TSDOWNLOADER&amp;name=De- E! HD</link>
+</item>
+
+<item>
+<title>De- EuroNews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12244&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroNews</link>
+</item>
+
+<item>
+<title>De- Fashion TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12279&amp;streamtype=TSDOWNLOADER&amp;name=De- Fashion TV</link>
+</item>
+
+<item>
+<title>De- Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12376&amp;streamtype=TSDOWNLOADER&amp;name=De- Fox HD</link>
+</item>
+
+<item>
+<title>De- Genius Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12190&amp;streamtype=TSDOWNLOADER&amp;name=De- Genius Plus</link>
+</item>
+
+<item>
+<title>De- History FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12283&amp;streamtype=TSDOWNLOADER&amp;name=De- History FHD</link>
+</item>
+
+<item>
+<title>De- HSE24 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12189&amp;streamtype=TSDOWNLOADER&amp;name=De- HSE24 FHD</link>
+</item>
+
+<item>
+<title>De- Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12263&amp;streamtype=TSDOWNLOADER&amp;name=De- Junior HD</link>
+</item>
+
+<item>
+<title>De- Juwelo FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12188&amp;streamtype=TSDOWNLOADER&amp;name=De- Juwelo FHD</link>
+</item>
+
+<item>
+<title>De- Kika HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12262&amp;streamtype=TSDOWNLOADER&amp;name=De- Kika HD</link>
+</item>
+
+<item>
+<title>De- Kinowelt HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12368&amp;streamtype=TSDOWNLOADER&amp;name=De- Kinowelt HD</link>
+</item>
+
+<item>
+<title>De- Romance TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12193&amp;streamtype=TSDOWNLOADER&amp;name=De- Romance TV</link>
+</item>
+
+<item>
+<title>De- N24 Doku</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12282&amp;streamtype=TSDOWNLOADER&amp;name=De- N24 Doku</link>
+</item>
+
+<item>
+<title>De- NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12199&amp;streamtype=TSDOWNLOADER&amp;name=De- NDR HD</link>
+</item>
+
+<item>
+<title>De- One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12198&amp;streamtype=TSDOWNLOADER&amp;name=De- One HD</link>
+</item>
+
+<item>
+<title>De- ORF 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12196&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF 1 HD</link>
+</item>
+
+<item>
+<title>De- ORF 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12195&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF 2 HD</link>
+</item>
+
+<item>
+<title>De- ORF Eins FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12197&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF Eins FHD</link>
+</item>
+
+<item>
+<title>De- Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12285&amp;streamtype=TSDOWNLOADER&amp;name=De- Planet HD</link>
+</item>
+
+<item>
+<title>De- Sony Enterainment HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12367&amp;streamtype=TSDOWNLOADER&amp;name=De- Sony Enterainment HD</link>
+</item>
+
+<item>
+<title>De- Spiegel Tv Geschichte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12275&amp;streamtype=TSDOWNLOADER&amp;name=De- Spiegel Tv Geschichte HD</link>
+</item>
+
+<item>
+<title>De- Spiegel TV Wissen HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12274&amp;streamtype=TSDOWNLOADER&amp;name=De- Spiegel TV Wissen HD</link>
+</item>
+
+<item>
+<title>De- Toggo Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12260&amp;streamtype=TSDOWNLOADER&amp;name=De- Toggo Plus</link>
+</item>
+
+<item>
+<title>De- Universal Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12373&amp;streamtype=TSDOWNLOADER&amp;name=De- Universal Channel HD</link>
+</item>
+
+<item>
+<title>De- MTV Brand New</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12252&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Brand New</link>
+</item>
+
+<item>
+<title>De- MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12251&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Classic</link>
+</item>
+
+<item>
+<title>De- MTV Dance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12250&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Dance</link>
+</item>
+
+<item>
+<title>De- MTV Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12249&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Europe</link>
+</item>
+
+<item>
+<title>De- MTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12253&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV HD</link>
+</item>
+
+<item>
+<title>De- MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12248&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Hits</link>
+</item>
+
+<item>
+<title>De- MTV Live HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12247&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Live HD</link>
+</item>
+
+<item>
+<title>De- MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12246&amp;streamtype=TSDOWNLOADER&amp;name=De- MTV Rocks</link>
+</item>
+
+<item>
+<title>De- Travel Channel FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12280&amp;streamtype=TSDOWNLOADER&amp;name=De- Travel Channel FHD</link>
+</item>
+
+<item>
+<title>De- Nat Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12288&amp;streamtype=TSDOWNLOADER&amp;name=De- Nat Geo HD</link>
+</item>
+
+<item>
+<title>De- Nat Geo Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12287&amp;streamtype=TSDOWNLOADER&amp;name=De- Nat Geo Wild HD</link>
+</item>
+
+<item>
+<title>De- Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12286&amp;streamtype=TSDOWNLOADER&amp;name=De- Animal Planet HD</link>
+</item>
+
+<item>
+<title>De- Discovery Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12284&amp;streamtype=TSDOWNLOADER&amp;name=De- Discovery Channel HD</link>
+</item>
+
+<item>
+<title>De- Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12264&amp;streamtype=TSDOWNLOADER&amp;name=De- Baby TV</link>
+</item>
+
+<item>
+<title>De- Nickelodeon HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12261&amp;streamtype=TSDOWNLOADER&amp;name=De- Nickelodeon HD</link>
+</item>
+
+<item>
+<title>De- Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12266&amp;streamtype=TSDOWNLOADER&amp;name=De- Boomerang</link>
+</item>
+
+<item>
+<title>De- Cartoon Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12267&amp;streamtype=TSDOWNLOADER&amp;name=De- Cartoon Network HD</link>
+</item>
+
+<item>
+<title>De- Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12271&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney Channel HD</link>
+</item>
+
+<item>
+<title>De- Disney CineMagic SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12270&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney CineMagic SD</link>
+</item>
+
+<item>
+<title>De- Disney Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12269&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney Junior HD</link>
+</item>
+
+<item>
+<title>De- Disney XD SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12268&amp;streamtype=TSDOWNLOADER&amp;name=De- Disney XD SD</link>
+</item>
+
+<item>
+<title>De- Fix & Foxi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12265&amp;streamtype=TSDOWNLOADER&amp;name=De- Fix & Foxi</link>
+</item>
+
+<item>
+<title>De- Sky Sport News FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12352&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport News FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport News HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12351&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport News HD.</link>
+</item>
+
+<item>
+<title>De- Sky Sport Austria FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12354&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Austria FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Austria SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12353&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Austria SD</link>
+</item>
+
+<item>
+<title>De- Auto Motor Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12356&amp;streamtype=TSDOWNLOADER&amp;name=De- Auto Motor Sport HD</link>
+</item>
+
+<item>
+<title>De- ORF Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12194&amp;streamtype=TSDOWNLOADER&amp;name=De- ORF Sport HD</link>
+</item>
+
+<item>
+<title>De- Motorvision HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12355&amp;streamtype=TSDOWNLOADER&amp;name=De- Motorvision HD</link>
+</item>
+
+<item>
+<title>De- Sport 1 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12360&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport 1 HD.</link>
+</item>
+
+<item>
+<title>De- Sport1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12359&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport1 HD</link>
+</item>
+
+<item>
+<title>De- Sport1 US FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12358&amp;streamtype=TSDOWNLOADER&amp;name=De- Sport1 US FHD</link>
+</item>
+
+<item>
+<title>De- Sportdigital HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12357&amp;streamtype=TSDOWNLOADER&amp;name=De- Sportdigital HD</link>
+</item>
+
+<item>
+<title>De- DAZN 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12339&amp;streamtype=TSDOWNLOADER&amp;name=De- DAZN 1 FHD</link>
+</item>
+
+<item>
+<title>De- DAZN 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12338&amp;streamtype=TSDOWNLOADER&amp;name=De- DAZN 2 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12350&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 1 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 1 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12349&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 1 HD.</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12348&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 HD.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12347&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 HD.</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 Xtra FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12346&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 Xtra FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport 2 Xtra HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12345&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport 2 Xtra HD</link>
+</item>
+
+<item>
+<title>De- EuroSport360 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12344&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 1 FHD</link>
+</item>
+
+<item>
+<title>De- Eurosport360 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12343&amp;streamtype=TSDOWNLOADER&amp;name=De- Eurosport360 2 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport360 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12342&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 3 FHD</link>
+</item>
+
+<item>
+<title>De- EuroSport360 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12341&amp;streamtype=TSDOWNLOADER&amp;name=De- EuroSport360 4 FHD</link>
+</item>
+
+<item>
+<title>De- Eurosport360 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12340&amp;streamtype=TSDOWNLOADER&amp;name=De- Eurosport360 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12335&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 1</link>
+</item>
+
+<item>
+<title>De- Sky Sport 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12337&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 1 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12336&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 1 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12332&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 2</link>
+</item>
+
+<item>
+<title>De- Sky Sport 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12334&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 2 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12333&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 2 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12329&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 3</link>
+</item>
+
+<item>
+<title>De- Sky Sport 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12331&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 3 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12330&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 3 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12326&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 4</link>
+</item>
+
+<item>
+<title>De- Sky Sport 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12328&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 4 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12327&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 4 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12323&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 5</link>
+</item>
+
+<item>
+<title>De- Sky Sport 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12325&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12324&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 5 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12320&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 6</link>
+</item>
+
+<item>
+<title>De- Sky Sport 6 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12322&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 6 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12321&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 6 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12317&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 7</link>
+</item>
+
+<item>
+<title>De- Sky Sport 7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12319&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 7 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12318&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 7 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 8 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12316&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 8 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12315&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 8 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 9 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12314&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 9 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12313&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 9 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 10 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12312&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 10 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12311&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 10 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 11 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12310&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 11 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12309&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport 11 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 1 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12308&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 1 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12307&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 1 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 10 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12290&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 10 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12289&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 10 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 2 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12306&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 2 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12305&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 2 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 3 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12304&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 3 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12303&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 3 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 4 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12302&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 4 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12301&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 4 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 5 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12300&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 5 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12299&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 5 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 6 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12298&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 6 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12297&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 6 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 7 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12296&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 7 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12295&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 7 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 8 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12294&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 8 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12293&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 8 HD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 9 FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12292&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 9 FHD</link>
+</item>
+
+<item>
+<title>De- Sky Sport Bundesliga 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smart-hdip.com:6204/jabar3/jabar3/12291&amp;streamtype=TSDOWNLOADER&amp;name=De- Sky Sport Bundesliga 9 HD</link>
+</item>
+
+<item>
+<title>DE- COMEDY CENTRAL VIVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19953&amp;streamtype=TSDOWNLOADER&amp;name=DE- COMEDY CENTRAL VIVA</link>
+</item>
+
+<item>
+<title>DE- DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19961&amp;streamtype=TSDOWNLOADER&amp;name=DE- DISNEY CHANNEL</link>
+</item>
+
+<item>
+<title>DE- NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19965&amp;streamtype=TSDOWNLOADER&amp;name=DE- NICKELODEON</link>
+</item>
+
+<item>
+<title>DE- SUPER RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19954&amp;streamtype=TSDOWNLOADER&amp;name=DE- SUPER RTL</link>
+</item>
+
+<item>
+<title>DE- TOGGO PLUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19952&amp;streamtype=TSDOWNLOADER&amp;name=DE- TOGGO PLUS</link>
+</item>
