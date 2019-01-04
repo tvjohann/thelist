@@ -1,1924 +1,436 @@
-<item>
-<title>------▼|DE|-CHAINES.ALLEMANDE-|DE|▼------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/198&amp;streamtype=TSDOWNLOADER&amp;name=------▼|DE|-CHAINES.ALLEMANDE-|DE|▼------</link>
-</item>
-
-<item>
-<title>|DE| N24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1973&amp;streamtype=TSDOWNLOADER&amp;name=|DE| N24 HD</link>
-</item>
-
-<item>
-<title>|DE| ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/397&amp;streamtype=TSDOWNLOADER&amp;name=|DE| ZDF HD</link>
-</item>
-
-<item>
-<title>|DE| ZDF NEO FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1968&amp;streamtype=TSDOWNLOADER&amp;name=|DE| ZDF NEO FULL HD</link>
-</item>
-
-<item>
-<title>|DE| 13TH STREET HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/127&amp;streamtype=TSDOWNLOADER&amp;name=|DE| 13TH STREET HD</link>
-</item>
-
-<item>
-<title>|DE| Super RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/161&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Super RTL HD</link>
-</item>
-
-<item>
-<title>|DE| RTL Crime HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1610&amp;streamtype=TSDOWNLOADER&amp;name=|DE| RTL Crime HD</link>
-</item>
-
-<item>
-<title>|DE| RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1609&amp;streamtype=TSDOWNLOADER&amp;name=|DE| RTL Nitro HD</link>
-</item>
-
-<item>
-<title>|DE| TNT FILM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1608&amp;streamtype=TSDOWNLOADER&amp;name=|DE| TNT FILM HD</link>
-</item>
-
-<item>
-<title>|DE| TNT SERIE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1607&amp;streamtype=TSDOWNLOADER&amp;name=|DE| TNT SERIE HD</link>
-</item>
-
-<item>
-<title>|DE| SPIEGEL Geschichte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1698&amp;streamtype=TSDOWNLOADER&amp;name=|DE| SPIEGEL Geschichte HD</link>
-</item>
-
-<item>
-<title>|DE| SAT.1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1697&amp;streamtype=TSDOWNLOADER&amp;name=|DE| SAT.1 HD</link>
-</item>
-
-<item>
-<title>|DE| SIXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1696&amp;streamtype=TSDOWNLOADER&amp;name=|DE| SIXX HD</link>
-</item>
-
-<item>
-<title>|DE| ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1969&amp;streamtype=TSDOWNLOADER&amp;name=|DE| ORF 1 HD</link>
-</item>
-
-<item>
-<title>|DE| VOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1699&amp;streamtype=TSDOWNLOADER&amp;name=|DE| VOX HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/142&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Action HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Atlantic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/143&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Atlantic HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/146&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Cinema HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Cinema +1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/147&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Cinema +1 HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Cinema +24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/148&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Cinema +24 HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Nostalgie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/419&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Nostalgie HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/151&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Emotion HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Cinema Hits HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/152&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Cinema Hits HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Syfy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/160&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Syfy HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Krimi HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/153&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Krimi HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Select 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/156&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Select 1 HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Select 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/157&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Select 2 HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Select 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/166&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Select 3 HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Select 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/167&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Select 4 HD</link>
-</item>
-
-<item>
-<title>|DE| Sky Select 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1182&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Select 5 HD</link>
-</item>
-
-<item>
-<title>|DE| Nat Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/155&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Nat Geo HD</link>
-</item>
-
-<item>
-<title>|DE| Nat Geo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/154&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Nat Geo Wild HD</link>
-</item>
-
-<item>
-<title>|DE| SKY DMAXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1604&amp;streamtype=TSDOWNLOADER&amp;name=|DE| SKY DMAXX HD</link>
-</item>
-
-<item>
-<title>|DE| Sky History HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1611&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky History HD</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 1 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/144&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 1 FULL HD</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 2 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2028&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 2 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 3 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2029&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 3 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 4 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2030&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 4 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 5 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2031&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 5 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 6 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2032&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 6 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 7 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2068&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 7 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky BUNDESLIGA 8 HD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2069&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky BUNDESLIGA 8 HD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 1 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/158&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 1 FHD</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 2 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/159&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 2 FHD</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 3 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2272&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 3 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 4 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2273&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 4 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 5 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2274&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 5 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 6 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2275&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 6 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 7 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2276&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 7 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 8 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2277&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 8 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport 9 FHD (Live Events Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2278&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport 9 FHD (Live Events Only)</link>
-</item>
-
-<item>
-<title>|DE| Sky Sport Austria HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1605&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sky Sport Austria HD</link>
-</item>
-
-<item>
-<title>|DE| Sport Digital HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1606&amp;streamtype=TSDOWNLOADER&amp;name=|DE| Sport Digital HD</link>
-</item>
-
-<item>
-<title>|DE| EuroSport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2095&amp;streamtype=TSDOWNLOADER&amp;name=|DE| EuroSport 1 HD</link>
-</item>
-
-<item>
-<title>|DE| EuroSport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2096&amp;streamtype=TSDOWNLOADER&amp;name=|DE| EuroSport 2 HD</link>
-</item>
-
-<item>
-<title>|DE| EuroSport 2 Xtra HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2094&amp;streamtype=TSDOWNLOADER&amp;name=|DE| EuroSport 2 Xtra HD</link>
-</item>
-
-<item>
-<title>|DE| KiKa HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/2093&amp;streamtype=TSDOWNLOADER&amp;name=|DE| KiKa HD</link>
-</item>
-
-<item>
-<title>|DE| NICKELODEON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1700&amp;streamtype=TSDOWNLOADER&amp;name=|DE| NICKELODEON HD</link>
-</item>
-
-<item>
-<title>|DE| BOOMERANG HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/482&amp;streamtype=TSDOWNLOADER&amp;name=|DE| BOOMERANG HD</link>
-</item>
-
-<item>
-<title>|DE| DISNEY CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/130&amp;streamtype=TSDOWNLOADER&amp;name=|DE| DISNEY CHANNEL HD</link>
-</item>
-
-<item>
-<title>|DE| DISNEY JUNIOR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1702&amp;streamtype=TSDOWNLOADER&amp;name=|DE| DISNEY JUNIOR HD</link>
-</item>
-
-<item>
-<title>|DE| DISNEY XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://212.8.248.94:2103/live/boualem27/boualem27/1701&amp;streamtype=TSDOWNLOADER&amp;name=|DE| DISNEY XD HD</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8108&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-1</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8107&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-2</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8805&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-3</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4123&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-4</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8104&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-5</link>
-</item>
-
-<item>
-<title>DE:ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8370&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF</link>
-</item>
-
-<item>
-<title>DE:AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3707&amp;streamtype=TSDOWNLOADER&amp;name=DE:AXN</link>
-</item>
-
-<item>
-<title>DE:SAT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8788&amp;streamtype=TSDOWNLOADER&amp;name=DE:SAT_1</link>
-</item>
-
-<item>
-<title>DE:Sky-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8793&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Action</link>
-</item>
-
-<item>
-<title>DE:Sky-Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8789&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Atlantic</link>
-</item>
-
-<item>
-<title>DE:Sky-Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5596&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Cinema</link>
-</item>
-
-<item>
-<title>DE:SKY-CINEMA_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9288&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY-CINEMA_24</link>
-</item>
-
-<item>
-<title>DE:Sky-Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8787&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Krimi</link>
-</item>
-
-<item>
-<title>DE:RTL-5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5472&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL-5</link>
-</item>
-
-<item>
-<title>DE:RTL-Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5474&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL-Nitro</link>
-</item>
-
-<item>
-<title>DE:RTL.Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9750&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL.Nitro</link>
-</item>
-
-<item>
-<title>DE:RTL.Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9749&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL.Passion</link>
-</item>
-
-<item>
-<title>DE:RTL2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9748&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL2.HD</link>
-</item>
-
-<item>
-<title>DE:RTL_CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9753&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_CRIME</link>
-</item>
-
-<item>
-<title>DE:RTL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9754&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_HD</link>
-</item>
-
-<item>
-<title>DE:Sky_Sport_Digital</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4623&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_Digital</link>
-</item>
-
-<item>
-<title>DE:FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5483&amp;streamtype=TSDOWNLOADER&amp;name=DE:FOX</link>
-</item>
-
-<item>
-<title>DE:Sky_Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9291&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Atlantic</link>
-</item>
-
-<item>
-<title>DE:Disney Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4142&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney Cinemagic</link>
-</item>
-
-<item>
-<title>DE:Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9752&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney_Junior</link>
-</item>
-
-<item>
-<title>DE:KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8812&amp;streamtype=TSDOWNLOADER&amp;name=DE:KIKA</link>
-</item>
-
-<item>
-<title>DE:7MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8801&amp;streamtype=TSDOWNLOADER&amp;name=DE:7MAXX</link>
-</item>
-
-<item>
-<title>DE:NPO-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5468&amp;streamtype=TSDOWNLOADER&amp;name=DE:NPO-1</link>
-</item>
-
-<item>
-<title>DE:Syfy-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8802&amp;streamtype=TSDOWNLOADER&amp;name=DE:Syfy-HD</link>
-</item>
-
-<item>
-<title>DE:Sky-Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8790&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Hits</link>
-</item>
-
-<item>
-<title>DE:TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8811&amp;streamtype=TSDOWNLOADER&amp;name=DE:TLC</link>
-</item>
-
-<item>
-<title>DE:TNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8359&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT</link>
-</item>
-
-<item>
-<title>DE:Sky_Sport_Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5477&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_Austria</link>
-</item>
-
-<item>
-<title>De:Sky_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8799&amp;streamtype=TSDOWNLOADER&amp;name=De:Sky_Emotion</link>
-</item>
-
-<item>
-<title>DE:EUROSPORT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9296&amp;streamtype=TSDOWNLOADER&amp;name=DE:EUROSPORT_1</link>
-</item>
-
-<item>
-<title>DE:Zee_One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5499&amp;streamtype=TSDOWNLOADER&amp;name=DE:Zee_One</link>
-</item>
-
-<item>
-<title>DE:VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8808&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX</link>
-</item>
-
-<item>
-<title>DE:SkySport_News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9294&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkySport_News</link>
-</item>
-
-<item>
-<title>DE:PRO-7-MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8813&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO-7-MAXX</link>
-</item>
-
-<item>
-<title>DE:Sky.Bundesliga-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8143&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky.Bundesliga-1</link>
-</item>
-
-<item>
-<title>DE:Sky-Bundesliga-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8814&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Bundesliga-3</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8108&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-1</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8107&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-2</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8805&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-3</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/4123&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-4</link>
-</item>
-
-<item>
-<title>DE:Sky-Select-5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8104&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-5</link>
-</item>
-
-<item>
-<title>DE:ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8370&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF</link>
-</item>
-
-<item>
-<title>DE:AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/3707&amp;streamtype=TSDOWNLOADER&amp;name=DE:AXN</link>
-</item>
-
-<item>
-<title>DE:SAT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8788&amp;streamtype=TSDOWNLOADER&amp;name=DE:SAT_1</link>
-</item>
-
-<item>
-<title>DE:Sky-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8793&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Action</link>
-</item>
-
-<item>
-<title>DE:Sky-Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8789&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Atlantic</link>
-</item>
-
-<item>
-<title>DE:Sky-Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5596&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Cinema</link>
-</item>
-
-<item>
-<title>DE:SKY-CINEMA_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9288&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY-CINEMA_24</link>
-</item>
-
-<item>
-<title>DE:Sky-Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8787&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Krimi</link>
-</item>
-
-<item>
-<title>DE:RTL-5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5472&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL-5</link>
-</item>
-
-<item>
-<title>DE:RTL-Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5474&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL-Nitro</link>
-</item>
-
-<item>
-<title>DE:RTL.Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9750&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL.Nitro</link>
-</item>
-
-<item>
-<title>DE:RTL.Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9749&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL.Passion</link>
-</item>
-
-<item>
-<title>DE:RTL2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9748&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL2.HD</link>
-</item>
-
-<item>
-<title>DE:RTL_CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9753&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_CRIME</link>
-</item>
-
-<item>
-<title>DE:RTL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9754&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_HD</link>
-</item>
-
-<item>
-<title>DE:Sky_Sport_Digital</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/4623&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_Digital</link>
-</item>
-
-<item>
-<title>DE:FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5483&amp;streamtype=TSDOWNLOADER&amp;name=DE:FOX</link>
-</item>
-
-<item>
-<title>DE:Sky_Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9291&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Atlantic</link>
-</item>
-
-<item>
-<title>DE:Disney Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/4142&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney Cinemagic</link>
-</item>
-
-<item>
-<title>DE:Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9752&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney_Junior</link>
-</item>
-
-<item>
-<title>DE:KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8812&amp;streamtype=TSDOWNLOADER&amp;name=DE:KIKA</link>
-</item>
-
-<item>
-<title>DE:7MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8801&amp;streamtype=TSDOWNLOADER&amp;name=DE:7MAXX</link>
-</item>
-
-<item>
-<title>DE:NPO-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5468&amp;streamtype=TSDOWNLOADER&amp;name=DE:NPO-1</link>
-</item>
-
-<item>
-<title>DE:Syfy-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8802&amp;streamtype=TSDOWNLOADER&amp;name=DE:Syfy-HD</link>
-</item>
-
-<item>
-<title>DE:Sky-Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8790&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Hits</link>
-</item>
-
-<item>
-<title>DE:TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8811&amp;streamtype=TSDOWNLOADER&amp;name=DE:TLC</link>
-</item>
-
-<item>
-<title>DE:TNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8359&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT</link>
-</item>
-
-<item>
-<title>DE:Sky_Sport_Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5477&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_Austria</link>
-</item>
-
-<item>
-<title>De:Sky_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8799&amp;streamtype=TSDOWNLOADER&amp;name=De:Sky_Emotion</link>
-</item>
-
-<item>
-<title>DE:EUROSPORT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9296&amp;streamtype=TSDOWNLOADER&amp;name=DE:EUROSPORT_1</link>
-</item>
-
-<item>
-<title>DE:Zee_One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/5499&amp;streamtype=TSDOWNLOADER&amp;name=DE:Zee_One</link>
-</item>
-
-<item>
-<title>DE:VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8808&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX</link>
-</item>
-
-<item>
-<title>DE:SkySport_News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/9294&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkySport_News</link>
-</item>
-
-<item>
-<title>DE:PRO-7-MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8813&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO-7-MAXX</link>
-</item>
-
-<item>
-<title>DE:Sky.Bundesliga-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8143&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky.Bundesliga-1</link>
-</item>
-
-<item>
-<title>DE:Sky-Bundesliga-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/8814&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Bundesliga-3</link>
-</item>
-
-<item>
-<title>##### SKY DE FULL HD #####</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22434&amp;streamtype=TSDOWNLOADER&amp;name=##### SKY DE FULL HD #####</link>
-</item>
-
-<item>
-<title>DE|13th Street FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22194&amp;streamtype=TSDOWNLOADER&amp;name=DE|13th Street FHD</link>
-</item>
-
-<item>
-<title>DE|3Sat FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22195&amp;streamtype=TSDOWNLOADER&amp;name=DE|3Sat FHD</link>
-</item>
-
-<item>
-<title>DE|7 Maxx</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22196&amp;streamtype=TSDOWNLOADER&amp;name=DE|7 Maxx</link>
-</item>
-
-<item>
-<title>DE|A&E HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22197&amp;streamtype=TSDOWNLOADER&amp;name=DE|A&E HD</link>
-</item>
-
-<item>
-<title>DE|Animal Planet FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22198&amp;streamtype=TSDOWNLOADER&amp;name=DE|Animal Planet FHD</link>
-</item>
-
-<item>
-<title>DE|Anixe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22199&amp;streamtype=TSDOWNLOADER&amp;name=DE|Anixe HD</link>
-</item>
-
-<item>
-<title>DE|ARD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22200&amp;streamtype=TSDOWNLOADER&amp;name=DE|ARD HD</link>
-</item>
-
-<item>
-<title>DE|Arte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22201&amp;streamtype=TSDOWNLOADER&amp;name=DE|Arte HD</link>
-</item>
-
-<item>
-<title>DE|ATV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22202&amp;streamtype=TSDOWNLOADER&amp;name=DE|ATV 2 HD</link>
-</item>
-
-<item>
-<title>DE|ATV AT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22203&amp;streamtype=TSDOWNLOADER&amp;name=DE|ATV AT</link>
-</item>
-
-<item>
-<title>DE|ATV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22204&amp;streamtype=TSDOWNLOADER&amp;name=DE|ATV HD</link>
-</item>
-
-<item>
-<title>DE|Augsburg TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22205&amp;streamtype=TSDOWNLOADER&amp;name=DE|Augsburg TV HD</link>
-</item>
-
-<item>
-<title>DE|AUSTRIA 24 TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22206&amp;streamtype=TSDOWNLOADER&amp;name=DE|AUSTRIA 24 TV</link>
-</item>
-
-<item>
-<title>DE|Auto Motor Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22207&amp;streamtype=TSDOWNLOADER&amp;name=DE|Auto Motor Sport HD</link>
-</item>
-
-<item>
-<title>DE|AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22208&amp;streamtype=TSDOWNLOADER&amp;name=DE|AXN HD</link>
-</item>
-
-<item>
-<title>DE|Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22209&amp;streamtype=TSDOWNLOADER&amp;name=DE|Baby TV</link>
-</item>
-
-<item>
-<title>DE|Baden TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22210&amp;streamtype=TSDOWNLOADER&amp;name=DE|Baden TV</link>
-</item>
-
-<item>
-<title>DE|BAYERN FC TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22211&amp;streamtype=TSDOWNLOADER&amp;name=DE|BAYERN FC TV</link>
-</item>
-
-<item>
-<title>DE|BLKonline TV Burgenlandkreis</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22212&amp;streamtype=TSDOWNLOADER&amp;name=DE|BLKonline TV Burgenlandkreis</link>
-</item>
-
-<item>
-<title>DE|Boomerang HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22213&amp;streamtype=TSDOWNLOADER&amp;name=DE|Boomerang HD</link>
-</item>
-
-<item>
-<title>DE|Cartoon Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22214&amp;streamtype=TSDOWNLOADER&amp;name=DE|Cartoon Network HD</link>
-</item>
-
-<item>
-<title>DE|Classica HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22215&amp;streamtype=TSDOWNLOADER&amp;name=DE|Classica HD</link>
-</item>
-
-<item>
-<title>DE|Das Erste HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22216&amp;streamtype=TSDOWNLOADER&amp;name=DE|Das Erste HD</link>
-</item>
-
-<item>
-<title>DE|DAZN 1 Bar FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22217&amp;streamtype=TSDOWNLOADER&amp;name=DE|DAZN 1 Bar FHD</link>
-</item>
-
-<item>
-<title>DE|DAZN 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22218&amp;streamtype=TSDOWNLOADER&amp;name=DE|DAZN 1 HD</link>
-</item>
-
-<item>
-<title>DE|DAZN 2 Bar FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22219&amp;streamtype=TSDOWNLOADER&amp;name=DE|DAZN 2 Bar FHD</link>
-</item>
-
-<item>
-<title>DE|DAZN 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22220&amp;streamtype=TSDOWNLOADER&amp;name=DE|DAZN 2 HD</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22221&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 1</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22222&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 2</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22223&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 3</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22224&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 4</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22225&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 5</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22226&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 6</link>
-</item>
-
-<item>
-<title>DE|DEL Sport 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22227&amp;streamtype=TSDOWNLOADER&amp;name=DE|DEL Sport 7</link>
-</item>
-
-<item>
-<title>DE|Discovery Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22228&amp;streamtype=TSDOWNLOADER&amp;name=DE|Discovery Channel HD</link>
-</item>
-
-<item>
-<title>DE|Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22229&amp;streamtype=TSDOWNLOADER&amp;name=DE|Disney Channel HD</link>
-</item>
-
-<item>
-<title>DE|Disney Cinemagic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22230&amp;streamtype=TSDOWNLOADER&amp;name=DE|Disney Cinemagic HD</link>
-</item>
-
-<item>
-<title>DE|DISNEY CINEMAGIQUE GERMANY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22231&amp;streamtype=TSDOWNLOADER&amp;name=DE|DISNEY CINEMAGIQUE GERMANY</link>
-</item>
-
-<item>
-<title>DE|Disney Jr HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22232&amp;streamtype=TSDOWNLOADER&amp;name=DE|Disney Jr HD</link>
-</item>
-
-<item>
-<title>DE|Disney XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22233&amp;streamtype=TSDOWNLOADER&amp;name=DE|Disney XD HD</link>
-</item>
-
-<item>
-<title>DE|Dmax HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22234&amp;streamtype=TSDOWNLOADER&amp;name=DE|Dmax HD</link>
-</item>
-
-<item>
-<title>DE|DW TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22235&amp;streamtype=TSDOWNLOADER&amp;name=DE|DW TV</link>
-</item>
-
-<item>
-<title>DE|E! Entertainm HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22236&amp;streamtype=TSDOWNLOADER&amp;name=DE|E! Entertainm HD</link>
-</item>
-
-<item>
-<title>DE|Euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22237&amp;streamtype=TSDOWNLOADER&amp;name=DE|Euronews</link>
-</item>
-
-<item>
-<title>DE|Europort 2 Xtra FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22238&amp;streamtype=TSDOWNLOADER&amp;name=DE|Europort 2 Xtra FHD</link>
-</item>
-
-<item>
-<title>DE|Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22239&amp;streamtype=TSDOWNLOADER&amp;name=DE|Eurosport 1 HD</link>
-</item>
-
-<item>
-<title>DE|Eurosport 2 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22240&amp;streamtype=TSDOWNLOADER&amp;name=DE|Eurosport 2 FHD</link>
-</item>
-
-<item>
-<title>DE|EUROSPORT 2 HD XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22241&amp;streamtype=TSDOWNLOADER&amp;name=DE|EUROSPORT 2 HD XTRA</link>
-</item>
-
-<item>
-<title>DE|EXTREM SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22242&amp;streamtype=TSDOWNLOADER&amp;name=DE|EXTREM SPORT</link>
-</item>
-
-<item>
-<title>DE|Family TV FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22243&amp;streamtype=TSDOWNLOADER&amp;name=DE|Family TV FHD</link>
-</item>
-
-<item>
-<title>DE|FC Bayern TV FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22244&amp;streamtype=TSDOWNLOADER&amp;name=DE|FC Bayern TV FHD</link>
-</item>
-
-<item>
-<title>DE|FOX 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22245&amp;streamtype=TSDOWNLOADER&amp;name=DE|FOX 1</link>
-</item>
-
-<item>
-<title>DE|FOX FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22246&amp;streamtype=TSDOWNLOADER&amp;name=DE|FOX FHD</link>
-</item>
-
-<item>
-<title>DE|Fox Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22247&amp;streamtype=TSDOWNLOADER&amp;name=DE|Fox Serie HD</link>
-</item>
-
-<item>
-<title>DE|FOX SPORTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22248&amp;streamtype=TSDOWNLOADER&amp;name=DE|FOX SPORTS</link>
-</item>
-
-<item>
-<title>DE|Goldstar TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22249&amp;streamtype=TSDOWNLOADER&amp;name=DE|Goldstar TV</link>
-</item>
-
-<item>
-<title>DE|History Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22250&amp;streamtype=TSDOWNLOADER&amp;name=DE|History Channel HD</link>
-</item>
-
-<item>
-<title>DE|Jukebox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22251&amp;streamtype=TSDOWNLOADER&amp;name=DE|Jukebox HD</link>
-</item>
-
-<item>
-<title>DE|Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22252&amp;streamtype=TSDOWNLOADER&amp;name=DE|Junior HD</link>
-</item>
-
-<item>
-<title>DE|Kabel 1 Classic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22253&amp;streamtype=TSDOWNLOADER&amp;name=DE|Kabel 1 Classic HD</link>
-</item>
-
-<item>
-<title>DE|Kabel 1 Doku HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22254&amp;streamtype=TSDOWNLOADER&amp;name=DE|Kabel 1 Doku HD</link>
-</item>
-
-<item>
-<title>DE|Kabel eins Doku HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22255&amp;streamtype=TSDOWNLOADER&amp;name=DE|Kabel eins Doku HD</link>
-</item>
-
-<item>
-<title>DE|KABEL EINS HD AUSTRIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22256&amp;streamtype=TSDOWNLOADER&amp;name=DE|KABEL EINS HD AUSTRIA</link>
-</item>
-
-<item>
-<title>DE|Kabel Journal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22257&amp;streamtype=TSDOWNLOADER&amp;name=DE|Kabel Journal</link>
-</item>
-
-<item>
-<title>DE|KIKA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22258&amp;streamtype=TSDOWNLOADER&amp;name=DE|KIKA HD</link>
-</item>
-
-<item>
-<title>DE|MTV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22259&amp;streamtype=TSDOWNLOADER&amp;name=DE|MTV HD</link>
-</item>
-
-<item>
-<title>DE|MTV HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22260&amp;streamtype=TSDOWNLOADER&amp;name=DE|MTV HITS</link>
-</item>
-
-<item>
-<title>DE|MTV Nor</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22261&amp;streamtype=TSDOWNLOADER&amp;name=DE|MTV Nor</link>
-</item>
-
-<item>
-<title>DE|N24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22262&amp;streamtype=TSDOWNLOADER&amp;name=DE|N24 HD</link>
-</item>
-
-<item>
-<title>DE|NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22263&amp;streamtype=TSDOWNLOADER&amp;name=DE|NAT GEO HD</link>
-</item>
-
-<item>
-<title>DE|NAT GEO PEOPLE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22264&amp;streamtype=TSDOWNLOADER&amp;name=DE|NAT GEO PEOPLE HD</link>
-</item>
-
-<item>
-<title>DE|Nat Geo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22265&amp;streamtype=TSDOWNLOADER&amp;name=DE|Nat Geo Wild HD</link>
-</item>
-
-<item>
-<title>DE|NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22266&amp;streamtype=TSDOWNLOADER&amp;name=DE|NDR HD</link>
-</item>
-
-<item>
-<title>DE|Nick JR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22267&amp;streamtype=TSDOWNLOADER&amp;name=DE|Nick JR HD</link>
-</item>
-
-<item>
-<title>DE|Nickelodeon HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22268&amp;streamtype=TSDOWNLOADER&amp;name=DE|Nickelodeon HD</link>
-</item>
-
-<item>
-<title>DE|NITRO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22269&amp;streamtype=TSDOWNLOADER&amp;name=DE|NITRO HD</link>
-</item>
-
-<item>
-<title>DE|ONE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22270&amp;streamtype=TSDOWNLOADER&amp;name=DE|ONE HD</link>
-</item>
-
-<item>
-<title>DE|ORF 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22271&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF 1</link>
-</item>
-
-<item>
-<title>DE|ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22272&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF 1 HD</link>
-</item>
-
-<item>
-<title>DE|ORF 1 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22273&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF 1 FULL HD</link>
-</item>
-
-<item>
-<title>DE|ORF 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22274&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF 2 HD</link>
-</item>
-
-<item>
-<title>DE|ORF 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22275&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF 2</link>
-</item>
-
-<item>
-<title>DE|ORF 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22276&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF 3 HD</link>
-</item>
-
-<item>
-<title>DE|Orf Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22277&amp;streamtype=TSDOWNLOADER&amp;name=DE|Orf Sport</link>
-</item>
-
-<item>
-<title>DE|ORF Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22278&amp;streamtype=TSDOWNLOADER&amp;name=DE|ORF Sport HD</link>
-</item>
-
-<item>
-<title>DE|PLANET HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22279&amp;streamtype=TSDOWNLOADER&amp;name=DE|PLANET HD</link>
-</item>
-
-<item>
-<title>DE|Potsdam TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22280&amp;streamtype=TSDOWNLOADER&amp;name=DE|Potsdam TV</link>
-</item>
-
-<item>
-<title>DE|Pro 7 Fun HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22281&amp;streamtype=TSDOWNLOADER&amp;name=DE|Pro 7 Fun HD</link>
-</item>
-
-<item>
-<title>DE|Pro 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22282&amp;streamtype=TSDOWNLOADER&amp;name=DE|Pro 7 HD</link>
-</item>
-
-<item>
-<title>DE|PRO 7 MAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22283&amp;streamtype=TSDOWNLOADER&amp;name=DE|PRO 7 MAX</link>
-</item>
-
-<item>
-<title>DE|PRO 7 MAXX FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22284&amp;streamtype=TSDOWNLOADER&amp;name=DE|PRO 7 MAXX FHD</link>
-</item>
-
-<item>
-<title>DE|PRO MAX 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22285&amp;streamtype=TSDOWNLOADER&amp;name=DE|PRO MAX 7</link>
-</item>
-
-<item>
-<title>DE|Pro Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22286&amp;streamtype=TSDOWNLOADER&amp;name=DE|Pro Maxx HD</link>
-</item>
-
-<item>
-<title>DE|ProSieben HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22287&amp;streamtype=TSDOWNLOADER&amp;name=DE|ProSieben HD</link>
-</item>
-
-<item>
-<title>DE|ProSieben Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22288&amp;streamtype=TSDOWNLOADER&amp;name=DE|ProSieben Maxx HD</link>
-</item>
-
-<item>
-<title>DE|PULS 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22289&amp;streamtype=TSDOWNLOADER&amp;name=DE|PULS 4</link>
-</item>
-
-<item>
-<title>DE|Romance TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22290&amp;streamtype=TSDOWNLOADER&amp;name=DE|Romance TV HD</link>
-</item>
-
-<item>
-<title>DE|RTL 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22291&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL 2 HD</link>
-</item>
-
-<item>
-<title>DE|RTL Crime HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22292&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL Crime HD</link>
-</item>
-
-<item>
-<title>DE|RTL FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22293&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL FHD</link>
-</item>
-
-<item>
-<title>DE|RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22294&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL HD</link>
-</item>
-
-<item>
-<title>DE|RTL II</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22295&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL II</link>
-</item>
-
-<item>
-<title>DE|RTL Living HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22296&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL Living HD</link>
-</item>
-
-<item>
-<title>DE|RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22297&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL Nitro HD</link>
-</item>
-
-<item>
-<title>DE|RTL Passion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22298&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL Passion HD</link>
-</item>
-
-<item>
-<title>DE|RTL Plus HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22299&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL Plus HD</link>
-</item>
-
-<item>
-<title>DE|RTL Television</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22300&amp;streamtype=TSDOWNLOADER&amp;name=DE|RTL Television</link>
-</item>
-
-<item>
-<title>DE|SAT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22301&amp;streamtype=TSDOWNLOADER&amp;name=DE|SAT 1</link>
-</item>
-
-<item>
-<title>DE|SAT 1 EMOTIONS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22302&amp;streamtype=TSDOWNLOADER&amp;name=DE|SAT 1 EMOTIONS HD</link>
-</item>
-
-<item>
-<title>DE|SAT 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22303&amp;streamtype=TSDOWNLOADER&amp;name=DE|SAT 3 HD</link>
-</item>
-
-<item>
-<title>DE|SAT1 Gold HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22304&amp;streamtype=TSDOWNLOADER&amp;name=DE|SAT1 Gold HD</link>
-</item>
-
-<item>
-<title>DE|Sixx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22305&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sixx HD</link>
-</item>
-
-<item>
-<title>DE|Sky 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22306&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky 13th Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22307&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky 13th Street HD</link>
-</item>
-
-<item>
-<title>DE|SKY 3D BOX OFFICE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22308&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY 3D BOX OFFICE</link>
-</item>
-
-<item>
-<title>DE|Sky 3D HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22309&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky 3D HD</link>
-</item>
-
-<item>
-<title>DE|Sky Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22310&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Action HD</link>
-</item>
-
-<item>
-<title>DE|SKY ARTE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22311&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY ARTE HD</link>
-</item>
-
-<item>
-<title>DE|Sky Atlantic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22312&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Atlantic HD</link>
-</item>
-
-<item>
-<title>DE|Sky AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22313&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky AXN HD</link>
-</item>
-
-<item>
-<title>DE|Sky Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22314&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Boomerang</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22315&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22316&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema 24 HD</link>
-</item>
-
-<item>
-<title>DE|SKY CINEMA 24 HD GERMANY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22317&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY CINEMA 24 HD GERMANY</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22318&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22319&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema 24 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22320&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Action HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Alien HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22321&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Alien HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Animation HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22322&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Animation HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Classic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22323&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Classic HD</link>
-</item>
-
-<item>
-<title>DE|SKY CINEMA COMEDY GERMANY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22324&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY CINEMA COMEDY GERMANY</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22325&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Comedy HD</link>
-</item>
-
-<item>
-<title>DE|SKY CINEMA EMOTION GERMANY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22326&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY CINEMA EMOTION GERMANY</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22327&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Emotion HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22328&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema FHD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Hits FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22329&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Hits FHD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22330&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Krimi</link>
-</item>
-
-<item>
-<title>DE|SKY CINEMA MAX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22331&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY CINEMA MAX HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Nostalgie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22332&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Nostalgie HD</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema Plus 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22333&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema Plus 24</link>
-</item>
-
-<item>
-<title>DE|Sky Cinema WESTERN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22334&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Cinema WESTERN</link>
-</item>
-
-<item>
-<title>DE|Sky Classica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22335&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Classica</link>
-</item>
-
-<item>
-<title>DE|SKY Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22336&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY Disney Channel HD</link>
-</item>
-
-<item>
-<title>DE|Sky DISNEY CINEMAGIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22337&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky DISNEY CINEMAGIC HD</link>
-</item>
-
-<item>
-<title>DE|Sky Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22338&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Disney Junior</link>
-</item>
-
-<item>
-<title>DE|Sky Disney xd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22339&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Disney xd</link>
-</item>
-
-<item>
-<title>DE|SKY DMAX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22340&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY DMAX HD</link>
-</item>
-
-<item>
-<title>DE|Sky Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22341&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Emotion HD</link>
-</item>
-
-<item>
-<title>DE|Sky Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22342&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Eurosport 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22343&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Family</link>
-</item>
-
-<item>
-<title>DE|SKY FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22344&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY FOX HD</link>
-</item>
-
-<item>
-<title>DE|Sky Germany HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22345&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Germany HD</link>
-</item>
-
-<item>
-<title>DE|Sky Germany Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22346&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Germany Atlantic</link>
-</item>
-
-<item>
-<title>DE|Sky GoldStar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22347&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky GoldStar</link>
-</item>
-
-<item>
-<title>DE|Sky History Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22348&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky History Channel HD</link>
-</item>
-
-<item>
-<title>DE|Sky Hits HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22349&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Hits HD</link>
-</item>
-
-<item>
-<title>DE|Sky Kino</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22350&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino</link>
-</item>
-
-<item>
-<title>DE|Sky Kino 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22351&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino 1</link>
-</item>
-
-<item>
-<title>DE|Sky Kino 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22352&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino 24 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22353&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Action</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22354&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Comedy</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22355&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Emotion</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22356&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Family</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22357&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Hits</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Krime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22358&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Krime</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22359&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Nostalgie</link>
-</item>
-
-<item>
-<title>DE|Sky Kino Welt TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22360&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Kino Welt TV</link>
-</item>
-
-<item>
-<title>DE|Sky Krimi HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22361&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Krimi HD</link>
-</item>
-
-<item>
-<title>DE|SKY NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22362&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY NAT GEO HD</link>
-</item>
-
-<item>
-<title>DE|SKY NAT GEO PEOPLE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22363&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY NAT GEO PEOPLE HD</link>
-</item>
-
-<item>
-<title>DE|Sky NAT GEO Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22364&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky NAT GEO Wild HD</link>
-</item>
-
-<item>
-<title>DE|Sky Nostalgie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22365&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Nostalgie HD</link>
-</item>
-
-<item>
-<title>DE|Sky Romance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22366&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Romance</link>
-</item>
-
-<item>
-<title>DE|Sky Select 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22367&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22368&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 10 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 11 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22369&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 11 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22370&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 2 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22371&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 3 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22372&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 4 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22373&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 5 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22374&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 6 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22375&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 7 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22376&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 8 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22377&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select 9 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Select HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22378&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Select HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22379&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 1 US HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22380&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 1 US HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22381&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 10 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22382&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 2 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22383&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 3 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22384&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 4 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22385&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 5 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22386&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 6 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22387&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 7 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22388&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport 8 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Austria HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22389&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Austria HD</link>
-</item>
-
-<item>
-<title>DE|SKY SPORT BUNDESLIGA 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22390&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY SPORT BUNDESLIGA 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Bundesliga 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22391&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Bundesliga 10 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Bundesliga 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22392&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Bundesliga 4 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Bundesliga 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22393&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Bundesliga 5 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Bundesliga 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22394&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Bundesliga 6 HD</link>
-</item>
-
-<item>
-<title>DE|SKY Sport BUNDESLIGA 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22395&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY Sport BUNDESLIGA 7 HD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Bundesliga 8 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22396&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Bundesliga 8 FHD</link>
-</item>
-
-<item>
-<title>DE|Sky Sport Bundesliga 9 FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22397&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport Bundesliga 9 FHD</link>
-</item>
-
-<item>
-<title>DE|SKY SPORT BUNDESLIGA HD 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22398&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY SPORT BUNDESLIGA HD 10</link>
-</item>
-
-<item>
-<title>DE|SKY SPORT BUNDESLIGA HD 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22399&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY SPORT BUNDESLIGA HD 8</link>
-</item>
-
-<item>
-<title>DE|Sky Sport News HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22400&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Sport News HD</link>
-</item>
-
-<item>
-<title>DE|SKY SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22401&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY SYFY HD</link>
-</item>
-
-<item>
-<title>DE|SKY TNT COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22402&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY TNT COMEDY</link>
-</item>
-
-<item>
-<title>DE|SKY TNT FILM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22403&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY TNT FILM HD</link>
-</item>
-
-<item>
-<title>DE|SKY TNT SERIE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22404&amp;streamtype=TSDOWNLOADER&amp;name=DE|SKY TNT SERIE HD</link>
-</item>
-
-<item>
-<title>DE|Sky Universal Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22405&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Universal Channel</link>
-</item>
-
-<item>
-<title>DE|Sky Western</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22406&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sky Western</link>
-</item>
-
-<item>
-<title>DE|Spiegel Gesichte FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22407&amp;streamtype=TSDOWNLOADER&amp;name=DE|Spiegel Gesichte FHD</link>
-</item>
-
-<item>
-<title>DE|SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22408&amp;streamtype=TSDOWNLOADER&amp;name=DE|SPORT 1 HD</link>
-</item>
-
-<item>
-<title>DE|Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22409&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sport 2 HD</link>
-</item>
-
-<item>
-<title>DE|Sport Digital HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22410&amp;streamtype=TSDOWNLOADER&amp;name=DE|Sport Digital HD</link>
-</item>
-
-<item>
-<title>DE|SPORT TELECLUB SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22411&amp;streamtype=TSDOWNLOADER&amp;name=DE|SPORT TELECLUB SPORT 1</link>
-</item>
-
-<item>
-<title>DE|SPORT1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22412&amp;streamtype=TSDOWNLOADER&amp;name=DE|SPORT1 HD</link>
-</item>
-
-<item>
-<title>DE|SR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22413&amp;streamtype=TSDOWNLOADER&amp;name=DE|SR HD</link>
-</item>
-
-<item>
-<title>DE|SRF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22414&amp;streamtype=TSDOWNLOADER&amp;name=DE|SRF 1 HD</link>
-</item>
-
-<item>
-<title>DE|SRF 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22415&amp;streamtype=TSDOWNLOADER&amp;name=DE|SRF 2 HD</link>
-</item>
-
-<item>
-<title>DE|SWR BW HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22416&amp;streamtype=TSDOWNLOADER&amp;name=DE|SWR BW HD</link>
-</item>
-
-<item>
-<title>DE|Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22417&amp;streamtype=TSDOWNLOADER&amp;name=DE|Syfy</link>
-</item>
-
-<item>
-<title>DE|SYFY HD DEUTSCHLAND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22418&amp;streamtype=TSDOWNLOADER&amp;name=DE|SYFY HD DEUTSCHLAND</link>
-</item>
-
-<item>
-<title>DE|Tele 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22419&amp;streamtype=TSDOWNLOADER&amp;name=DE|Tele 5 HD</link>
-</item>
-
-<item>
-<title>DE|TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22420&amp;streamtype=TSDOWNLOADER&amp;name=DE|TLC HD</link>
-</item>
-
-<item>
-<title>DE|TNT Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22421&amp;streamtype=TSDOWNLOADER&amp;name=DE|TNT Comedy HD</link>
-</item>
-
-<item>
-<title>DE|TNT Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22422&amp;streamtype=TSDOWNLOADER&amp;name=DE|TNT Film</link>
-</item>
-
-<item>
-<title>DE|TNT Film HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22423&amp;streamtype=TSDOWNLOADER&amp;name=DE|TNT Film HD</link>
-</item>
-
-<item>
-<title>DE|TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22424&amp;streamtype=TSDOWNLOADER&amp;name=DE|TNT Serie HD</link>
-</item>
-
-<item>
-<title>DE|UNIVERSAL HD GERMANY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22425&amp;streamtype=TSDOWNLOADER&amp;name=DE|UNIVERSAL HD GERMANY</link>
-</item>
-
-<item>
-<title>DE|VOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22426&amp;streamtype=TSDOWNLOADER&amp;name=DE|VOX HD</link>
-</item>
-
-<item>
-<title>DE|WDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22427&amp;streamtype=TSDOWNLOADER&amp;name=DE|WDR HD</link>
-</item>
-
-<item>
-<title>DE|ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22428&amp;streamtype=TSDOWNLOADER&amp;name=DE|ZDF HD</link>
-</item>
-
-<item>
-<title>DE|ZDF INFO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22429&amp;streamtype=TSDOWNLOADER&amp;name=DE|ZDF INFO HD</link>
-</item>
-
-<item>
-<title>DE|ZEE Deutschland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22431&amp;streamtype=TSDOWNLOADER&amp;name=DE|ZEE Deutschland</link>
-</item>
-
-<item>
-<title>DE|ZEE ONE BOLLYWOOD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22432&amp;streamtype=TSDOWNLOADER&amp;name=DE|ZEE ONE BOLLYWOOD HD</link>
-</item>
-
-<item>
-<title>DE|Zee One HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22433&amp;streamtype=TSDOWNLOADER&amp;name=DE|Zee One HD</link>
-</item>
-
-<item>
-<title>DE|ZDF NEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/22430&amp;streamtype=TSDOWNLOADER&amp;name=DE|ZDF NEO HD</link>
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title>DE: 1 2 3 TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123tv.cdn.ses-ps.com/index.ts</link></item>
+<item><title>DE: 1 2 3 TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4617.m3u8</link></item>
+<item><title>DE: 123TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33473.ts</link></item>
+<item><title>DE: 13TH STREET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33514.ts</link></item>
+<item><title>DE: 13TH STREET (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2296.m3u8</link></item>
+<item><title>DE: 24 TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2308.m3u8</link></item>
+<item><title>DE: 3 SAT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33568.ts</link></item>
+<item><title>DE: 3SAT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2297.m3u8</link></item>
+<item><title>DE: 7 MAXX </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2295.m3u8</link></item>
+<item><title>DE: A&E HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2298.m3u8</link></item>
+<item><title>DE: A&E </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33488.ts</link></item>
+<item><title>DE: AIRE SANTA FE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8</link></item>
+<item><title>DE: ANIMAL PLANET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2299.m3u8</link></item>
+<item><title>DE: ANIXE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33472.ts</link></item>
+<item><title>DE: ANIXE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2300.m3u8</link></item>
+<item><title>DE: ARD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2302.m3u8</link></item>
+<item><title>DE: ARD ALPHA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4610.m3u8</link></item>
+<item><title>DE: ARD ALPHA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=livestreams.br.de/i/bralpha_germany@119899/master.ts</link></item>
+<item><title>DE: ARTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33571.ts</link></item>
+<item><title>DE: ARTE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2303.m3u8</link></item>
+<item><title>DE: ATV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2306.m3u8</link></item>
+<item><title>DE: ATV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2305.m3u8</link></item>
+<item><title>DE: ATV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2304.m3u8</link></item>
+<item><title>DE: AUGSBURG TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2307.m3u8</link></item>
+<item><title>DE: AUGSBURG TV (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_2/playlist.m3u8</link></item>
+<item><title>DE: AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2310.m3u8</link></item>
+<item><title>DE: BADEN BADEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://586fb512206e4.streamlock.net:1935/neueDorint-rtp/_definst_/mp4:BadenBaden.stream/playlist.m3u8</link></item>
+<item><title>DE: BADEN TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4637.m3u8</link></item>
+<item><title>DE: BADEN TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2312.m3u8</link></item>
+<item><title>DE: BADEN TV OPT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8</link></item>
+<item><title>DE: BADEN TV OPT 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=cdn.icu.de/rtplive/btv.stream/playlist.ts</link></item>
+<item><title>DE: BAYERN FC TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2313.m3u8</link></item>
+<item><title>DE: BLKONLINE TV BURGENLANDKREIS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2314.m3u8</link></item>
+<item><title>DE: BR FERNSEHEN NORD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4627.m3u8</link></item>
+<item><title>DE: BR NORD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=livestreams.br.de/i/bfsnord_germany@119898/master.ts</link></item>
+<item><title>DE: BR SUED </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=livestreams.br.de/i/bfssued_germany@119890/master.ts</link></item>
+<item><title>DE: BREMEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://586fb512206e4.streamlock.net:1935/neueDorint-rtp/_definst_/mp4:Bremen.stream/playlist.m3u8</link></item>
+<item><title>DE: CANAL SAO PAULO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8</link></item>
+<item><title>DE: CLASSICA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2318.m3u8</link></item>
+<item><title>DE: CLASSICA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33455.ts</link></item>
+<item><title>DE: CRACOW 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8</link></item>
+<item><title>DE: CRACOW 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8</link></item>
+<item><title>DE: DAS ERSTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2320.m3u8</link></item>
+<item><title>DE: DAS ERSTE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=mcdn.daserste.de/daserste/de/profile1/index.ts</link></item>
+<item><title>DE: DAS ERSTE ARD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33572.ts</link></item>
+<item><title>DE: DAS ERSTE ARD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33573.ts</link></item>
+<item><title>DE: DAZN 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2322.m3u8</link></item>
+<item><title>DE: DAZN 1 BAR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2321.m3u8</link></item>
+<item><title>DE: DAZN 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2324.m3u8</link></item>
+<item><title>DE: DAZN 2 BAR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2323.m3u8</link></item>
+<item><title>DE: DER AKTIONAR TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.ts</link></item>
+<item><title>DE: DEUTSCHE WELLE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4633.m3u8</link></item>
+<item><title>DE: DISCOVERY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33498.ts</link></item>
+<item><title>DE: DISCOVERY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2332.m3u8</link></item>
+<item><title>DE: DMAX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33545.ts</link></item>
+<item><title>DE: DMAX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2339.m3u8</link></item>
+<item><title>DE: DONAU TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4641.m3u8</link></item>
+<item><title>DE: DONAU TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8</link></item>
+<item><title>DE: DORF TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4667.m3u8</link></item>
+<item><title>DE: DW TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2340.m3u8</link></item>
+<item><title>DE: E! ENTERTAINM HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2341.m3u8</link></item>
+<item><title>DE: E! ENTERTAINMENT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33506.ts</link></item>
+<item><title>DE: EBS KANAL 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8</link></item>
+<item><title>DE: ELBEKANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8</link></item>
+<item><title>DE: EOTV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33559.ts</link></item>
+<item><title>DE: EUROPORT 2 XTRA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2343.m3u8</link></item>
+<item><title>DE: FC BAYERN TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2349.m3u8</link></item>
+<item><title>DE: FOLX TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8</link></item>
+<item><title>DE: FOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33515.ts</link></item>
+<item><title>DE: FOX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2351.m3u8</link></item>
+<item><title>DE: FOX 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2350.m3u8</link></item>
+<item><title>DE: FRANKEN FERNSEHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8</link></item>
+<item><title>DE: FRANKEN FERNSEHEN (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.ts</link></item>
+<item><title>DE: FRANKEN TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_2/playlist.m3u8</link></item>
+<item><title>DE: FS1 SALZBURG </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream.fs1.tv:8080/hls/webstream.m3u8</link></item>
+<item><title>DE: GENIUS PLUS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4622.m3u8</link></item>
+<item><title>DE: GOLDSTAR TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2354.m3u8</link></item>
+<item><title>DE: HALLE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8</link></item>
+<item><title>DE: HEALTH TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4615.m3u8</link></item>
+<item><title>DE: HEIMAT KANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33456.ts</link></item>
+<item><title>DE: HISTORY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33495.ts</link></item>
+<item><title>DE: HISTORY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2355.m3u8</link></item>
+<item><title>DE: HSE 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33469.ts</link></item>
+<item><title>DE: HSE 24 EXTRA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33468.ts</link></item>
+<item><title>DE: JUWELO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33475.ts</link></item>
+<item><title>DE: K TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8</link></item>
+<item><title>DE: KABEL 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33548.ts</link></item>
+<item><title>DE: KABEL 1 CLASSIC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2358.m3u8</link></item>
+<item><title>DE: KABEL 1 DOKU HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2359.m3u8</link></item>
+<item><title>DE: KABEL EINS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2362.m3u8</link></item>
+<item><title>DE: KABEL EINS DOKU HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2361.m3u8</link></item>
+<item><title>DE: KIKA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2364.m3u8</link></item>
+<item><title>DE: KIKA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33482.ts</link></item>
+<item><title>DE: KIKA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/426.ts</link></item>
+<item><title>DE: KINOWELT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33518.ts</link></item>
+<item><title>DE: KRONEHIT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://bitcdn-kronehit.bitmovin.com/v2/hls/bitcodin.m3u8</link></item>
+<item><title>DE: KRONEHIT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4671.m3u8</link></item>
+<item><title>DE: KULTURMDTV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8</link></item>
+<item><title>DE: L TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4648.m3u8</link></item>
+<item><title>DE: LAGOON SWINNA POREBA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hstream2.webcamera.pl/poreba_cam_e71a81/poreba_cam_e71a81.stream/playlist.m3u8</link></item>
+<item><title>DE: LEIPZIG FERNSEHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4649.m3u8</link></item>
+<item><title>DE: MAIN TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8</link></item>
+<item><title>DE: MDF 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8</link></item>
+<item><title>DE: MDR CRINGEN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33467.ts</link></item>
+<item><title>DE: MDR S ANHALT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33466.ts</link></item>
+<item><title>DE: MDR SACHSEN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33465.ts</link></item>
+<item><title>DE: MUNCHEN TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8</link></item>
+<item><title>DE: MUNCHEN TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.ts</link></item>
+<item><title>DE: N TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33477.ts</link></item>
+<item><title>DE: N24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2368.m3u8</link></item>
+<item><title>DE: N24 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/425.ts</link></item>
+<item><title>DE: NAHE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/nahetv.m3u8</link></item>
+<item><title>DE: NAT GEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2369.m3u8</link></item>
+<item><title>DE: NAT GEO PEOPLE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2370.m3u8</link></item>
+<item><title>DE: NAT GEO WILD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2371.m3u8</link></item>
+<item><title>DE: NDR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2372.m3u8</link></item>
+<item><title>DE: NGC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33497.ts</link></item>
+<item><title>DE: NGC WILD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33496.ts</link></item>
+<item><title>DE: NITRO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2375.m3u8</link></item>
+<item><title>DE: NITRO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33556.ts</link></item>
+<item><title>DE: NL 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/1079.ts</link></item>
+<item><title>DE: NRJ TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8</link></item>
+<item><title>DE: OBERPFALZ TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8</link></item>
+<item><title>DE: OBERPFALZ TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_2/chunklist.m3u8</link></item>
+<item><title>DE: OBERPFALZ TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.ts</link></item>
+<item><title>DE: OE24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8</link></item>
+<item><title>DE: OFFENER KANAL MAGDEBURG </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8</link></item>
+<item><title>DE: OFFENER KANAL MAGDEBURG (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.ts</link></item>
+<item><title>DE: OK KOBLENZ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4656.m3u8</link></item>
+<item><title>DE: OK SUDWESTPFALZ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/okswp.m3u8</link></item>
+<item><title>DE: OK WEINSTRASSE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/okweinstrasse.m3u8</link></item>
+<item><title>DE: OK4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/ok4.m3u8</link></item>
+<item><title>DE: OK54 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream-cdn.ok54.de/hls/ok54.m3u8</link></item>
+<item><title>DE: OK54 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=stream-cdn.ok54.de/hls/ok54.ts</link></item>
+<item><title>DE: OKTO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8</link></item>
+<item><title>DE: OKTO TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.ts</link></item>
+<item><title>DE: ONE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2377.m3u8</link></item>
+<item><title>DE: ORF 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2379.m3u8</link></item>
+<item><title>DE: ORF 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2380.m3u8</link></item>
+<item><title>DE: ORF 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.ts</link></item>
+<item><title>DE: ORF 1 AU </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2378.m3u8</link></item>
+<item><title>DE: ORF 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2382.m3u8</link></item>
+<item><title>DE: ORF 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2383.m3u8</link></item>
+<item><title>DE: ORF 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8</link></item>
+<item><title>DE: ORF 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.ts</link></item>
+<item><title>DE: ORF 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2384.m3u8</link></item>
+<item><title>DE: ORF 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8</link></item>
+<item><title>DE: ORF 3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.ts</link></item>
+<item><title>DE: P3 TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8</link></item>
+<item><title>DE: PEARL TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33474.ts</link></item>
+<item><title>DE: PELICULA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/442.ts</link></item>
+<item><title>DE: PELICULA CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/442.ts</link></item>
+<item><title>DE: PELICULA CLASICO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2231.ts</link></item>
+<item><title>DE: PELICULA PLUS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2149.ts</link></item>
+<item><title>DE: PL 13 ULICA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4275.ts</link></item>
+<item><title>DE: PL ALE KINO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4276.ts</link></item>
+<item><title>DE: PL ANIMAL PLANET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4235.ts</link></item>
+<item><title>DE: PL AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1988.m3u8</link></item>
+<item><title>DE: PL AXN </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1988.ts</link></item>
+<item><title>DE: PL AXN WHITE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4278.ts</link></item>
+<item><title>DE: PL CANAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1991.ts</link></item>
+<item><title>DE: PL CANAL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4281.ts</link></item>
+<item><title>DE: PL CANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4280.ts</link></item>
+<item><title>DE: PL CANAL DISCOVERY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4284.ts</link></item>
+<item><title>DE: PL CANAL FAMILIY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4291.ts</link></item>
+<item><title>DE: PL CANAL FILM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4287.ts</link></item>
+<item><title>DE: PL COMEDT CENTRAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4256.ts</link></item>
+<item><title>DE: PL DISCOVERY LIFE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1998.ts</link></item>
+<item><title>DE: PL DISCOVERY SCIENCE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/1999.ts</link></item>
+<item><title>DE: PL ELEVEN EXTRA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4257.ts</link></item>
+<item><title>DE: PL ESKA TV EXTRA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2004.ts</link></item>
+<item><title>DE: PL FOKUS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2013.ts</link></item>
+<item><title>DE: PL FOKUS TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2013.ts</link></item>
+<item><title>DE: PL FOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2016.ts</link></item>
+<item><title>DE: PL FOX COMEDY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2015.ts</link></item>
+<item><title>DE: PL H2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2018.m3u8</link></item>
+<item><title>DE: PL HBO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2019.ts</link></item>
+<item><title>DE: PL HBO 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4266.ts</link></item>
+<item><title>DE: PL HBO 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4267.ts</link></item>
+<item><title>DE: PL HBO 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4268.ts</link></item>
+<item><title>DE: PL HISTORY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2020.ts</link></item>
+<item><title>DE: PL ID TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2017.ts</link></item>
+<item><title>DE: PL KINO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2021.ts</link></item>
+<item><title>DE: PL KINO TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2021.ts</link></item>
+<item><title>DE: PL KUCHNIA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4259.ts</link></item>
+<item><title>DE: PL LIFETIME HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2022.m3u8</link></item>
+<item><title>DE: PL LIFETIME (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2022.m3u8</link></item>
+<item><title>DE: PL MANGO 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2023.m3u8</link></item>
+<item><title>DE: PL MANGO 24 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2023.m3u8</link></item>
+<item><title>DE: PL MANGO 24 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2024.m3u8</link></item>
+<item><title>DE: PL MINIMINI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2025.m3u8</link></item>
+<item><title>DE: PL MINIMINI (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2025.m3u8</link></item>
+<item><title>DE: PL NAT GEO PEOPLE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2029.m3u8</link></item>
+<item><title>DE: PL NAT GEO PEOPLE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2029.m3u8</link></item>
+<item><title>DE: PL NATIONAL GEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2031.ts</link></item>
+<item><title>DE: PL NATIONAL GEO (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2031.ts</link></item>
+<item><title>DE: PL NATIONAL GEO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2030.ts</link></item>
+<item><title>DE: PL NATIONALGEO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4271.ts</link></item>
+<item><title>DE: PL NOWA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2035.m3u8</link></item>
+<item><title>DE: PL NOWA TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2035.m3u8</link></item>
+<item><title>DE: PL NTL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2036.m3u8</link></item>
+<item><title>DE: PL NTL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2036.m3u8</link></item>
+<item><title>DE: PL NUTA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2037.m3u8</link></item>
+<item><title>DE: PL NUTA TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2037.m3u8</link></item>
+<item><title>DE: PL PARAMAUNT CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2038.ts</link></item>
+<item><title>DE: PL POLO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2039.m3u8</link></item>
+<item><title>DE: PL POLSAT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2045.ts</link></item>
+<item><title>DE: PL POLSAT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2040.ts</link></item>
+<item><title>DE: PL POLSAT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4244.ts</link></item>
+<item><title>DE: PL POLSAT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2041.ts</link></item>
+<item><title>DE: PL POLSAT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4250.ts</link></item>
+<item><title>DE: PL POLSAT CAFE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2042.ts</link></item>
+<item><title>DE: PL POLSAT DOKU HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2043.m3u8</link></item>
+<item><title>DE: PL POLSAT FILM HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2044.ts</link></item>
+<item><title>DE: PL POLSAT FILM (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2044.ts</link></item>
+<item><title>DE: PL POLSAT FOOD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4246.ts</link></item>
+<item><title>DE: PL POLSAT PLAY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2048.ts</link></item>
+<item><title>DE: PL POLSAT ROMANS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4248.ts</link></item>
+<item><title>DE: PL POLSAT VIASAT HISTORY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2055.ts</link></item>
+<item><title>DE: PL POLSAT VIASAT HISTORY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2055.ts</link></item>
+<item><title>DE: PL POWER TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2056.m3u8</link></item>
+<item><title>DE: PL POWER TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2056.m3u8</link></item>
+<item><title>DE: PL RTS UN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2057.m3u8</link></item>
+<item><title>DE: PL RTS UN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2057.m3u8</link></item>
+<item><title>DE: PL SCIFI </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2058.ts</link></item>
+<item><title>DE: PL SRF 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2059.m3u8</link></item>
+<item><title>DE: PL SRF ZWEI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2060.m3u8</link></item>
+<item><title>DE: PL SUDANCE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2061.ts</link></item>
+<item><title>DE: PL SUPER POLSAT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2062.ts</link></item>
+<item><title>DE: PL SUPER STACJA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2062.ts</link></item>
+<item><title>DE: PL TARVEL CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2063.m3u8</link></item>
+<item><title>DE: PL TARVEL CHANNEL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2063.m3u8</link></item>
+<item><title>DE: PL TNT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2067.ts</link></item>
+<item><title>DE: PL TNT (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2067.ts</link></item>
+<item><title>DE: PL TO!TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2068.m3u8</link></item>
+<item><title>DE: PL TO!TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2068.m3u8</link></item>
+<item><title>DE: PL TTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2069.m3u8</link></item>
+<item><title>DE: PL TTV (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2069.m3u8</link></item>
+<item><title>DE: PL TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2072.ts</link></item>
+<item><title>DE: PL TV INFO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2071.ts</link></item>
+<item><title>DE: PL TV PULS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2070.ts</link></item>
+<item><title>DE: PL TV4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2071.ts</link></item>
+<item><title>DE: PL TVN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2076.ts</link></item>
+<item><title>DE: PL TVN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2076.ts</link></item>
+<item><title>DE: PL TVN 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2073.ts</link></item>
+<item><title>DE: PL TVN 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4241.ts</link></item>
+<item><title>DE: PL TVN 7 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2074.ts</link></item>
+<item><title>DE: PL TVN FABULA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2075.ts</link></item>
+<item><title>DE: PL TVN STYLE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2077.m3u8</link></item>
+<item><title>DE: PL TVN TURBO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2078.m3u8</link></item>
+<item><title>DE: PL TVN TURBO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2075.ts</link></item>
+<item><title>DE: PL TVP 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2079.ts</link></item>
+<item><title>DE: PL TVP HISTORIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/2080.ts</link></item>
+<item><title>DE: PL TVP KULTURA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2081.m3u8</link></item>
+<item><title>DE: PL TVP KULTURE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4252.ts</link></item>
+<item><title>DE: PL TVP1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stars.managercw.com:8000/live/POLAND/POLAND/4253.ts</link></item>
+<item><title>DE: PL TVS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2083.m3u8</link></item>
+<item><title>DE: PLANET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2387.m3u8</link></item>
+<item><title>DE: POP10 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8</link></item>
+<item><title>DE: POP10 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.ts</link></item>
+<item><title>DE: PORTUGAL WEBCAM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.13.26.11:1935/live/santuario.stream/playlist.m3u8</link></item>
+<item><title>DE: POTSDAM TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2388.m3u8</link></item>
+<item><title>DE: PRISTAN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/flisacy_cam_35a158/flisacy_cam_35a158.stream/playlist.m3u8</link></item>
+<item><title>DE: PRO 7 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2390.m3u8</link></item>
+<item><title>DE: PRO 7 FUN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2389.m3u8</link></item>
+<item><title>DE: PRO 7 MAX </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2391.m3u8</link></item>
+<item><title>DE: PRO 7 MAXX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2392.m3u8</link></item>
+<item><title>DE: PRO MAX 7 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2393.m3u8</link></item>
+<item><title>DE: PRO MAXX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2394.m3u8</link></item>
+<item><title>DE: PROSIEBEN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33547.ts</link></item>
+<item><title>DE: PROSIEBEN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2396.m3u8</link></item>
+<item><title>DE: PROSIEBEN MAXX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33546.ts</link></item>
+<item><title>DE: PROSIEBEN MAXX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2397.m3u8</link></item>
+<item><title>DE: PULS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2398.m3u8</link></item>
+<item><title>DE: QVC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33471.ts</link></item>
+<item><title>DE: QVC </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4619.m3u8</link></item>
+<item><title>DE: QVC (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=ios-stream.qvc.de/qvc.ts</link></item>
+<item><title>DE: QVC BEAUTY & STYLE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4621.m3u8</link></item>
+<item><title>DE: QVC2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33470.ts</link></item>
+<item><title>DE: QVC2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8</link></item>
+<item><title>DE: RBB BERLIN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33461.ts</link></item>
+<item><title>DE: RBB BERLIN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4631.m3u8</link></item>
+<item><title>DE: RFO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4660.m3u8</link></item>
+<item><title>DE: RFO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8</link></item>
+<item><title>DE: RFO (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.ts</link></item>
+<item><title>DE: RNF </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8</link></item>
+<item><title>DE: ROMANCE TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2399.m3u8</link></item>
+<item><title>DE: ROMANCE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33510.ts</link></item>
+<item><title>DE: RTL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33554.ts</link></item>
+<item><title>DE: RTL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2402.m3u8</link></item>
+<item><title>DE: RTL (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2403.m3u8</link></item>
+<item><title>DE: RTL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33567.ts</link></item>
+<item><title>DE: RTL 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33553.ts</link></item>
+<item><title>DE: RTL 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2400.m3u8</link></item>
+<item><title>DE: RTL CRIME HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33564.ts</link></item>
+<item><title>DE: RTL CRIME (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2401.m3u8</link></item>
+<item><title>DE: RTL II </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2404.m3u8</link></item>
+<item><title>DE: RTL LIVING HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2405.m3u8</link></item>
+<item><title>DE: RTL NITRO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2406.m3u8</link></item>
+<item><title>DE: RTL NITRO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33562.ts</link></item>
+<item><title>DE: RTL PASSION HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33563.ts</link></item>
+<item><title>DE: RTL PASSION (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2408.m3u8</link></item>
+<item><title>DE: RTL PLUS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2409.m3u8</link></item>
+<item><title>DE: RTL PLUS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33565.ts</link></item>
+<item><title>DE: RTL TELEVISION </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2411.m3u8</link></item>
+<item><title>DE: RTL2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33566.ts</link></item>
+<item><title>DE: RTL2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/430.ts</link></item>
+<item><title>DE: SANTUARIO FATIMA PORTUGAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8</link></item>
+<item><title>DE: SAT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33552.ts</link></item>
+<item><title>DE: SAT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2412.m3u8</link></item>
+<item><title>DE: SAT 1 EMOTIONS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2413.m3u8</link></item>
+<item><title>DE: SAT 1 GOLD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33551.ts</link></item>
+<item><title>DE: SAT 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2414.m3u8</link></item>
+<item><title>DE: SAT1 GOLD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2415.m3u8</link></item>
+<item><title>DE: SEA BEACH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/playlist.m3u8</link></item>
+<item><title>DE: SIXX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33550.ts</link></item>
+<item><title>DE: SIXX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2416.m3u8</link></item>
+<item><title>DE: SKY 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2417.m3u8</link></item>
+<item><title>DE: SKY 13TH STREET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2418.m3u8</link></item>
+<item><title>DE: SKY 3D HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2420.m3u8</link></item>
+<item><title>DE: SKY A&E HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2461.m3u8</link></item>
+<item><title>DE: SKY ACTION HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2421.m3u8</link></item>
+<item><title>DE: SKY ARTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2422.m3u8</link></item>
+<item><title>DE: SKY ARTS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33493.ts</link></item>
+<item><title>DE: SKY ATLANTIC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2423.m3u8</link></item>
+<item><title>DE: SKY ATLANTIC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33519.ts</link></item>
+<item><title>DE: SKY ATLANTIC (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2462.m3u8</link></item>
+<item><title>DE: SKY AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2424.m3u8</link></item>
+<item><title>DE: SKY CLASSICA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2447.m3u8</link></item>
+<item><title>DE: SKY DMAX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2454.m3u8</link></item>
+<item><title>DE: SKY EMOTION HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2455.m3u8</link></item>
+<item><title>DE: SKY FOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2458.m3u8</link></item>
+<item><title>DE: SKY GOLDSTAR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2463.m3u8</link></item>
+<item><title>DE: SKY HISTORY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2464.m3u8</link></item>
+<item><title>DE: SKY HITS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2465.m3u8</link></item>
+<item><title>DE: SKY KINO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2466.m3u8</link></item>
+<item><title>DE: SKY KINO 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2467.m3u8</link></item>
+<item><title>DE: SKY KINO 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2468.m3u8</link></item>
+<item><title>DE: SKY KINO ACTION </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2469.m3u8</link></item>
+<item><title>DE: SKY KINO COMEDY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2470.m3u8</link></item>
+<item><title>DE: SKY KINO EMOTION </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2471.m3u8</link></item>
+<item><title>DE: SKY KINO HITS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2473.m3u8</link></item>
+<item><title>DE: SKY KINO KRIME </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2474.m3u8</link></item>
+<item><title>DE: SKY KINO NOSTALGIE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2475.m3u8</link></item>
+<item><title>DE: SKY KINO WELT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2476.m3u8</link></item>
+<item><title>DE: SKY KRIMI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2477.m3u8</link></item>
+<item><title>DE: SKY KRIMI </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33508.ts</link></item>
+<item><title>DE: SKY NAT GEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2479.m3u8</link></item>
+<item><title>DE: SKY NAT GEO PEOPLE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2480.m3u8</link></item>
+<item><title>DE: SKY NAT GEO WILD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2481.m3u8</link></item>
+<item><title>DE: SKY NOSTALGIE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2482.m3u8</link></item>
+<item><title>DE: SKY ROMANCE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2483.m3u8</link></item>
+<item><title>DE: SKY SELECT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2496.m3u8</link></item>
+<item><title>DE: SKY SELECT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2484.m3u8</link></item>
+<item><title>DE: SKY SELECT 10 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2493.m3u8</link></item>
+<item><title>DE: SKY SELECT 11 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2494.m3u8</link></item>
+<item><title>DE: SKY SELECT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2485.m3u8</link></item>
+<item><title>DE: SKY SELECT 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2486.m3u8</link></item>
+<item><title>DE: SKY SELECT 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2487.m3u8</link></item>
+<item><title>DE: SKY SELECT 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2488.m3u8</link></item>
+<item><title>DE: SKY SELECT 6 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2489.m3u8</link></item>
+<item><title>DE: SKY SELECT 7 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2490.m3u8</link></item>
+<item><title>DE: SKY SELECT 8 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2491.m3u8</link></item>
+<item><title>DE: SKY SELECT 9 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2492.m3u8</link></item>
+<item><title>DE: SKY STORE 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2828.ts</link></item>
+<item><title>DE: SKY STORE 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2824.ts</link></item>
+<item><title>DE: SKY SYFY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2524.m3u8</link></item>
+<item><title>DE: SKY TNT COMEDY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2525.m3u8</link></item>
+<item><title>DE: SKY TNT FILM HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2526.m3u8</link></item>
+<item><title>DE: SKY UNIVERSAL CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2528.m3u8</link></item>
+<item><title>DE: SKY WESTERN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2529.m3u8</link></item>
+<item><title>DE: SONNENKLAR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33459.ts</link></item>
+<item><title>DE: SOPOT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8</link></item>
+<item><title>DE: SPIEGEL GESCHICHTE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33489.ts</link></item>
+<item><title>DE: SPIEGEL GESICHTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2530.m3u8</link></item>
+<item><title>DE: SRF 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2538.m3u8</link></item>
+<item><title>DE: SRF 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2539.m3u8</link></item>
+<item><title>DE: SUPER RTL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33561.ts</link></item>
+<item><title>DE: SWR BADEN W HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4624.m3u8</link></item>
+<item><title>DE: SWR BW HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2542.m3u8</link></item>
+<item><title>DE: SWR FERNSEHEN BW </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33557.ts</link></item>
+<item><title>DE: SWR RHEINLAND PFALZ HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4625.m3u8</link></item>
+<item><title>DE: SYFY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33513.ts</link></item>
+<item><title>DE: SYFY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2543.m3u8</link></item>
+<item><title>DE: SYFY DEUTSCHLAND HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2544.m3u8</link></item>
+<item><title>DE: SYLT1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.67.13.54:1935/sylt1/sylt1_low.stream/chunklist.m3u8</link></item>
+<item><title>DE: SYLT1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4661.m3u8</link></item>
+<item><title>DE: SYLT1 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.ts</link></item>
+<item><title>DE: TAGESSCHAU24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4613.m3u8</link></item>
+<item><title>DE: TELE 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33544.ts</link></item>
+<item><title>DE: TELE 5 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2545.m3u8</link></item>
+<item><title>DE: TIDE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8</link></item>
+<item><title>DE: TIROL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8</link></item>
+<item><title>DE: TIROL TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8</link></item>
+<item><title>DE: TIROL TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=lb.hd-livestream.de:1935/live/TirolTV/master.ts</link></item>
+<item><title>DE: TLC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33494.ts</link></item>
+<item><title>DE: TLC (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2546.m3u8</link></item>
+<item><title>DE: TNT COMEDY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2547.m3u8</link></item>
+<item><title>DE: TNT FILM HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2549.m3u8</link></item>
+<item><title>DE: TNT FILM TCM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2548.m3u8</link></item>
+<item><title>DE: TV ASTA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item><title>DE: TV KUJAWY OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream.tvkujawy.pl:8080/live/broadcast.m3u8</link></item>
+<item><title>DE: TV MITTELRHEIN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8</link></item>
+<item><title>DE: TV TORUN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8</link></item>
+<item><title>DE: TV TOURING </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4662.m3u8</link></item>
+<item><title>DE: TV TOURING SCHWEINFURT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8</link></item>
+<item><title>DE: TV TRWAM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8</link></item>
+<item><title>DE: TV W </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4663.m3u8</link></item>
+<item><title>DE: TV38 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8</link></item>
+<item><title>DE: TVA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_2/playlist.m3u8</link></item>
+<item><title>DE: TVO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.208.176:8000/live/mustafaabi/citymax5828/4666.m3u8</link></item>
+<item><title>DE: TVO OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</link></item>
+<item><title>DE: TVO OPT 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.ts</link></item>
+<item><title>DE: TVO OPT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=tvo.vedge.infomaniak.com/livecast/tvo/master.ts</link></item>
+<item><title>DE: TWOJA TV OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://94.246.169.19/ttv_hls/live_270p/index.m3u8</link></item>
+<item><title>DE: TWOJA TV OPT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://94.246.169.19/ttv_hls/live_720p/index.m3u8</link></item>
+<item><title>DE: UNIVERSAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2551.m3u8</link></item>
+<item><title>DE: VIVA/COMEDY CENTRAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33502.ts</link></item>
+<item><title>DE: VOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33549.ts</link></item>
+<item><title>DE: VOX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2552.m3u8</link></item>
+<item><title>DE: VOX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33560.ts</link></item>
+<item><title>DE: W24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ms03.w24.at/W24/smil:liveevent.smil/chunklist_b2176000_slger.m3u8</link></item>
+<item><title>DE: WDR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2553.m3u8</link></item>
+<item><title>DE: WDR AACHEN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33464.ts</link></item>
+<item><title>DE: WDR BONN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33463.ts</link></item>
+<item><title>DE: WDR DUISBURG HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33462.ts</link></item>
+<item><title>DE: WELT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33457.ts</link></item>
+<item><title>DE: WELT DER WUNDER </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.vidoo.de/live/weltderwunder/f1tv.m3u8</link></item>
+<item><title>DE: WELT DER WUNDER (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=live.vidoo.de/live/weltderwunder/master.ts</link></item>
+<item><title>DE: WLADYSLAWOWO BEACH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hoktastream2.webcamera.pl/wladyslawowo_cam_459a14/wladyslawowo_cam_459a14.stream/playlist.m3u8</link></item>
+<item><title>DE: ZDF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33570.ts</link></item>
+<item><title>DE: ZDF (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2554.m3u8</link></item>
+<item><title>DE: ZDF INFO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2555.m3u8</link></item>
+<item><title>DE: ZDF NEO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2556.m3u8</link></item>
+<item><title>DE: ZDF NEO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/ss/123/33569.ts</link></item>
